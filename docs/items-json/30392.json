@@ -1,0 +1,77 @@
+{
+    "id": 30392,
+    "name": "Nature's reprisal (uncharged)",
+    "last_updated": "2026-06-04",
+    "incomplete": false,
+    "members": true,
+    "tradeable": false,
+    "tradeable_on_ge": false,
+    "stackable": false,
+    "stacked": null,
+    "noted": false,
+    "noteable": false,
+    "linked_id_item": null,
+    "linked_id_noted": null,
+    "linked_id_placeholder": null,
+    "placeholder": false,
+    "equipable": true,
+    "equipable_by_player": true,
+    "equipable_weapon": true,
+    "cost": 50000,
+    "lowalch": 20000,
+    "highalch": 30000,
+    "weight": 1.814,
+    "buy_limit": null,
+    "quest_item": false,
+    "release_date": "2024-11-27",
+    "duplicate": false,
+    "examine": "A piece of living nature, with a will for vengeance.",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABw0lEQVR4XtXVMUvDQBQH8NzYIUOGgBQCoZQgpUiQBmlJIbRQqNShEBddXbqISBFHB8HNzclBEAS/5bPvnpfk7hLU4S71waNpSsmv7/+SOs6figH1XhSD8WUHfN/bFxSD1b1bgOIwbBNFmKtnb79AmxdroJ+WlUDXr1ZADLzA4d0MY7B+cOHmzQoIi1C+BhM4BudPLty+WwQFR4RBlIBVcRe7hd5++MU5wyAsHYV9EBEgf3Rtg7DqUXhutunA3afPjy0/HCkiFdVLHFhuXeinJcjSlByHLiSjurvo0jTmGNGWplTeYRgT/7v4BkVRqIEMT4lJd5jaKsjwlGRMMhpAns+KaY1HQ+iF3VqQwSlVH4jUeDGxU6Ln00SZkLEp0UKrXX5KmHw1g/SklQWvFmFO5xM4W0x5hCrIYHR1xSCbHMN6mXFYEg9geNiT9srylBgssnGxP2J3EKajrMAYjwpBCCgjIkA1PovToj3CqORpUJwqyNJONccUDyMNpX7bUNHFBSro+vwYX8X0VGzZxorxi0f9kL8iEBvfI6yK0oHGSv31ciOuDmR0t9SnuvyEb3239GqCtYrCqsJEbEaj+23Jkf6D+gIX7aVFjTuD6gAAAABJRU5ErkJggg==",
+    "wiki_name": "Nature's reprisal (Uncharged)",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Nature's_reprisal#Uncharged",
+    "equipment": {
+        "attack_stab": 95,
+        "attack_slash": 0,
+        "attack_crush": 0,
+        "attack_magic": 45,
+        "attack_ranged": 155,
+        "defence_stab": 0,
+        "defence_slash": 0,
+        "defence_crush": 0,
+        "defence_magic": 0,
+        "defence_ranged": 0,
+        "melee_strength": 103,
+        "ranged_strength": 92,
+        "magic_damage": 12,
+        "prayer": 0,
+        "slot": "2h",
+        "requirements": null
+    },
+    "weapon": {
+        "attack_speed": 5,
+        "weapon_type": "multi-style",
+        "stances": [
+            {
+                "combat_style": "melee",
+                "attack_type": "stab",
+                "attack_style": "aggressive",
+                "experience": "strength",
+                "boosts": null
+            },
+            {
+                "combat_style": "ranged",
+                "attack_type": null,
+                "attack_style": null,
+                "experience": "ranged",
+                "boosts": null
+            },
+            {
+                "combat_style": "magic",
+                "attack_type": "defensive casting",
+                "attack_style": "magic",
+                "experience": "magic and defence",
+                "boosts": null
+            }
+        ]
+    }
+}

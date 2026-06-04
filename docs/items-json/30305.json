@@ -1,0 +1,84 @@
+{
+    "id": 30305,
+    "name": "Arclight (inactive)",
+    "last_updated": "2026-06-04",
+    "incomplete": false,
+    "members": true,
+    "tradeable": false,
+    "tradeable_on_ge": false,
+    "stackable": false,
+    "stacked": null,
+    "noted": false,
+    "noteable": false,
+    "linked_id_item": null,
+    "linked_id_noted": null,
+    "linked_id_placeholder": 30306,
+    "placeholder": false,
+    "equipable": true,
+    "equipable_by_player": true,
+    "equipable_weapon": true,
+    "cost": 500,
+    "lowalch": 200,
+    "highalch": 300,
+    "weight": 1.814,
+    "buy_limit": null,
+    "quest_item": false,
+    "release_date": "2024-10-23",
+    "duplicate": false,
+    "examine": "The magical sword is inactive and requires more ancient shards to regain its power.",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC90lEQVR4XuWX2U/bQBDG2dcKqUUUVVAEtAECBGgo992QA+w491WCc4dAItRw9AGpD/3Tv+6M4ySNEKogxkgd6VPsjbz78zezY3tg4P8Ogd4RG0Ngc3cPrwRKwOMPoHl/z0DuqSk7oQS8xyeoX9/g4kcTB16vnS4J+BRFwtzisnnNLpkO2eBSB4bcIZdsh8nkCwzkV1V7YQhAjURRv5Gpku68CpjGzR2nykYYCsEwp8Uip8p2GCUcRiSVau8qm3oO9RQBvVJFvlqTqbrFWbnyEu4YC/eOUW8hmFzl3ICpVCRQ2Wp3BNa3tvBperoLSuDQ50O2VGJHctUqg9Expc5CIIGApkGLJ7CwtIw3g4MtKMHFS24QhC6dybaOj0Mhq4AEUroONRZDOpdDLJNhKNfyF1Svrhjo5/lvhiEQAiLHLAAy60XwQgQyMz+P5NkZEtks67r8Cw39TgKU8b1QZGAzVab6AGRM5FxYwOjYGN6PjLAy+TxCMmUOpxOOWSeqmSbK6StWqV5H8fKSnZyZm5N9KMLHq5ubLbAnh8DOwQEXryKbG03oDwZZBEWukANaIoFc/KKtcqOBkBxTo1Fs7e3Dd3KCjZ3dtkNPdMkoXHpX8QSO4ZXt/4N06N3wMMsnz0l7Hk+nXkpGvcwtLuLz7CzGJyfhdLl4nu6Hae9K/xiC7zR/XsORvEOadHR8vA1Eejs0hGg63Va+VsPKxgZW1tfhXlvD0spXhuve8s8AougUI4m2twli6qN0YWxiAhEJVJBABNZ7XZ9gjDAnMibrgLncbumcwu7RlnbI4p2mApbtoBvg7+v7HgYQdWN6YFKxB7QQvgUCDONeXZX9aBmTDkcL3tIwXsypyBXpAnXpcDIllWQ4+n/38BABVetvih4OwYtq8TgUuZWpSCk1qjzXYvE2AP3uHx11nVsWAmk9x24QFO24mCze7seBCbS2vf0yQMmsLiEyCEogvxp85IvhobG+h+CGRzotFFiPLfzQmAVhUV95TpgQLw3zB9vsTdKSJM4bAAAAAElFTkSuQmCC",
+    "wiki_name": "Arclight (Inactive)",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Arclight#Inactive",
+    "equipment": {
+        "attack_stab": 10,
+        "attack_slash": 16,
+        "attack_crush": -2,
+        "attack_magic": 0,
+        "attack_ranged": 0,
+        "defence_stab": 0,
+        "defence_slash": 3,
+        "defence_crush": 2,
+        "defence_magic": 2,
+        "defence_ranged": 0,
+        "melee_strength": 13,
+        "ranged_strength": 0,
+        "magic_damage": 0,
+        "prayer": 0,
+        "slot": "weapon",
+        "requirements": null
+    },
+    "weapon": {
+        "attack_speed": 5,
+        "weapon_type": "slash_sword",
+        "stances": [
+            {
+                "combat_style": "chop",
+                "attack_type": "slash",
+                "attack_style": "accurate",
+                "experience": "attack",
+                "boosts": null
+            },
+            {
+                "combat_style": "slash",
+                "attack_type": "slash",
+                "attack_style": "aggressive",
+                "experience": "strength",
+                "boosts": null
+            },
+            {
+                "combat_style": "lunge",
+                "attack_type": "stab",
+                "attack_style": "controlled",
+                "experience": "shared",
+                "boosts": null
+            },
+            {
+                "combat_style": "block",
+                "attack_type": "slash",
+                "attack_style": "defensive",
+                "experience": "defence",
+                "boosts": null
+            }
+        ]
+    }
+}

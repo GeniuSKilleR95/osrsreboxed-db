@@ -1,0 +1,84 @@
+{
+    "id": 33296,
+    "name": "Demonic sceptre",
+    "last_updated": "2026-06-04",
+    "incomplete": false,
+    "members": true,
+    "tradeable": true,
+    "tradeable_on_ge": true,
+    "stackable": false,
+    "stacked": null,
+    "noted": false,
+    "noteable": true,
+    "linked_id_item": null,
+    "linked_id_noted": 33297,
+    "linked_id_placeholder": 33298,
+    "placeholder": false,
+    "equipable": true,
+    "equipable_by_player": true,
+    "equipable_weapon": true,
+    "cost": 1000,
+    "lowalch": 400,
+    "highalch": 600,
+    "weight": 1.814,
+    "buy_limit": null,
+    "quest_item": false,
+    "release_date": "2026-04-15",
+    "duplicate": false,
+    "examine": "The sceptre of a Demonic Relic Hunter.",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABrElEQVR4Xu2W0UoCURCGd96im0AiIiJEpBBDURRDxETDTBLBMpNMRMwyExExr8Q36F16hB6oi4l/Vt1FJOrCs0foh4FlOLAf/8w5/IaxmSJe7jgo4mq1xBpBEVcqxRmQvRyTCZRMnHKhcMGZTILj8aiTUMSdTkMgyuWCQGWzZwLkcblUQK0aC/FkMuTB4JmbzXsuFi9VAREPhy/c67X4qV1fgL2NXgUG/W63KS49th7WPTbiRuOOc7m0jARVr9/ydDoSGADWajd8XbriWCy8cGjNLpEsLRxApVJxHo973O+3xRGAAfTjfUvOrdkhiGR54RKcgCOAwajwFqGXz59L3+8/UrdHgMLi4se48gAECKDmFYkE5SlQ4BJk3TS4AiB8Y4yh0Al/fQYE2utxq3LJMKyFNcHs34GATxZ7/kAqAbLLfpvsYHDMEaDVIrUj+52Ife7tmWNaiDh0vMsB745eUFH/noBpBRUP7gvYP9TPIk6GDwRMK6h09FDAtINCmVBagNEiWzmcwecysxVg7IFu+ZRikcAgqiAlaOASZCUETVyyEoKCDP43aQWzsfoGGpc7gyPBw4wAAAAASUVORK5CYII=",
+    "wiki_name": "Demonic sceptre",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Demonic_sceptre",
+    "equipment": {
+        "attack_stab": 0,
+        "attack_slash": 0,
+        "attack_crush": 0,
+        "attack_magic": 0,
+        "attack_ranged": 0,
+        "defence_stab": 0,
+        "defence_slash": 0,
+        "defence_crush": 0,
+        "defence_magic": 0,
+        "defence_ranged": 0,
+        "melee_strength": 0,
+        "ranged_strength": 0,
+        "magic_damage": 0,
+        "prayer": 0,
+        "slot": "weapon",
+        "requirements": null
+    },
+    "weapon": {
+        "attack_speed": 4,
+        "weapon_type": "spiked",
+        "stances": [
+            {
+                "combat_style": "pound",
+                "attack_type": "crush",
+                "attack_style": "accurate",
+                "experience": "attack",
+                "boosts": null
+            },
+            {
+                "combat_style": "pummel",
+                "attack_type": "crush",
+                "attack_style": "aggressive",
+                "experience": "strength",
+                "boosts": null
+            },
+            {
+                "combat_style": "spike",
+                "attack_type": "stab",
+                "attack_style": "controlled",
+                "experience": "shared",
+                "boosts": null
+            },
+            {
+                "combat_style": "block",
+                "attack_type": "crush",
+                "attack_style": "defensive",
+                "experience": "defence",
+                "boosts": null
+            }
+        ]
+    }
+}

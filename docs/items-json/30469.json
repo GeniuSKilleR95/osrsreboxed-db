@@ -1,0 +1,77 @@
+{
+    "id": 30469,
+    "name": "Raging echoes adamant trophy",
+    "last_updated": "2026-06-04",
+    "incomplete": false,
+    "members": true,
+    "tradeable": false,
+    "tradeable_on_ge": false,
+    "stackable": false,
+    "stacked": null,
+    "noted": false,
+    "noteable": false,
+    "linked_id_item": null,
+    "linked_id_noted": null,
+    "linked_id_placeholder": 30470,
+    "placeholder": false,
+    "equipable": true,
+    "equipable_by_player": true,
+    "equipable_weapon": true,
+    "cost": 1,
+    "lowalch": 0,
+    "highalch": 0,
+    "weight": 1.5,
+    "buy_limit": null,
+    "quest_item": false,
+    "release_date": "2024-11-27",
+    "duplicate": false,
+    "examine": "An Adamant Trophy awarded for participating in Leagues V: Raging Echoes.",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADSElEQVR4XsWX3WoaURSFPQ+QCy8EEQQZgsggImFEFEMGxZCIliSIKUkbJD8NlEIthRAIbSE37U0fps/Umz5CoRe7rn26neNxxtEa44aFccaZ883aP3OSSISGomltNBQdXR/R/tkBNftN8o/9TUIpGt4PGebswxn13/ape9FloHIu9x9QKzms6PXdBVVaFXKKziRdg3cDKjfKVgrnKbgfHujk9iTkXGxoGCycTCUnN9ir1/lzp1SiXDZLqWSSMuk0C9+hbcdhFfJ5/i7Xnr5/yS5DgNrt7S4Dpah3+YKKtSJfpNOjqFockuee03GnQ23fp5rn8cJQ0XVZgBUgkek00n/46pA/d3xvUSjFtWIDnZ88TAlwEEChWvGK3bKdAyCOQeIYGgUu5cv5RaAUP0Uur0EgWC0gWBj6tvfIMiFlYVtyLzycPGB70LYeOjK0Q1K8o+8jLmYsDpB29W4igYsCggv1Tj20ETBCJG2xQLC0tl/jHwPma2aLgQDR+/WHJUDytwDBDaQCEFgU9QIw1BFqE5/2Q8cCIWW4ibQ87BUgUfbn7xm3uH6czAQKKQGQdBkg4JjpUlAac0PxjdCimND4bjrUrHwk3xvNuGUC4WEA5VZcvs+P7RSNxufgSiqbYrfMlMW4hNBQSBkuloIWANE8IHxilm2lt9gdlIG4jgcF7AIpM0Nx6gBmdliUBAgChEhSZApw0vZLACGCm5gtHtX280DgNiSdJ24tCZRImPMjDGincEr5bIvS22muD8gEwUv68uGSmyMMZmkgHfqVggI10+Q6egeAV4ntCCAgc8iaWgkGA1K2IYCyXWhUq9YiirtIfifHbdkrLRjBgMQiKFp7cQxTOSbXYAgiRbKPmr7nyhG8dE0g85wcl2MyENGlwevjSSMq/4o+j+tk9K+zxLWwgfjkUOH5H9dL15u0uu2cORBnr11LjCfvrt4Fzi4Y5epaYxrIPhvu6lpDv/eigDYQeiuxYaDpiQygYI/8xJ0UHxri6tM1vXm85VmD7QSGIAanbCueCUwxxM2XGwYCGF6e8i83nEKbA2p6UK4t9MwRlQ/KVGqVyPVdKjQK5HjjjVkpRxk3w2//Z6qroH7i9Gztbs6WONnXLhp/AZbAgdhrA3qRAAAAAElFTkSuQmCC",
+    "wiki_name": "Raging echoes adamant trophy",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Raging_echoes_adamant_trophy",
+    "equipment": {
+        "attack_stab": -100,
+        "attack_slash": -100,
+        "attack_crush": -50,
+        "attack_magic": 0,
+        "attack_ranged": 0,
+        "defence_stab": 0,
+        "defence_slash": 0,
+        "defence_crush": 0,
+        "defence_magic": 0,
+        "defence_ranged": 0,
+        "melee_strength": -10,
+        "ranged_strength": 0,
+        "magic_damage": 0,
+        "prayer": 0,
+        "slot": "2h",
+        "requirements": null
+    },
+    "weapon": {
+        "attack_speed": 4,
+        "weapon_type": "blunt",
+        "stances": [
+            {
+                "combat_style": "pound",
+                "attack_type": "crush",
+                "attack_style": "accurate",
+                "experience": "attack",
+                "boosts": null
+            },
+            {
+                "combat_style": "pummel",
+                "attack_type": "crush",
+                "attack_style": "aggressive",
+                "experience": "strength",
+                "boosts": null
+            },
+            {
+                "combat_style": "block",
+                "attack_type": "crush",
+                "attack_style": "defensive",
+                "experience": "defence",
+                "boosts": null
+            }
+        ]
+    }
+}

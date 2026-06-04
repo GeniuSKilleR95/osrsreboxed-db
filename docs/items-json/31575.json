@@ -1,0 +1,77 @@
+{
+    "id": 31575,
+    "name": "Camphor blowpipe",
+    "last_updated": "2026-06-04",
+    "incomplete": false,
+    "members": true,
+    "tradeable": false,
+    "tradeable_on_ge": false,
+    "stackable": false,
+    "stacked": null,
+    "noted": false,
+    "noteable": false,
+    "linked_id_item": null,
+    "linked_id_noted": null,
+    "linked_id_placeholder": 31576,
+    "placeholder": false,
+    "equipable": true,
+    "equipable_by_player": true,
+    "equipable_weapon": true,
+    "cost": 2200,
+    "lowalch": 880,
+    "highalch": 1320,
+    "weight": 0.5,
+    "buy_limit": null,
+    "quest_item": false,
+    "release_date": "2025-11-19",
+    "duplicate": false,
+    "examine": "Breath powered dart delivering system with a hint of camphor.",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACB0lEQVR4Xu2W30obURDGPQ/Qy4AIhRAkiIgEUULCCiGBEMM2mNCuIRoJq0lo10atpLSJfxFLW0rTIiJ2qYgKCva2l62P4CN9ZSbsalLoXXYE+8Fwrg7nx8w3c6av7+FK4TbEpfDTbuBgq4w184k0lML3jQjWzRF8aZowpqIMFPL7JaAU7EYYB68nUNIDSGsDLoyHQLdeoRJZz4Ko5gaRDPfLwFzbS/h1ZOH32Q7OPy1DC/kwHHgkAeNI4eayjh/7ddibM+j3CcMQyOnHGvZWC6gvTnMImVjhsvUKhzsVNJ/n8KaSxfF2AUfrhgSQYr+03pawUtI57prbw3K1Hzx5v4Td5TyXp5pPdkB4CnP1dQ323gsGoQlsPo17nRFHChefV9kvBFMrppHXNTkY6qL9jQW3RJnEhBzM8TuLzevAJKKjcjDfdqv4UC+6MKJlon/JGXa5ZFiipUntR6mD5rMxzsjoED3e2dbdt3okxV7ZfmnAmk3xHhMLD0tkhaRcrxAMlUgbH8LjAZ8L1H2jR2qXiLJCs4UGHcFEQsEOGI+AFJu2bCQ4yC96bAzjIwEZGMoKmZfamfxC84UMPOgX2vTMbBzWTMr9BlKTISkYkkJ+SmOoWiGNZjnHGbq77XXf6LEU5jMxjpU5naHIP0LZISnM6ZMwklE+nW4TgnH094YnCNPWvQH5r3/oD0z+mpH0W1vZAAAAAElFTkSuQmCC",
+    "wiki_name": "Camphor blowpipe (Charged)",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Camphor_blowpipe#Charged",
+    "equipment": {
+        "attack_stab": 0,
+        "attack_slash": 0,
+        "attack_crush": 0,
+        "attack_magic": 0,
+        "attack_ranged": 12,
+        "defence_stab": 0,
+        "defence_slash": 0,
+        "defence_crush": 0,
+        "defence_magic": 0,
+        "defence_ranged": 0,
+        "melee_strength": 0,
+        "ranged_strength": 2,
+        "magic_damage": 0,
+        "prayer": 0,
+        "slot": "2h",
+        "requirements": null
+    },
+    "weapon": {
+        "attack_speed": 3,
+        "weapon_type": "thrown",
+        "stances": [
+            {
+                "combat_style": "accurate",
+                "attack_type": null,
+                "attack_style": null,
+                "experience": "ranged",
+                "boosts": "accuracy and damage"
+            },
+            {
+                "combat_style": "rapid",
+                "attack_type": null,
+                "attack_style": null,
+                "experience": "ranged",
+                "boosts": "attack speed by 1 tick"
+            },
+            {
+                "combat_style": "longrange",
+                "attack_type": null,
+                "attack_style": null,
+                "experience": "ranged and defence",
+                "boosts": "attack range by 2 squares"
+            }
+        ]
+    }
+}

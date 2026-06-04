@@ -1,0 +1,53 @@
+{
+    "id": 14706,
+    "name": "Strange creature",
+    "last_updated": "2026-06-04",
+    "incomplete": true,
+    "members": true,
+    "release_date": "2025-07-23",
+    "combat_level": 93,
+    "size": 1,
+    "hitpoints": 100,
+    "max_hit": 6,
+    "attack_type": [
+        "crush"
+    ],
+    "attack_speed": 4,
+    "aggressive": true,
+    "poisonous": false,
+    "venomous": false,
+    "immune_poison": false,
+    "immune_venom": false,
+    "attributes": [],
+    "category": [
+        "custodian stalker"
+    ],
+    "slayer_monster": true,
+    "slayer_level": 54,
+    "slayer_xp": 100.0,
+    "slayer_masters": [
+        "chaeldar",
+        "nieve"
+    ],
+    "duplicate": false,
+    "examine": "What is that?",
+    "wiki_name": "Strange creature (Shadows of Custodia)",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Strange_creature_(Shadows_of_Custodia)",
+    "attack_level": 95,
+    "strength_level": 55,
+    "defence_level": 45,
+    "magic_level": 25,
+    "ranged_level": 1,
+    "attack_bonus": 0,
+    "strength_bonus": 0,
+    "attack_magic": 5,
+    "magic_bonus": 0,
+    "attack_ranged": 0,
+    "ranged_bonus": 0,
+    "defence_stab": 30,
+    "defence_slash": -10,
+    "defence_crush": 50,
+    "defence_magic": 35,
+    "defence_ranged": 0,
+    "drops": []
+}

@@ -1,0 +1,84 @@
+{
+    "id": 30428,
+    "name": "Raging echoes cane",
+    "last_updated": "2026-06-04",
+    "incomplete": false,
+    "members": true,
+    "tradeable": true,
+    "tradeable_on_ge": true,
+    "stackable": false,
+    "stacked": null,
+    "noted": false,
+    "noteable": true,
+    "linked_id_item": null,
+    "linked_id_noted": 30515,
+    "linked_id_placeholder": 30429,
+    "placeholder": false,
+    "equipable": true,
+    "equipable_by_player": true,
+    "equipable_weapon": true,
+    "cost": 1000,
+    "lowalch": 400,
+    "highalch": 600,
+    "weight": 1.814,
+    "buy_limit": null,
+    "quest_item": false,
+    "release_date": "2025-01-15",
+    "duplicate": false,
+    "examine": "The cane of a Raging Echoes relic hunter.",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAB4UlEQVR4Xu2XTUsCQRzGnWOHDh0CCYQlRKRDLGKEohgJYpGSIRlmYipKZb6wZZYVYRkhREJ0qIg6du/eNwg6d+oT9BWe+s9gb5c6ORP0g2FZ2MOP5//s7KzJ9Ddg+LqkwhAIxTHi9sPlDcDtm5QpxZDK1xBfrGB2oQDveAg9qSUupGuaDCmG6t4ZihstTEWSGA9G0ZtZ5UvS+Bh2j64RS5YwM5fHRDjBryRms+vQnZ5uSzFYnl4w8PAM8/0jcqUGl6NOUZ+0QZuM8YnR7LVuUG9ewthuwzE6xktOq6+vv9spEQyb++e8TyRECVHZaYQkJyWlZvsWO4dXXGrFaKJcO+ZS07NZGUIE4x3qjI3E6J7SkiREMJxc3PFtIJ/ZQS5dRyJWkilEiJKTTCHX4NfwVFJGsT8QaTBUCkcoLh3wlPxjEblSAgaj2HpPacQh3rjvT3UZkRSlZNeCsvvUgcGjL8M5NA+bxa9CSoSQcthjsFp8aknptii0AZc6Uu7hHIat07CYnepI0cYZCaXVefO2q2f/Ur9ASH3+vCixR22tnSKbqiE0kVAhJYKhZrSRXqiq8s0j3v5gKidIJQxVRkcwrJePkYxXVEmJECcE6Weor4gTgtsVUEuq0yVF+iROnj/JvAI7FE1IyMk6ZAAAAABJRU5ErkJggg==",
+    "wiki_name": "Raging echoes cane",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Raging_echoes_cane",
+    "equipment": {
+        "attack_stab": 0,
+        "attack_slash": 0,
+        "attack_crush": 0,
+        "attack_magic": 0,
+        "attack_ranged": 0,
+        "defence_stab": 0,
+        "defence_slash": 0,
+        "defence_crush": 0,
+        "defence_magic": 0,
+        "defence_ranged": 0,
+        "melee_strength": 0,
+        "ranged_strength": 0,
+        "magic_damage": 0,
+        "prayer": 0,
+        "slot": "weapon",
+        "requirements": null
+    },
+    "weapon": {
+        "attack_speed": 4,
+        "weapon_type": "spiked",
+        "stances": [
+            {
+                "combat_style": "pound",
+                "attack_type": "crush",
+                "attack_style": "accurate",
+                "experience": "attack",
+                "boosts": null
+            },
+            {
+                "combat_style": "pummel",
+                "attack_type": "crush",
+                "attack_style": "aggressive",
+                "experience": "strength",
+                "boosts": null
+            },
+            {
+                "combat_style": "spike",
+                "attack_type": "stab",
+                "attack_style": "controlled",
+                "experience": "shared",
+                "boosts": null
+            },
+            {
+                "combat_style": "block",
+                "attack_type": "crush",
+                "attack_style": "defensive",
+                "experience": "defence",
+                "boosts": null
+            }
+        ]
+    }
+}

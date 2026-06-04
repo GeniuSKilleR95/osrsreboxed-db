@@ -1,0 +1,84 @@
+{
+    "id": 30340,
+    "name": "Crystal dagger (perfected)",
+    "last_updated": "2026-06-04",
+    "incomplete": false,
+    "members": true,
+    "tradeable": false,
+    "tradeable_on_ge": false,
+    "stackable": false,
+    "stacked": null,
+    "noted": false,
+    "noteable": false,
+    "linked_id_item": null,
+    "linked_id_noted": null,
+    "linked_id_placeholder": 30341,
+    "placeholder": false,
+    "equipable": true,
+    "equipable_by_player": true,
+    "equipable_weapon": true,
+    "cost": 30000,
+    "lowalch": 12000,
+    "highalch": 18000,
+    "weight": 0.453,
+    "buy_limit": null,
+    "quest_item": false,
+    "release_date": "2024-11-27",
+    "duplicate": false,
+    "examine": "A crystalline dagger.",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACNElEQVR4Xs2VYWtSURjHPV8hIjZx7LqWbBJDxoYkky6TxImayiaC2xDZkjFWG7JYSRSsiN5Ub3rTF+hj/vP/nI7czvZm0bnHPxwu96Ken7/nOc9NJGKNgv3EYxRGD1OYESiFs3QSJ8G8AOWCwCeUwvHivNgh1EwA2XY8AikMZ8eOwmFqTkBOgyQu/jS0JyCFTvK+2Hm9vCBQvHoCUng+dw/9hdvteAGK2jlPp/za6aUeCAytjDOL0tBvH3kB0vOGRgjAchGKdt5NwBwCcfTb41/PmqvJ5h9WAoGiGd7TEp85AlI47VVw2AojUPodRQsfVwOxYmCMGYcNPSlLp4TRoC5X3tOAATEwpmeiIA5gGIX9RhEvD6oYn7TF1qfVtEBwsV+iDewQxGRypHcKYufyqInrV12BMMu2Yn/7P0dvFuazaJfzAjXslsXSeb8WpxVGYXlpCetrawIz2N2eArF8BGJfaWjnUVjJZLCZy+FpoYBnYSil+jzq4cvlAb696eP7eIAf74/x83roGkrhcTaLJxsb2C4WUSuX0apW0Wk20dvbm/ZMdDksmZISbeXzYqWxU8FuvY5uu31jc3vZv/SP+fufmhJVSqWpFQPjYHM7SpqVR7pb20ItXJd5wxLRSrREjkFMlIAQgq8FM2t4cmglZhhGiRUe50ZpU6B4nDn8fn29iBvGRMlcoSnaMUCeYBj9WmDZbgOyPx1T9MuTpjh9r160fAMx+tjPEFAioQGcT967xwfMbxOJ1Aw757AhAAAAAElFTkSuQmCC",
+    "wiki_name": "Crystal dagger (perfected)",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Crystal_dagger_(perfected)",
+    "equipment": {
+        "attack_stab": 20,
+        "attack_slash": 140,
+        "attack_crush": -4,
+        "attack_magic": 1,
+        "attack_ranged": 0,
+        "defence_stab": 0,
+        "defence_slash": 0,
+        "defence_crush": 0,
+        "defence_magic": 1,
+        "defence_ranged": 0,
+        "melee_strength": 40,
+        "ranged_strength": 0,
+        "magic_damage": 0,
+        "prayer": 3,
+        "slot": "weapon",
+        "requirements": null
+    },
+    "weapon": {
+        "attack_speed": 4,
+        "weapon_type": "stab_sword",
+        "stances": [
+            {
+                "combat_style": "stab",
+                "attack_type": "stab",
+                "attack_style": "accurate",
+                "experience": "attack",
+                "boosts": null
+            },
+            {
+                "combat_style": "lunge",
+                "attack_type": "stab",
+                "attack_style": "aggressive",
+                "experience": "strength",
+                "boosts": null
+            },
+            {
+                "combat_style": "slash",
+                "attack_type": "slash",
+                "attack_style": "aggressive",
+                "experience": "strength",
+                "boosts": null
+            },
+            {
+                "combat_style": "block",
+                "attack_type": "stab",
+                "attack_style": "defensive",
+                "experience": "defence",
+                "boosts": null
+            }
+        ]
+    }
+}

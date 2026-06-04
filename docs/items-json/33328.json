@@ -1,0 +1,77 @@
+{
+    "id": 33328,
+    "name": "Uncharged trident (e) (o)",
+    "last_updated": "2026-06-04",
+    "incomplete": false,
+    "members": true,
+    "tradeable": true,
+    "tradeable_on_ge": false,
+    "stackable": false,
+    "stacked": null,
+    "noted": false,
+    "noteable": false,
+    "linked_id_item": null,
+    "linked_id_noted": null,
+    "linked_id_placeholder": null,
+    "placeholder": false,
+    "equipable": true,
+    "equipable_by_player": true,
+    "equipable_weapon": true,
+    "cost": 98000,
+    "lowalch": 39200,
+    "highalch": 58800,
+    "weight": 1.814,
+    "buy_limit": null,
+    "quest_item": false,
+    "release_date": "2026-04-15",
+    "duplicate": false,
+    "examine": "It needs to be charged with death runes, chaos runes, fire runes and coins.",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABK0lEQVR4Xu2WMYvCQBBGM2WKLbYIBCEQRCzFxs7qqiuusbGxsbCxsLf0n4/Ozg0zCQo27mzAB0E3IeTxzReyVfVl2gDy8WqdFcB9rLGrqn8JwFNT46qWtQuAf6FOAuu+T7+7yGtXKU2FU/sNNrls2BQAt0ZKxrfJNz7AQ7QP1HRI7NKE9J/O0Sh5nB+HJc6PJOThdj3sViakyJSIHdXy0R/pUFYhBvA2C2mElM61ZTkScii2oD3SVABnbTs4P77ro0h5tcSaknNaFk6miRF/QiFSdnwkpiN1h5MSqfFVJyYhVYQYf/uGb5+7GEtQ2UXOXUrewL7rynsDrdT4qhMspZ8bdyDtrxbzue83cAgLiBSN0L3sUnQ6jl4bvWeIGEkVIaRk3Ze/R1Eyk+MOkVDVayhb6NwAAAAASUVORK5CYII=",
+    "wiki_name": "Trident of the seas (e) (o) (Uncharged)",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Trident_of_the_seas_(e)_(o)#Uncharged",
+    "equipment": {
+        "attack_stab": 0,
+        "attack_slash": 0,
+        "attack_crush": 0,
+        "attack_magic": 25,
+        "attack_ranged": 0,
+        "defence_stab": 2,
+        "defence_slash": 3,
+        "defence_crush": 1,
+        "defence_magic": 15,
+        "defence_ranged": 0,
+        "melee_strength": 0,
+        "ranged_strength": 0,
+        "magic_damage": 0,
+        "prayer": 0,
+        "slot": "weapon",
+        "requirements": null
+    },
+    "weapon": {
+        "attack_speed": 4,
+        "weapon_type": "powered_staff",
+        "stances": [
+            {
+                "combat_style": "accurate",
+                "attack_type": null,
+                "attack_style": null,
+                "experience": "magic",
+                "boosts": "accuracy and damage"
+            },
+            {
+                "combat_style": "accurate",
+                "attack_type": null,
+                "attack_style": null,
+                "experience": "magic",
+                "boosts": "accuracy and damage"
+            },
+            {
+                "combat_style": "longrange",
+                "attack_type": null,
+                "attack_style": null,
+                "experience": "magic and defence",
+                "boosts": "attack range by 2 squares"
+            }
+        ]
+    }
+}

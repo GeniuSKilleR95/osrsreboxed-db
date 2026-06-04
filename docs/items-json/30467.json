@@ -1,0 +1,77 @@
+{
+    "id": 30467,
+    "name": "Raging echoes rune trophy",
+    "last_updated": "2026-06-04",
+    "incomplete": false,
+    "members": true,
+    "tradeable": false,
+    "tradeable_on_ge": false,
+    "stackable": false,
+    "stacked": null,
+    "noted": false,
+    "noteable": false,
+    "linked_id_item": null,
+    "linked_id_noted": null,
+    "linked_id_placeholder": 30468,
+    "placeholder": false,
+    "equipable": true,
+    "equipable_by_player": true,
+    "equipable_weapon": true,
+    "cost": 1,
+    "lowalch": 0,
+    "highalch": 0,
+    "weight": 1.5,
+    "buy_limit": null,
+    "quest_item": false,
+    "release_date": "2024-11-27",
+    "duplicate": false,
+    "examine": "A Rune Trophy awarded for participating in Leagues V: Raging Echoes.",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAADnUlEQVR4XsWXwWoaURSGnQfoIgtBBGEQERlERBRRFEVJsaLBCDFSk2BN00BD0rSSEpqmhErbFFpaAqWrEuiqpdu+SzbdddNHKHRxmv8MZ5yZzERtqjnwY2Ym995v/nvuuXc8HsdQyKprDYXqm326ubpJpXaPiq2164RSaO3ZG6p2d6i9N6DmgwOqru8wUFxV/wHqSg4rtPr0NaUrTQpGk8Z0ASperNim8DIN+1vc3qfG/T2HZyNDh0mUauT1B4wOCtks/yZiMVIDAfLOzZHf52PhGgoFg6xIOMzX0rbVP2KXIUDlmyuTQCncKF7QndCnR6F0tEtJrUOL1SrNF4uUSSZ5YCiqaSzACpBInA7HMzz9td4uVbpblCjXxoXSEzmWL1uAOs0DiwAHARTKRNfZLbtzAMQ9SBzD9MGlSCo3DpRCtY1dUrWY0QGsFhAMDB0XnrPMkDKwXdIXXk5eECvX+tKuoTsklu6cfKbb+y94cIDMpx8bEjg3IJQJOOG0EFBGZIyRQLA012jr7jwa0LfTUwYCRP3XH5YAyd8CpEZiFEnmOAdLSz0uFQBLVRb4RfGLfpGnYwMh8dBJOJHhBpXVLQNIFPj5+4JbAPKpIYZCEsdyZU5kONx58oqBsvWWxaVhalwaCncEp9AI12aHSqk+FZO7F9wyA6F+wSktXaSl7UP6cXZGn05O2DmUE7tDI1xC6FCoIXgzSWgBENmB/CHNcAi/N7w+Vv1un3L1Nt9H3+XOBsOOMWXmUCjfWGEw8wpzkwBBAgLJFJmVrbbYwQmBEMNOzEvcbdnP+VVDdoilh4csvCR2AnFrQiCPx1w/nIASkWUKB8rkjyTIF4qSVw1bQLBJd4/e8eJwgpkYSA+9PiHRzdOkBfXExFZidwQQEHLJ/uzKMCiQWLpIcthu3nihXDptG0SxbNBy3y77SGPGsECm5hc4ae2Dwzm5J23wvyiwco6y9nnlUHjpotiZgczP5L7cg6MQgGTfGvb3X8Jt/hX6/vULvR0MTKCKY0H871DO839+Xlq8Y9Qcu3Pmgnix7VTifF/K510GdHN1qmEFsj91dnWqoe97bkDXEAqffa4ZaJgbGy8/8DFFzk+6Zhr6ttAbvGcYfFngOIEiiBOhli3OEkyhe8cfGQRAAMPmiQMXPm9w0sSpEF8U/rC5UE4t9JojStY6FL+1TNFSg7TC+S6eKVMoVaBANM27/4zyapg/ozSz5W6uLaNkbztu/AU42KmgZ8oqpgAAAABJRU5ErkJggg==",
+    "wiki_name": "Raging echoes rune trophy",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Raging_echoes_rune_trophy",
+    "equipment": {
+        "attack_stab": -100,
+        "attack_slash": -100,
+        "attack_crush": -50,
+        "attack_magic": 0,
+        "attack_ranged": 0,
+        "defence_stab": 0,
+        "defence_slash": 0,
+        "defence_crush": 0,
+        "defence_magic": 0,
+        "defence_ranged": 0,
+        "melee_strength": -10,
+        "ranged_strength": 0,
+        "magic_damage": 0,
+        "prayer": 0,
+        "slot": "2h",
+        "requirements": null
+    },
+    "weapon": {
+        "attack_speed": 4,
+        "weapon_type": "blunt",
+        "stances": [
+            {
+                "combat_style": "pound",
+                "attack_type": "crush",
+                "attack_style": "accurate",
+                "experience": "attack",
+                "boosts": null
+            },
+            {
+                "combat_style": "pummel",
+                "attack_type": "crush",
+                "attack_style": "aggressive",
+                "experience": "strength",
+                "boosts": null
+            },
+            {
+                "combat_style": "block",
+                "attack_type": "crush",
+                "attack_style": "defensive",
+                "experience": "defence",
+                "boosts": null
+            }
+        ]
+    }
+}

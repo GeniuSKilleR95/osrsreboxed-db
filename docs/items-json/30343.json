@@ -1,0 +1,84 @@
+{
+    "id": 30343,
+    "name": "Infernal harpoon (uncharged)",
+    "last_updated": "2026-06-04",
+    "incomplete": false,
+    "members": true,
+    "tradeable": false,
+    "tradeable_on_ge": false,
+    "stackable": false,
+    "stacked": null,
+    "noted": false,
+    "noteable": false,
+    "linked_id_item": null,
+    "linked_id_noted": null,
+    "linked_id_placeholder": null,
+    "placeholder": false,
+    "equipable": true,
+    "equipable_by_player": true,
+    "equipable_weapon": true,
+    "cost": 55000,
+    "lowalch": 22000,
+    "highalch": 33000,
+    "weight": 2.267,
+    "buy_limit": null,
+    "quest_item": false,
+    "release_date": "2024-11-27",
+    "duplicate": false,
+    "examine": "A formerly powerful, fiery harpoon in the colours of the Trailblazer Reloaded League.",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABj0lEQVR4Xu3WsUvDUBAG8L6xQ4YMgRAIhBBKCSWE0hJaEgwtBZW2aKhWihQsgqujo4Ob4Obk4OTf+dV7z9c2bi69N/jBQRM6/MhdXq7RqEWgfs0aAd9xYBBKoOzEcC3LFJTAaTfFOElgNZs/KFaYwDzrY9rrStjLxMLrmc0JE7geDlENMgkj1Edl431u4+1cw46ePUo/qa+lg8+FAqVBcGyUwE2RS5RuH83Us6cGnQV0e1JI1GHrCMUEoijUYevomhW0HpW71hHmcTaVT4ppsClCtilvtyWCWrcZj9CLQl4UndwKoIpgg1aLF0Vzo4uus2SM0NNQhtQHWWBVPaAXl/DdiA9Vj8Dy4t5MVNrO4Tq+Oair2cY81KQsEfg+PNc1BzUqCnS/zy2jUFT9NIVjs60q9ehzKs+yA5Qu1ghU0zWiINmVMSg6q+hzw/wN1BF4WlzKrYE2hv22wApTb2AUhvINpNmi3+yoThzLooGnN5HuMS17OqpVd6uVfGIa9ftfR40+FnTtVxrm1Per//w9Wze4CETOVffVAAAAAElFTkSuQmCC",
+    "wiki_name": "Infernal harpoon (or) (Trailblazer Reloaded) (Uncharged)",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Infernal_harpoon_(or)_(Trailblazer_Reloaded)#Uncharged",
+    "equipment": {
+        "attack_stab": 38,
+        "attack_slash": 32,
+        "attack_crush": 0,
+        "attack_magic": 0,
+        "attack_ranged": 0,
+        "defence_stab": 0,
+        "defence_slash": 1,
+        "defence_crush": 0,
+        "defence_magic": 0,
+        "defence_ranged": 0,
+        "melee_strength": 42,
+        "ranged_strength": 0,
+        "magic_damage": 0,
+        "prayer": 0,
+        "slot": "weapon",
+        "requirements": null
+    },
+    "weapon": {
+        "attack_speed": 5,
+        "weapon_type": "stab_sword",
+        "stances": [
+            {
+                "combat_style": "stab",
+                "attack_type": "stab",
+                "attack_style": "accurate",
+                "experience": "attack",
+                "boosts": null
+            },
+            {
+                "combat_style": "lunge",
+                "attack_type": "stab",
+                "attack_style": "aggressive",
+                "experience": "strength",
+                "boosts": null
+            },
+            {
+                "combat_style": "slash",
+                "attack_type": "slash",
+                "attack_style": "aggressive",
+                "experience": "strength",
+                "boosts": null
+            },
+            {
+                "combat_style": "block",
+                "attack_type": "stab",
+                "attack_style": "defensive",
+                "experience": "defence",
+                "boosts": null
+            }
+        ]
+    }
+}

@@ -1,0 +1,53 @@
+{
+    "id": 15502,
+    "name": "Elder aquanite",
+    "last_updated": "2026-06-04",
+    "incomplete": true,
+    "members": true,
+    "release_date": "2025-11-19",
+    "combat_level": 305,
+    "size": 3,
+    "hitpoints": 400,
+    "max_hit": 34,
+    "attack_type": [
+        "magic"
+    ],
+    "attack_speed": 5,
+    "aggressive": false,
+    "poisonous": false,
+    "venomous": false,
+    "immune_poison": false,
+    "immune_venom": false,
+    "attributes": [],
+    "category": [
+        "aquanite"
+    ],
+    "slayer_monster": true,
+    "slayer_level": 78,
+    "slayer_xp": 4200.0,
+    "slayer_masters": [
+        "nieve",
+        "duradel"
+    ],
+    "duplicate": false,
+    "examine": "Such an alluring light...",
+    "wiki_name": "Elder aquanite (Lure)",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Elder_aquanite#Lure",
+    "attack_level": 1,
+    "strength_level": 1,
+    "defence_level": 180,
+    "magic_level": 330,
+    "ranged_level": 1,
+    "attack_bonus": 0,
+    "strength_bonus": 0,
+    "attack_magic": 0,
+    "magic_bonus": 50,
+    "attack_ranged": 0,
+    "ranged_bonus": 0,
+    "defence_stab": 60,
+    "defence_slash": 80,
+    "defence_crush": 80,
+    "defence_magic": 140,
+    "defence_ranged": 0,
+    "drops": []
+}

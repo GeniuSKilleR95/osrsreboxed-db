@@ -1,0 +1,84 @@
+{
+    "id": 30369,
+    "name": "Sunlight spear",
+    "last_updated": "2026-06-04",
+    "incomplete": false,
+    "members": true,
+    "tradeable": false,
+    "tradeable_on_ge": false,
+    "stackable": false,
+    "stacked": null,
+    "noted": false,
+    "noteable": false,
+    "linked_id_item": null,
+    "linked_id_noted": null,
+    "linked_id_placeholder": 30370,
+    "placeholder": false,
+    "equipable": true,
+    "equipable_by_player": true,
+    "equipable_weapon": true,
+    "cost": 50000,
+    "lowalch": 20000,
+    "highalch": 30000,
+    "weight": 4.535,
+    "buy_limit": null,
+    "quest_item": false,
+    "release_date": "2024-11-27",
+    "duplicate": false,
+    "examine": "A weapon from a being that truly worships gods.",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACNUlEQVR4Xu2WUStsURTHrQ+iPMiDNE0aTSZTIjI1JiQU3bohhS4RIUKSlFJKKSk1D8a99+VOEhHlk/gm687aq3Xss23jMOfs8eBf/06dc/bav/57n7VPTY0zAZp3HMk2MeDpWhLtzyIV4OpIozYxXQHPNlrVNV5Xp+wfE6kAl4YEiEHON9kCZI6IUAwhQASR305hYbetGukAro82Kesw+5PxaqQDuDseVx5M13pABENQVUiHxAnN5BoUgCQj6fjtRIA7P2PKBLP1I+YBzPU3KFhJ0REUT04wBDXWScsDPjCxg+UDvNnrwMeTLgVDKdCXRjACJBBOYKgRjnTzp62b4HQgc2REAhxoT3rd2Z+CsyUSMQzZTEfecAhDAsylW/D27snniUz9K7CIxZPR5jVhxPSpD7e/LJtZIUQB9uYW8WCqGQ+nE2ryvr6lV6b70iilBZiVQhDgv+Id/v57XRZGhyILUMh7CbB4dY+FP1d4NMsw5HxHyvPzQ7+6OgDiZbq4LKrCko6ekEDZUgoZCDCbnceezIy3QU/mk4GA5J2pLH91IQD5YaTZ5VdSalObe8i2XGT5YasQqNT6E6XWn/CfRfLMlpItHTo+pC9VAFQOhp/rKb1lOvmpH9lrBBZ332xb8zuFSn+Fy62+DS6mewRL6ZSv8a74bCKgYIV4k58uJBUEmVrC8S8eH6zGmwIc6kwpf6QQv2MerC/jg9SwCHAsk1b+CIwuHeAz4y2qOOLw9aVgvlVG/wGNDKZ0tmMDtAAAAABJRU5ErkJggg==",
+    "wiki_name": "Sunlight spear",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Sunlight_spear",
+    "equipment": {
+        "attack_stab": 125,
+        "attack_slash": 75,
+        "attack_crush": 0,
+        "attack_magic": 0,
+        "attack_ranged": 0,
+        "defence_stab": 70,
+        "defence_slash": 70,
+        "defence_crush": 70,
+        "defence_magic": 28,
+        "defence_ranged": 70,
+        "melee_strength": 113,
+        "ranged_strength": 0,
+        "magic_damage": 0,
+        "prayer": 0,
+        "slot": "2h",
+        "requirements": null
+    },
+    "weapon": {
+        "attack_speed": 5,
+        "weapon_type": "stab_sword",
+        "stances": [
+            {
+                "combat_style": "stab",
+                "attack_type": "stab",
+                "attack_style": "accurate",
+                "experience": "attack",
+                "boosts": null
+            },
+            {
+                "combat_style": "lunge",
+                "attack_type": "stab",
+                "attack_style": "aggressive",
+                "experience": "strength",
+                "boosts": null
+            },
+            {
+                "combat_style": "slash",
+                "attack_type": "slash",
+                "attack_style": "aggressive",
+                "experience": "strength",
+                "boosts": null
+            },
+            {
+                "combat_style": "block",
+                "attack_type": "stab",
+                "attack_style": "defensive",
+                "experience": "defence",
+                "boosts": null
+            }
+        ]
+    }
+}

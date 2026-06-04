@@ -1,0 +1,84 @@
+{
+    "id": 30351,
+    "name": "Dragon pickaxe (or)",
+    "last_updated": "2026-06-04",
+    "incomplete": false,
+    "members": true,
+    "tradeable": false,
+    "tradeable_on_ge": false,
+    "stackable": false,
+    "stacked": null,
+    "noted": false,
+    "noteable": false,
+    "linked_id_item": null,
+    "linked_id_noted": null,
+    "linked_id_placeholder": null,
+    "placeholder": false,
+    "equipable": true,
+    "equipable_by_player": true,
+    "equipable_weapon": true,
+    "cost": 97950,
+    "lowalch": 39180,
+    "highalch": 58770,
+    "weight": 2.4,
+    "buy_limit": null,
+    "quest_item": false,
+    "release_date": "2024-11-27",
+    "duplicate": false,
+    "examine": "A very powerful pickaxe in the colours of the Trailblazer Reloaded League.",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACGUlEQVR4Xu2Xz0rrQBTGnQfooosLpVAoRYoEKaGkhEikwaDUUktbrLfIvV2Ifxai4l+KUlDEhUvXPst9j/s2nzlnjJO0Va7eJunCD84qSec333xzZjo3961vCaiKVMGB3htMYFHTYBkGqktLH7z3X5IA/RUHO+4K9tZcHK7X3gETmC8UUC6VYJsmP9fz+WlCCXQsE1vebAenbQyvuri/7jEc1XlrY8Q1WQvFIrsUARBJoGlW3sB6yzbDXJ60uHy4IKS/XAQTARAp7ICzqDHkr+oy9vou1202hadcGn/Pshj+7EbljpI/WzmIQMMos1udDRPNegXPnTRD/dnN4LhRx0238zqB2KQcM/QCjqwUQ11kUuwcBX+w2Y4Xyncrm8nALLkc5pqro7/tcN5oR8YOxVlZsGHpqhU4tobepo3j/Tq3ist2Ky4ob4sXDBia8wbku6blsgxF7YKcignK68xFi5ersboVApr3lpGK2sXDcJuDrp5HIuVOEEYNqEJPO5J6lmqkkUhmZzKMVLBNuN5xQpl6vPsdBVQ4yJNgxiXdIqemvHRiLMT/+uO+W5/55gPJGVKAvwIT1Fe+GZHgrUsgdrmBaqU5bds/K3kfOqithWASAhL4kU5z0fkUy0k+WTIzdPujoqspVULuyAMzn8uFamZgfLcSgaFloSWq6PoYSCIwBBL8x5AAiC8JNOrK6FsxK3FXxjUzILOiF/dymd4l0krOAAAAAElFTkSuQmCC",
+    "wiki_name": "Dragon pickaxe (or) (Trailblazer) (Trailblazer Reloaded)",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Dragon_pickaxe_(or)_(Trailblazer)#Trailblazer_Reloaded",
+    "equipment": {
+        "attack_stab": 38,
+        "attack_slash": -2,
+        "attack_crush": 32,
+        "attack_magic": 0,
+        "attack_ranged": 0,
+        "defence_stab": 0,
+        "defence_slash": 1,
+        "defence_crush": 0,
+        "defence_magic": 0,
+        "defence_ranged": 0,
+        "melee_strength": 42,
+        "ranged_strength": 0,
+        "magic_damage": 0,
+        "prayer": 0,
+        "slot": "weapon",
+        "requirements": null
+    },
+    "weapon": {
+        "attack_speed": 5,
+        "weapon_type": "pickaxe",
+        "stances": [
+            {
+                "combat_style": "spike",
+                "attack_type": "stab",
+                "attack_style": "accurate",
+                "experience": "attack",
+                "boosts": null
+            },
+            {
+                "combat_style": "impale",
+                "attack_type": "stab",
+                "attack_style": "aggressive",
+                "experience": "strength",
+                "boosts": null
+            },
+            {
+                "combat_style": "smash",
+                "attack_type": "crush",
+                "attack_style": "aggressive",
+                "experience": "strength",
+                "boosts": null
+            },
+            {
+                "combat_style": "block",
+                "attack_type": "stab",
+                "attack_style": "defensive",
+                "experience": "defence",
+                "boosts": null
+            }
+        ]
+    }
+}

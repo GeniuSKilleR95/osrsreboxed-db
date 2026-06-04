@@ -1,0 +1,84 @@
+{
+    "id": 30346,
+    "name": "Infernal pickaxe (uncharged)",
+    "last_updated": "2026-06-04",
+    "incomplete": false,
+    "members": true,
+    "tradeable": false,
+    "tradeable_on_ge": false,
+    "stackable": false,
+    "stacked": null,
+    "noted": false,
+    "noteable": false,
+    "linked_id_item": null,
+    "linked_id_noted": null,
+    "linked_id_placeholder": null,
+    "placeholder": false,
+    "equipable": true,
+    "equipable_by_player": true,
+    "equipable_weapon": true,
+    "cost": 97950,
+    "lowalch": 39180,
+    "highalch": 58770,
+    "weight": 2.4,
+    "buy_limit": null,
+    "quest_item": false,
+    "release_date": "2024-11-27",
+    "duplicate": false,
+    "examine": "A formerly powerful, fiery pickaxe in the colours of the Trailblazer Reloaded League.",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAB+0lEQVR4Xu2XzWrCQBSFnQfIIotCEAQREQkSgkRCJKIoLbbYolJtF6WL0tJFaRf9gUIp9BW67rP0Pfo2tzkznU7iH9WaxIUH7kISnW/OPXcSM5mttmKkKlaFF5q3GKOKaZLnONSs1xfc9y8JgPN2iy46bbra69DNfncOGKNioUBVyyLfdfl1O59fJxSjoefSONitXy7zalVMDod66B9OuCaqXCpxl2IAghg5xQJ5WCQoCSU/S7gwpGwXYGIAgqIOmLkshwSYFSyIestq9J7T6es+S68no7jcUZK7FYsI1+BW0TB4fQx1DvV5adBd74BeRsOfDSQm5ZihaXTraRzq0dDorNngwX8+HiQLJd3KBg65VoeHGW6hhRgETGTiUDwrZZ88Wx0FgELOAIaj4mnQTwoqGPGCQ47Z+gWSrgEIhUmEUwlBBSdzyePt6u2OI0DIFQpAmEYEXV2PRcqdMIxaUIVenmPqII1FIjuzYYTCxwTyBLBO8FiJASoa5Fkw0xJuwak1t45NhfivPy7dWuY7CyR2iACvAhPWKt+ZEOOjCxC/2qNm7Wjdti8rxkf3ursXgUkJiNGOrvPqVm06bfhpuSMyg7c/FF5NUSm5Ix6Y+VwuUhsDI91KBQZtQYtqtj0FkgoMQML/GFIAkRJAk65M3pWwUndlWhsDsin6BrLKiC8SEssaAAAAAElFTkSuQmCC",
+    "wiki_name": "Infernal pickaxe (or) (Trailblazer Reloaded) (Uncharged)",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Infernal_pickaxe_(or)_(Trailblazer_Reloaded)#Uncharged",
+    "equipment": {
+        "attack_stab": 38,
+        "attack_slash": -2,
+        "attack_crush": 32,
+        "attack_magic": 0,
+        "attack_ranged": 0,
+        "defence_stab": 0,
+        "defence_slash": 1,
+        "defence_crush": 0,
+        "defence_magic": 0,
+        "defence_ranged": 0,
+        "melee_strength": 42,
+        "ranged_strength": 0,
+        "magic_damage": 0,
+        "prayer": 0,
+        "slot": "weapon",
+        "requirements": null
+    },
+    "weapon": {
+        "attack_speed": 5,
+        "weapon_type": "pickaxe",
+        "stances": [
+            {
+                "combat_style": "spike",
+                "attack_type": "stab",
+                "attack_style": "accurate",
+                "experience": "attack",
+                "boosts": null
+            },
+            {
+                "combat_style": "impale",
+                "attack_type": "stab",
+                "attack_style": "aggressive",
+                "experience": "strength",
+                "boosts": null
+            },
+            {
+                "combat_style": "smash",
+                "attack_type": "crush",
+                "attack_style": "aggressive",
+                "experience": "strength",
+                "boosts": null
+            },
+            {
+                "combat_style": "block",
+                "attack_type": "stab",
+                "attack_style": "defensive",
+                "experience": "defence",
+                "boosts": null
+            }
+        ]
+    }
+}

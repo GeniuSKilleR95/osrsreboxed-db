@@ -1,0 +1,77 @@
+{
+    "id": 30465,
+    "name": "Raging echoes dragon trophy",
+    "last_updated": "2026-06-04",
+    "incomplete": false,
+    "members": true,
+    "tradeable": false,
+    "tradeable_on_ge": false,
+    "stackable": false,
+    "stacked": null,
+    "noted": false,
+    "noteable": false,
+    "linked_id_item": null,
+    "linked_id_noted": null,
+    "linked_id_placeholder": 30466,
+    "placeholder": false,
+    "equipable": true,
+    "equipable_by_player": true,
+    "equipable_weapon": true,
+    "cost": 1,
+    "lowalch": 0,
+    "highalch": 0,
+    "weight": 1.5,
+    "buy_limit": null,
+    "quest_item": false,
+    "release_date": "2024-11-27",
+    "duplicate": false,
+    "examine": "A Dragon Trophy awarded for participating in Leagues V: Raging Echoes.",
+    "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAC50lEQVR4Xs2Wz2sTQRTHd4572EMOgVAIhCJBQghBWoKhoZJiaSEVzKEIuQTsJYdCKCJCPWiRGm0Pgk09SutBDwXBi7ce/Vv8Hzw89zuTtzM7m900SbP6hcfkx8y+z3vzZuc5ztwS9P3ykjAq++cS9OPbVwnz4fg4DahJkQv6eXUl55wcvZZjtVBImD+XBH0cDOhJu50ApbZs+P6dARM3dy4Jernk0arrBI6ikQvaz3q0m3Ep76h5sC+fzoPP4flzSdBj31Fx5CgKo+YAqOJDMxBn6Nf1Na2NgrFXzSBBr/zswJpeMhBATNMAYsLaG0vQmxHIUi5He1mXtjw3JtLxQJylFzkdkL3yhhL0LKfqJpvJSKBCPk/djAIaH6mgng+NOtLgKihkuO8/Lz6giRLU8hcjKhPozvKyrBN2ZhuyCCDUDLKEz5xhrOf/ZoBShYzFNtBqtSrHplOmlrtCu26dOm6Duu4D2nM36F6lEoAjI+Z6ZBCB6qCmkogAtTY3qdloSKi7xaK0cqkkIQC0721T32vJEY7tLQcotj35xMZKyH3v+A/AA2Gd9mFgg/Wj0Hc45Hn8GTA2EJ45IxCkihvvGERWK3fpfvkpPaw9lyOMgdg5DHWD7DCgCYTnhU/h1NJFyxA7v/9IKB6RLQBgiw8PDqjf60mngDANMICdE8hx+H1iAnGmGAiFCig2HApkFlsEEFw/KHJzu2YGUlJAcTWEqOEMxifMvNdMuxWYz2dn9Gh7K4BiINRVMb8RgGAECDJkXhm22R6mlKCL4TBSSyuljtweE8TMCl6EM75zJkm3ElxPtjFQeEtU97hery8Gykx3OP3qcrXn4LvZsN3CVoU1/oGC3vonaLxTQeenJ8F/+veFSnWU8U7HgS5U6oqJB4rL7MKk+qAkoJSljvd/AKSPPPc9+rfUJYJ+aK1Wk50id5i6I0wNTMOwoa2weyCdsYVLhJzGGddUSnUVvTpsSxFGiR0mmb1mGv0FcvGNCTlxG9YAAAAASUVORK5CYII=",
+    "wiki_name": "Raging echoes dragon trophy",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Raging_echoes_dragon_trophy",
+    "equipment": {
+        "attack_stab": -100,
+        "attack_slash": -100,
+        "attack_crush": -50,
+        "attack_magic": 0,
+        "attack_ranged": 0,
+        "defence_stab": 0,
+        "defence_slash": 0,
+        "defence_crush": 0,
+        "defence_magic": 0,
+        "defence_ranged": 0,
+        "melee_strength": -10,
+        "ranged_strength": 0,
+        "magic_damage": 0,
+        "prayer": 0,
+        "slot": "2h",
+        "requirements": null
+    },
+    "weapon": {
+        "attack_speed": 4,
+        "weapon_type": "blunt",
+        "stances": [
+            {
+                "combat_style": "pound",
+                "attack_type": "crush",
+                "attack_style": "accurate",
+                "experience": "attack",
+                "boosts": null
+            },
+            {
+                "combat_style": "pummel",
+                "attack_type": "crush",
+                "attack_style": "aggressive",
+                "experience": "strength",
+                "boosts": null
+            },
+            {
+                "combat_style": "block",
+                "attack_type": "crush",
+                "attack_style": "defensive",
+                "experience": "defence",
+                "boosts": null
+            }
+        ]
+    }
+}
