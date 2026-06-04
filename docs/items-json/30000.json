@@ -1,7 +1,7 @@
 {
     "id": 30000,
-    "name": "Pre-pot device",
-    "last_updated": "2024-10-01",
+    "name": "Chugging barrel",
+    "last_updated": "2026-06-04",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -27,8 +27,8 @@
     "duplicate": false,
     "examine": "Used to store and drink multiple potions.",
     "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAAGklEQVR4Xu3BAQEAAACCIP+vbkhAAQAAAPBsEiAAARQpr9AAAAAASUVORK5CYII=",
-    "wiki_name": "Pre-pot device (Assembled)",
-    "wiki_url": "https://oldschool.runescape.wiki/w/Pre-pot_device#Assembled",
+    "wiki_name": "Chugging barrel (Assembled)",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Chugging_barrel#Assembled",
     "equipment": null,
     "weapon": null
 }

@@ -1,7 +1,7 @@
 {
     "id": 248,
     "name": "Red dragon",
-    "last_updated": "2024-06-01",
+    "last_updated": "2026-06-04",
     "incomplete": true,
     "members": true,
     "release_date": "2002-02-27",
@@ -49,7 +49,7 @@
     "magic_bonus": 0,
     "attack_ranged": 0,
     "ranged_bonus": 0,
-    "defence_stab": 10,
+    "defence_stab": 0,
     "defence_slash": 70,
     "defence_crush": 70,
     "defence_magic": 60,

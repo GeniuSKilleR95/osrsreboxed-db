@@ -1,7 +1,7 @@
 {
     "id": 23899,
     "name": "Crystal staff (attuned)",
-    "last_updated": "2024-10-01",
+    "last_updated": "2026-06-04",
     "incomplete": false,
     "members": true,
     "tradeable": false,
@@ -44,7 +44,7 @@
         "ranged_strength": 0,
         "magic_damage": 0,
         "prayer": 2,
-        "slot": "2h",
+        "slot": "weapon",
         "requirements": null
     },
     "weapon": {

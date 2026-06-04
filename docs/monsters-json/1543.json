@@ -1,7 +1,7 @@
 {
     "id": 1543,
     "name": "Gargoyle",
-    "last_updated": "2024-06-01",
+    "last_updated": "2026-06-04",
     "incomplete": true,
     "members": true,
     "release_date": "2005-01-26",
@@ -16,9 +16,11 @@
     "aggressive": true,
     "poisonous": false,
     "venomous": false,
-    "immune_poison": true,
-    "immune_venom": true,
-    "attributes": [],
+    "immune_poison": false,
+    "immune_venom": false,
+    "attributes": [
+        "golem"
+    ],
     "category": [
         "gargoyles"
     ],

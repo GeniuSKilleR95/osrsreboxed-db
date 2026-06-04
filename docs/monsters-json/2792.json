@@ -1,7 +1,7 @@
 {
     "id": 2792,
     "name": "Cow calf",
-    "last_updated": "2021-09-24",
+    "last_updated": "2026-06-04",
     "incomplete": true,
     "members": false,
     "release_date": "2005-02-22",
@@ -16,8 +16,8 @@
     "aggressive": false,
     "poisonous": false,
     "venomous": false,
-    "immune_poison": true,
-    "immune_venom": true,
+    "immune_poison": false,
+    "immune_venom": false,
     "attributes": [],
     "category": [
         "cows"
@@ -48,7 +48,7 @@
     "defence_slash": -26,
     "defence_crush": -26,
     "defence_magic": -26,
-    "defence_ranged": -26,
+    "defence_ranged": 0,
     "drops": [
         {
             "id": 1739,

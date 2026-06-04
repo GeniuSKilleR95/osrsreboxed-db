@@ -1,7 +1,7 @@
 {
     "id": 2046,
     "name": "Snakeling",
-    "last_updated": "2020-12-25",
+    "last_updated": "2026-06-04",
     "incomplete": true,
     "members": true,
     "release_date": "2015-01-08",
@@ -33,7 +33,7 @@
     "defence_level": 1,
     "magic_level": 185,
     "ranged_level": 1,
-    "attack_bonus": 120,
+    "attack_bonus": 0,
     "strength_bonus": 0,
     "attack_magic": 80,
     "magic_bonus": -20,
@@ -43,6 +43,6 @@
     "defence_slash": -40,
     "defence_crush": -40,
     "defence_magic": -40,
-    "defence_ranged": -40,
+    "defence_ranged": 0,
     "drops": []
 }

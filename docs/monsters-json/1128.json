@@ -1,7 +1,7 @@
 {
     "id": 1128,
     "name": "Dessous (hard)",
-    "last_updated": "2023-08-03",
+    "last_updated": "2026-06-04",
     "incomplete": true,
     "members": true,
     "release_date": "2013-09-05",
@@ -19,7 +19,7 @@
     "poisonous": false,
     "venomous": false,
     "immune_poison": false,
-    "immune_venom": true,
+    "immune_venom": false,
     "attributes": [
         "vampyre"
     ],
@@ -28,7 +28,7 @@
     ],
     "slayer_monster": true,
     "slayer_level": 1,
-    "slayer_xp": 300.0,
+    "slayer_xp": 299.6,
     "slayer_masters": [
         "mazchna",
         "vannaka",
@@ -38,8 +38,8 @@
     ],
     "duplicate": false,
     "examine": "A vampyre warrior of Zamorak.",
-    "wiki_name": "Dessous (Hard)",
-    "wiki_url": "https://oldschool.runescape.wiki/w/Dessous#Hard",
+    "wiki_name": "Dessous (Nightmare Zone) (Hard Mode)",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Dessous_(Nightmare_Zone)#Hard_Mode",
     "attack_level": 198,
     "strength_level": 198,
     "defence_level": 99,

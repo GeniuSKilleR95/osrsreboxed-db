@@ -1,7 +1,7 @@
 {
     "id": 2586,
     "name": "Abyssal walker",
-    "last_updated": "2022-06-28",
+    "last_updated": "2026-06-04",
     "incomplete": true,
     "members": true,
     "release_date": "2005-06-13",
@@ -43,7 +43,7 @@
     "defence_slash": 75,
     "defence_crush": 10,
     "defence_magic": 75,
-    "defence_ranged": 75,
+    "defence_ranged": 0,
     "drops": [
         {
             "id": 592,

@@ -1,7 +1,7 @@
 {
     "id": 2240,
     "name": "Ork",
-    "last_updated": "2022-12-31",
+    "last_updated": "2026-06-04",
     "incomplete": true,
     "members": true,
     "release_date": "2013-10-17",
@@ -13,7 +13,7 @@
         "crush"
     ],
     "attack_speed": 5,
-    "aggressive": true,
+    "aggressive": false,
     "poisonous": false,
     "venomous": false,
     "immune_poison": false,
@@ -43,7 +43,7 @@
     "defence_slash": 14,
     "defence_crush": 13,
     "defence_magic": 5,
-    "defence_ranged": 13,
+    "defence_ranged": 0,
     "drops": [
         {
             "id": 526,

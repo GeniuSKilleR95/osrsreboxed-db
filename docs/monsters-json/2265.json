@@ -1,7 +1,7 @@
 {
     "id": 2265,
     "name": "Dagannoth Supreme",
-    "last_updated": "2023-06-09",
+    "last_updated": "2026-06-04",
     "incomplete": true,
     "members": true,
     "release_date": "2005-11-07",
@@ -52,7 +52,7 @@
     "defence_slash": 10,
     "defence_crush": 10,
     "defence_magic": 255,
-    "defence_ranged": 550,
+    "defence_ranged": 0,
     "drops": [
         {
             "id": 6729,

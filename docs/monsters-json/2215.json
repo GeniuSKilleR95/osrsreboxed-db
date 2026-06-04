@@ -1,7 +1,7 @@
 {
     "id": 2215,
     "name": "General Graardor",
-    "last_updated": "2023-06-09",
+    "last_updated": "2026-06-04",
     "incomplete": true,
     "members": true,
     "release_date": "2013-10-17",
@@ -50,7 +50,7 @@
     "defence_slash": 90,
     "defence_crush": 90,
     "defence_magic": 298,
-    "defence_ranged": 90,
+    "defence_ranged": 0,
     "drops": [
         {
             "id": 532,

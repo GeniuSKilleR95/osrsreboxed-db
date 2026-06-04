@@ -1,7 +1,7 @@
 {
     "id": 29939,
     "name": "Bird mask",
-    "last_updated": "2024-10-01",
+    "last_updated": "2026-06-04",
     "incomplete": false,
     "members": false,
     "tradeable": false,
@@ -22,7 +22,7 @@
     "highalch": null,
     "weight": 0.1,
     "buy_limit": null,
-    "quest_item": false,
+    "quest_item": true,
     "release_date": "2024-09-25",
     "duplicate": true,
     "examine": "A rather interesting mask of a bird.",

@@ -1,7 +1,7 @@
 {
     "id": 685,
     "name": "Stranger",
-    "last_updated": "2022-06-28",
+    "last_updated": "2026-06-04",
     "incomplete": true,
     "members": true,
     "release_date": "2005-04-18",
@@ -43,6 +43,6 @@
     "defence_slash": 93,
     "defence_crush": 98,
     "defence_magic": 1,
-    "defence_ranged": 82,
+    "defence_ranged": 0,
     "drops": []
 }

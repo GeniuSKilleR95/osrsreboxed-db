@@ -1,7 +1,7 @@
 {
     "id": 3082,
-    "name": "Iron javelin heads",
-    "last_updated": "2024-10-01",
+    "name": "Iron javelin tips",
+    "last_updated": "2026-06-04",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -27,8 +27,8 @@
     "duplicate": true,
     "examine": "Needs a shaft.",
     "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABtElEQVR4Xt2WjWoCMRCEzYuIVrRYiz/FWoul9P1fassmzGWzmxS8JB50YDlQ7/x29jLJbPY/5Uh/MpEYxNHTfO6v+tsHKoCsl0tfADouFlNAOXrZbHw9r1a+AJMHCvD600Zy9Lrd+pJQeXfiODuN1NHbfk+H3c4XwKw7AYRBMVL7m2o5+jid6P148FAAk0D4nR6nBEqfWSVHn+fzAMXFQOm43AAJKK4u7nxdLr4YCjAYDWDgnhxn+f0aLUc/txt9X68eiB3iP5VdA0iOFO9ZF3cYCDDSFfnewD1A2XE2kxvckeMJFb6HgwCCgxa8mQCQy5XoIAPlx6mfU61yrvBVOmhdKTUyWjFXkC02V1IQOVaZRQ0CMuaK3C5yD9WuyCbQSOUGHHNFLmPrjpZtQudR+d6iQqbIVGaovDvyfcg3UZlHaSoDSncZQPTBzDZSmUdpKgNIbhMofTBDI3xPaXtpAiRzha+5XVzfV95eRimfK3wtHcwA9Pf2UiX9wHgwyy1/3UQDV6wkjN7FARWBWLqJbkoPZuWTog7HLkpXzoN28pK6rpwx6r5y7tUDVs79mtwVqylgfgEmJWfZYYXregAAAABJRU5ErkJggg==",
-    "wiki_name": "Iron javelin heads",
-    "wiki_url": "https://oldschool.runescape.wiki/w/Iron_javelin_heads",
+    "wiki_name": "Iron javelin tips",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Iron_javelin_tips",
     "equipment": null,
     "weapon": null
 }

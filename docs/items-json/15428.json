@@ -1,7 +1,7 @@
 {
     "id": 15428,
     "name": "Magic box",
-    "last_updated": "2024-10-01",
+    "last_updated": "2026-06-04",
     "incomplete": false,
     "members": false,
     "tradeable": true,
@@ -20,7 +20,7 @@
     "cost": 1,
     "lowalch": null,
     "highalch": null,
-    "weight": 1.0,
+    "weight": 0.0,
     "buy_limit": null,
     "quest_item": false,
     "release_date": "2006-11-21",

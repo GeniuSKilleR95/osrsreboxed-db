@@ -1,7 +1,7 @@
 {
     "id": 1794,
     "name": "Billy Goat",
-    "last_updated": "2021-09-02",
+    "last_updated": "2026-06-04",
     "incomplete": true,
     "members": true,
     "release_date": "2006-10-18",
@@ -43,7 +43,7 @@
     "defence_slash": 10,
     "defence_crush": 0,
     "defence_magic": 0,
-    "defence_ranged": 10,
+    "defence_ranged": 0,
     "drops": [
         {
             "id": 526,

@@ -1,7 +1,7 @@
 {
     "id": 3923,
-    "name": "Dragon javelin heads",
-    "last_updated": "2024-10-01",
+    "name": "Dragon javelin tips",
+    "last_updated": "2026-06-04",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -27,8 +27,8 @@
     "duplicate": true,
     "examine": "Needs a shaft.",
     "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAACMUlEQVR4Xu2VCUoDQRBF7Zt4BC8hioIooigSl7gb1GAMcSMoQSW4ICouiIq4a5ToBUt+NZXpmcx0tnFB8iGEzKS7X1V1/Wpo+J9S5H3ySwKIouGhFv72vv1BaZC52S6anu6gsbE2/t3U2PgbUIrWVgcoleqjxEIPQwmMP5CG9z4NSYq2NqO0sT7ogvLPjgaJjrRSJNL8HVCKDg5maHdnwgVVnB2nnLFYJ01OtPv8p2YpurhYoNOT+QLU9tYoQ7mz4y5nPN7NUP4ZrEmKbm5SBaijwxhlMsN8oHOYKkAKVHKx93uy8/qyTg/3Kwx1fDTLMFIagcHz/b0pF5R54b27VilFnx879P62yUDIDsplRi1AyJ4JJdChZyefz9LT4xofaGbFvDd4LyVFOXHp3eUMTU65zPLoj34P4FwuQ3e3S3R+FqdsdjwAPDQJgOMrzqjQQM9Pabq+SnK5TBA3TGgGqTeSFsaokEPxLffLPytBgVQt7Ssry/3cwvAW0+jkP8VZcYIQgzQDqbKM2lfQLel0hMGCfMWbFQlCvAiBIEPuQCqS4m7BncAlRdcArLTr6iBktEgg5rwLXhsoxRfUdGVAIWL7ptocMVq8gdjXWaW4Y8SV0cY4ANGW9hVFl5cJXgMw//FSkXQLo2tgdMgSMoQS4J09Sm2OtvHiv84qPSZgctgY0dp9xVkngdjHS1XSzgzXLT+6csZLTfLzFZuKx0t56ypQ5RuGnpXa9adg6qqrLou+AC0xn2Dxa5KKAAAAAElFTkSuQmCC",
-    "wiki_name": "Dragon javelin heads",
-    "wiki_url": "https://oldschool.runescape.wiki/w/Dragon_javelin_heads",
+    "wiki_name": "Dragon javelin tips",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Dragon_javelin_tips",
     "equipment": null,
     "weapon": null
 }

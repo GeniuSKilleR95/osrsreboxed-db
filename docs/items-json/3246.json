@@ -1,7 +1,7 @@
 {
     "id": 3246,
-    "name": "Mithril javelin heads",
-    "last_updated": "2024-10-01",
+    "name": "Mithril javelin tips",
+    "last_updated": "2026-06-04",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -27,8 +27,8 @@
     "duplicate": true,
     "examine": "Needs a shaft.",
     "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABx0lEQVR4Xt2W62rCQBCF3ddQWhWxRS1eQoX+KIVCoVD8USgF3/9FRmaXaWZmJ/dNAj2wBBON35zJnslk8j/lQJ8ZSQjiYDrd+aO+OqACyN195tdsdvCfj4vFGFAOVqtXWC5fYD4/eyCCsYECvD6bSA7W6ze/OJTtTgBB93pqqYPN5gMeHt8FVOxOACH3eDtj6NZysHv6gu32M4KS7sh26pbKe3aSg/3+IqAQRrbL/YFa7UwI5OB0+oHD8dtDIRA5w2G0ewjVgzsOns9XyLJfD4QO4Z/yqgnIamkv7iAQOoTucFf4c0PuEVTczmRy3h0E4u0JS14nB9EdGzyZCMDKFemg3U59n86SuSIf1OAQumO7UlRIa+W5Qts4nlsShLeVZ1H1iKmUzBVcRbmiXaHvlxfSSG1zJS+iTiE1Facy/glWGt+UPw95EUXjpRUMT2UKQl1lANEvZiEcy8dLI8lUpjHBc4UWTXF6LnDhb8rGSxIgnit4tF7McOFvqsdLK9m5gkc+xfkkp0LKx0sn6RvKFzOC4rB6vCSECeIwercRVA6E0kX0JjsC+Fambw4CY0XAgG5w1X0xG0y975ymGmDnNNforsQaA+YGZphuF9H50ZoAAAAASUVORK5CYII=",
-    "wiki_name": "Mithril javelin heads",
-    "wiki_url": "https://oldschool.runescape.wiki/w/Mithril_javelin_heads",
+    "wiki_name": "Mithril javelin tips",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Mithril_javelin_tips",
     "equipment": null,
     "weapon": null
 }

@@ -375,7 +375,10 @@
           "gun",
           "polestaff",
           "salamander",
-          "unarmed"          
+          "unarmed",
+          "partisan",
+          "multi-style",
+          "multi-melee"
         ]
       },
       "stances": {
@@ -424,7 +427,11 @@
                 "jab",
                 "lash",
                 "spell",
-                "spell (defensive)"
+                "spell (defensive)",
+                "melee",
+                "ranged",
+                "magic",
+                "poke"
               ]
             },
             "attack_type": {

@@ -1,7 +1,7 @@
 {
     "id": 290,
     "name": "Dwarf",
-    "last_updated": "2024-05-11",
+    "last_updated": "2026-06-04",
     "incomplete": true,
     "members": false,
     "release_date": "2001-04-06",
@@ -10,7 +10,7 @@
     "hitpoints": 16,
     "max_hit": 2,
     "attack_type": [
-        "crush"
+        "stab"
     ],
     "attack_speed": 5,
     "aggressive": false,
@@ -30,9 +30,9 @@
         "spria"
     ],
     "duplicate": false,
-    "examine": "A dwarven worker.",
-    "wiki_name": "Dwarf (Level 10)",
-    "wiki_url": "https://oldschool.runescape.wiki/w/Dwarf#Level_10",
+    "examine": "A short angry guy.",
+    "wiki_name": "Dwarf (Standard)",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Dwarf#Standard",
     "attack_level": 8,
     "strength_level": 8,
     "defence_level": 6,

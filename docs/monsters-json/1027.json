@@ -1,7 +1,7 @@
 {
     "id": 1027,
     "name": "Guard Bandit",
-    "last_updated": "2021-07-12",
+    "last_updated": "2026-06-04",
     "incomplete": true,
     "members": false,
     "release_date": "2002-02-27",
@@ -47,7 +47,7 @@
     "defence_slash": 8,
     "defence_crush": 5,
     "defence_magic": 1,
-    "defence_ranged": 4,
+    "defence_ranged": 0,
     "drops": [
         {
             "id": 526,

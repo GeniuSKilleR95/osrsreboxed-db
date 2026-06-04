@@ -1,7 +1,7 @@
 {
     "id": 3909,
-    "name": "Adamant javelin heads",
-    "last_updated": "2024-10-01",
+    "name": "Adamant javelin tips",
+    "last_updated": "2026-06-04",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -27,8 +27,8 @@
     "duplicate": true,
     "examine": "Needs a shaft.",
     "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAByklEQVR4Xt2WjWoCMRCEzXNIqygVtGKtWGuhUAqFIvT9X2fbTRiy2eT07pLcQQcW8efit7OXyU0m/1OG9CcjiUEMTR+m9lV/O6AcyOxxRnfre1v8fj+fjwFlaPm8pMVuYYuhAJMGcvD600IytH5d0+q4slAAS7vjx1lppIY2bxtbgOKK3fHjxEjj32TL0O7jibbvW1uA4grdiccpRxqumaW/BT/3FgpgDBOO6/o4CwIZOn6/0OHrYKEAg9EARjqHcVZwx9D550yny8kCsTv8p7JrAME5CVXFHQkjXZH3DdxrHmcx+XHJ8bhy3zMwfiMdjMGLCQCpXHEjZSB2KD1OvU62mnMFDsHB2JWmRnrL5YrMlvjcCkHkWNGEbqTnGH2uIFuackW7giauN9JJPldkKt/OFddE20ZaykSpzFC8cLyovB9cE6lG4utaK0xlAHGn+pjgCm/SuJHMPPKpjG3MC8tjAqUfzGQjXKnjJQsIDslc4Vd9kuMP2x0vvRQms4TRNylGwXX7eMmSXtA9mOmdI2H18VIQxknCpE5xeZK7K3QT1eR3joYKgXQ4VlE6AgZ0QyqOgII7p4/8Y0WlndNVA+yc7hrdlVhjwPwC3ktplgDlBo0AAAAASUVORK5CYII=",
-    "wiki_name": "Adamant javelin heads",
-    "wiki_url": "https://oldschool.runescape.wiki/w/Adamant_javelin_heads",
+    "wiki_name": "Adamant javelin tips",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Adamant_javelin_tips",
     "equipment": null,
     "weapon": null
 }

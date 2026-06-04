@@ -1,7 +1,7 @@
 {
     "id": 14627,
     "name": "Dragon halberd",
-    "last_updated": "2024-10-01",
+    "last_updated": "2026-06-04",
     "incomplete": false,
     "members": false,
     "tradeable": true,
@@ -22,7 +22,7 @@
     "highalch": null,
     "weight": 3.175,
     "buy_limit": null,
-    "quest_item": true,
+    "quest_item": false,
     "release_date": "2004-09-20",
     "duplicate": true,
     "examine": "A dragon halberd.",

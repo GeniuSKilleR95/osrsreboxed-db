@@ -1,7 +1,7 @@
 {
     "id": 498,
     "name": "Smoke devil",
-    "last_updated": "2021-07-12",
+    "last_updated": "2026-06-04",
     "incomplete": true,
     "members": true,
     "release_date": "2014-04-10",
@@ -50,7 +50,7 @@
     "defence_slash": 0,
     "defence_crush": 0,
     "defence_magic": 600,
-    "defence_ranged": 44,
+    "defence_ranged": 0,
     "drops": [
         {
             "id": 592,

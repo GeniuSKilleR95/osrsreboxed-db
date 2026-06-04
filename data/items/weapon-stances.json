@@ -726,5 +726,58 @@
             "experience": "defence",
             "boosts": null
         }
+    ],
+    "multi-style": [
+        {
+            "combat_style": "melee",
+            "attack_type": "stab",
+            "attack_style": "aggressive",
+            "experience": "strength",
+            "boosts": null
+        },
+        {
+            "combat_style": "ranged",
+            "attack_type": null,
+            "attack_style": null,
+            "experience": "ranged",
+            "boosts": null
+        },
+        {
+            "combat_style": "magic",
+            "attack_type": "defensive casting",
+            "attack_style": "magic",
+            "experience": "magic and defence",
+            "boosts": null
+        }
+    ],
+    "multi-melee": [
+        {
+            "combat_style": "poke",
+            "attack_type": "stab",
+            "attack_style": "accurate",
+            "experience": "attack",
+            "boosts": null
+        },
+        {
+            "combat_style": "slash",
+            "attack_type": "slash",
+            "attack_style": "aggressive",
+            "experience": "strength",
+            "boosts": null
+        },
+        {
+            "combat_style": "pound",
+            "attack_type": "crush",
+            "attack_style": "aggressive",
+            "experience": "strength",
+            "boosts": null
+        },
+        {
+            "combat_style": "block",
+            "attack_type": "slash",
+            "attack_style": "defensive",
+            "experience": "defence",
+            "boosts": null
+        }
     ]
 }

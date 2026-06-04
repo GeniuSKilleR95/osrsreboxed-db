@@ -1,7 +1,7 @@
 {
     "id": 2474,
     "name": "Catablepon",
-    "last_updated": "2023-01-27",
+    "last_updated": "2026-06-04",
     "incomplete": true,
     "members": false,
     "release_date": "2006-07-04",
@@ -48,7 +48,7 @@
     "defence_slash": 30,
     "defence_crush": 20,
     "defence_magic": 20,
-    "defence_ranged": 40,
+    "defence_ranged": 0,
     "drops": [
         {
             "id": 1623,

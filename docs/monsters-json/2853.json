@@ -1,7 +1,7 @@
 {
     "id": 2853,
     "name": "Shadow warrior",
-    "last_updated": "2022-12-31",
+    "last_updated": "2026-06-04",
     "incomplete": true,
     "members": true,
     "release_date": "2003-08-20",
@@ -48,7 +48,7 @@
     "defence_slash": 31,
     "defence_crush": 19,
     "defence_magic": 15,
-    "defence_ranged": 38,
+    "defence_ranged": 0,
     "drops": [
         {
             "id": 1623,

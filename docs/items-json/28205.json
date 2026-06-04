@@ -1,7 +1,7 @@
 {
     "id": 28205,
     "name": "Black felling axe",
-    "last_updated": "2024-10-01",
+    "last_updated": "2026-06-04",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -48,7 +48,7 @@
         "requirements": null
     },
     "weapon": {
-        "attack_speed": 5,
+        "attack_speed": 7,
         "weapon_type": "axe",
         "stances": [
             {

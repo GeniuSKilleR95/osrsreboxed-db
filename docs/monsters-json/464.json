@@ -1,7 +1,7 @@
 {
     "id": 464,
     "name": "Harpie Bug Swarm",
-    "last_updated": "2024-05-11",
+    "last_updated": "2026-06-04",
     "incomplete": true,
     "members": true,
     "release_date": "2006-01-30",
@@ -47,7 +47,7 @@
     "defence_slash": 5,
     "defence_crush": 10,
     "defence_magic": 5,
-    "defence_ranged": 10,
+    "defence_ranged": 0,
     "drops": [
         {
             "id": 1623,

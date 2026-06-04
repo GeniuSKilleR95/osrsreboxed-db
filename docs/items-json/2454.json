@@ -1,7 +1,7 @@
 {
     "id": 2454,
     "name": "Antifire potion(3)",
-    "last_updated": "2024-10-01",
+    "last_updated": "2026-06-04",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -23,7 +23,7 @@
     "weight": 0.03,
     "buy_limit": 2000,
     "quest_item": false,
-    "release_date": "2004-03-15",
+    "release_date": "2004-03-29",
     "duplicate": false,
     "examine": "3 doses of anti-firebreath potion.",
     "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAAGklEQVR4Xu3BAQEAAACCIP+vbkhAAQAAAPBsEiAAARQpr9AAAAAASUVORK5CYII=",

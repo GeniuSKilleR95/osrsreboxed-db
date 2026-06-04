@@ -1,7 +1,7 @@
 {
     "id": 2478,
     "name": "Spider",
-    "last_updated": "2022-12-31",
+    "last_updated": "2026-06-04",
     "incomplete": true,
     "members": false,
     "release_date": "2006-07-04",
@@ -49,7 +49,7 @@
     "defence_slash": 53,
     "defence_crush": 53,
     "defence_magic": 53,
-    "defence_ranged": 53,
+    "defence_ranged": 0,
     "drops": [
         {
             "id": 11941,

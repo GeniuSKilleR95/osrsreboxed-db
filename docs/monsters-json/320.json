@@ -1,7 +1,7 @@
 {
     "id": 320,
     "name": "Dark energy core",
-    "last_updated": "2020-12-25",
+    "last_updated": "2026-06-04",
     "incomplete": true,
     "members": true,
     "release_date": "2014-10-16",
@@ -41,7 +41,7 @@
     "defence_slash": 10,
     "defence_crush": 10,
     "defence_magic": -5,
-    "defence_ranged": 10,
+    "defence_ranged": 0,
     "drops": [
         {
             "id": 592,

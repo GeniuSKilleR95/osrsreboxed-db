@@ -1,7 +1,7 @@
 {
     "id": 2068,
     "name": "Mounted terrorbird gnome",
-    "last_updated": "2021-07-12",
+    "last_updated": "2026-06-04",
     "incomplete": true,
     "members": true,
     "release_date": "2004-03-29",
@@ -48,7 +48,7 @@
     "defence_slash": 16,
     "defence_crush": 18,
     "defence_magic": 15,
-    "defence_ranged": 10,
+    "defence_ranged": 0,
     "drops": [
         {
             "id": 526,

@@ -1,7 +1,7 @@
 {
     "id": 28770,
-    "name": "Guardian horn",
-    "last_updated": "2024-10-01",
+    "name": "Minion whistle",
+    "last_updated": "2026-06-04",
     "incomplete": false,
     "members": false,
     "tradeable": false,
@@ -23,12 +23,12 @@
     "weight": 0.2,
     "buy_limit": null,
     "quest_item": false,
-    "release_date": "2023-11-15",
+    "release_date": "2026-04-15",
     "duplicate": true,
-    "examine": "A horn to call your loyal guardian.",
+    "examine": "A whistle to summon a demonic ally.",
     "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAAB+UlEQVR4Xu2Uy0ojQRiFUzRF0U3TjaRJMDLxBooiGASJGx1lFNRFREVUUPCuG0VcuVDMQhSc3aD4AgMOCPMCPoMIPoErV+5c6eZYf7WVmwoxUYnQHxx60/z19emqCoUCAgICAr4dDH4qAoZR28VGVbRSpBgm7Col1CuMEqR0u4UpC4YObiD5LJSoqytyIMP2oMDZkqlaHrIc9Jk2ukyrXDGGdilEKV6IYSzJMf+Lq4ZTUmhACnVLoYQw0cwFfo+LUsUYWnlIhZoqrnqGVKeB2Z8c68Mc6Umh2ukUFtqkUNzgCBsG1vs4/q/pxt4FU1XTF9KTBlPeFmMYaDGw3M2xPyJwMm3ifMXCxaaFqx0bNwcO7v84eDwfyrReXPMZmBLQMvSVVLtOfmtyAUcgFbWxGHex2xTG3wVTyVzv2bg9cvBw6uHxrLdUGY0vpYW0VIMM/QKdahnaJ6u1LtJNHo7bovjXEcNFVxyXPfW46W/E3Uh7uTJEVogW1CExLUUyJEm/lk7WJ8poslK50W2RIG1ekplxwlh1I9iSd1jai+Eo8gPH0biKFiqcXiJMNaA3uA6JvCazG87KZPbYx7STiz9YS1DorqGQUK7MYaTmhcgHy/j4Q5m6gSlTshVqZs7xsOh6eTKfKvKS/CNfmC8UyZLbwGspfD8gIKCSeAJ2pVlNEQlqHgAAAABJRU5ErkJggg==",
-    "wiki_name": "Guardian horn",
-    "wiki_url": "https://oldschool.runescape.wiki/w/Guardian_horn",
+    "wiki_name": "Minion whistle",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Minion_whistle",
     "equipment": null,
     "weapon": null
 }

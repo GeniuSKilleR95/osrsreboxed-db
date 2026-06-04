@@ -1,7 +1,7 @@
 {
     "id": 3046,
     "name": "Goblin",
-    "last_updated": "2022-06-28",
+    "last_updated": "2026-06-04",
     "incomplete": true,
     "members": true,
     "release_date": "2003-03-03",
@@ -48,7 +48,7 @@
     "defence_slash": 6,
     "defence_crush": 8,
     "defence_magic": 4,
-    "defence_ranged": 4,
+    "defence_ranged": 0,
     "drops": [
         {
             "id": 526,

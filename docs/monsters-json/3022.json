@@ -1,7 +1,7 @@
 {
     "id": 3022,
     "name": "Ice spider",
-    "last_updated": "2021-09-24",
+    "last_updated": "2026-06-04",
     "incomplete": true,
     "members": true,
     "release_date": "2002-02-27",
@@ -49,7 +49,7 @@
     "defence_slash": 17,
     "defence_crush": 12,
     "defence_magic": 13,
-    "defence_ranged": 13,
+    "defence_ranged": 0,
     "drops": [
         {
             "id": 11941,

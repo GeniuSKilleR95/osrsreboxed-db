@@ -1,7 +1,7 @@
 {
     "id": 16558,
     "name": "Granite (500g)",
-    "last_updated": "2024-10-01",
+    "last_updated": "2026-06-04",
     "incomplete": false,
     "members": false,
     "tradeable": true,
@@ -22,7 +22,7 @@
     "highalch": null,
     "weight": 0.5,
     "buy_limit": null,
-    "quest_item": true,
+    "quest_item": false,
     "release_date": "2006-01-23",
     "duplicate": true,
     "examine": "A tiny chunk of granite.",

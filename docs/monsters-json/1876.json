@@ -1,7 +1,7 @@
 {
     "id": 1876,
     "name": "Ice troll female",
-    "last_updated": "2023-08-03",
+    "last_updated": "2026-06-04",
     "incomplete": true,
     "members": true,
     "release_date": "2007-02-06",
@@ -26,10 +26,9 @@
     "slayer_level": 1,
     "slayer_xp": 84.0,
     "slayer_masters": [
-        "turael",
-        "spria",
         "vannaka",
         "chaeldar",
+        "konar",
         "nieve",
         "duradel"
     ],

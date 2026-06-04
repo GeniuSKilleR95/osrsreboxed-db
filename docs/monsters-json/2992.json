@@ -1,7 +1,7 @@
 {
     "id": 2992,
     "name": "Undead cow",
-    "last_updated": "2021-09-02",
+    "last_updated": "2026-06-04",
     "incomplete": true,
     "members": true,
     "release_date": "2005-02-15",
@@ -52,7 +52,7 @@
     "defence_slash": -21,
     "defence_crush": -21,
     "defence_magic": -21,
-    "defence_ranged": -21,
+    "defence_ranged": 0,
     "drops": [
         {
             "id": 1739,

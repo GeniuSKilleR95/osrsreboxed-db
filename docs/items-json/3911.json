@@ -1,7 +1,7 @@
 {
     "id": 3911,
-    "name": "Rune javelin heads",
-    "last_updated": "2024-10-01",
+    "name": "Rune javelin tips",
+    "last_updated": "2026-06-04",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -27,8 +27,8 @@
     "duplicate": true,
     "examine": "Needs a shaft.",
     "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABFklEQVR4Xu2TWQrCMBBAnYOIiihowQ2XfogoKkoRFBcQQfD+lxiZhGgmaQS1i0gelNIWktc3baHwnwCad3KCRACLQU+czacZIkUq3VAcpfZAXHfK5TykAOvhDGvDCVb7YyGkZOKFpLx5NyEAm5MVNsYLJhVfR4pQvZRGCtiabzCYRkzKriNFVD19nLb0xwB21wdsL3eWFK/Dx2mOlK/5FYC96MSkSIaP6/U4ExQCHG4v2N+chRQJqTK6jFmOpFKoAxgebzjaX4UQydCm+lsrIapnSqVSh4SoEG2oV9G/G1VPSZGQ++/7CnjUsavI566CtnhivFr8WZAKUZ148YRxL84LusUzhYvkLCP5GRGPx+PxeDye97kD/bUK4P1hFScAAAAASUVORK5CYII=",
-    "wiki_name": "Rune javelin heads",
-    "wiki_url": "https://oldschool.runescape.wiki/w/Rune_javelin_heads",
+    "wiki_name": "Rune javelin tips",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Rune_javelin_tips",
     "equipment": null,
     "weapon": null
 }

@@ -1,7 +1,7 @@
 {
     "id": 3965,
-    "name": "Amethyst javelin heads",
-    "last_updated": "2024-10-01",
+    "name": "Amethyst javelin tips",
+    "last_updated": "2026-06-04",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -27,8 +27,8 @@
     "duplicate": true,
     "examine": "Needs a shaft.",
     "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABt0lEQVR4Xu2VC0sCQRDHnW/iN+hBVFBUkJWYoKLZcVlIIb0QQXohvegFEQQREQR91omZZe/29jYv8m4vwh+IuLfc/fzP3kwm8z8B1FdSgkQAyyM5/tavWkSIbE6V0Jko4Np4nn+PZrNpSAHuzTnYmq1jc7rCUlLGLCTk9dWYAOzmmtheaHhS2zO1b9IRItWx5aRKCtjL7+LpSsuTOph3Den45XQni1zS8J6BAbwrdfBq9RAvCvueVGdxS0vHLyclRyUlKXOCAwH4WDliqZtim6VIhh7oP8wvJyWnlzNGIcDX9XN8rp2xFKUkk1Fl1OSklHrg9bv+EsDPxj2+u9csROnQQ9V/LYVkSemcHS/tsFQi6Xxs3OJLvYcP5W4gFfXcyPSkFKUULGdsAL45lywUTkVcJ2HaQ1IkJBMMi8dGv5uLktIZo4SoXGZxsVd8YiB8cwl458ssLiUSbZA6QREhI9bkaEmwQZrRU6FXXm+QKQ1g4Fee+pTsRSSWUIOMAgKjhcT08WJRhgDuVerMC48XawD3KnrbnqonxvFiUUg0x+jxYo2fjBerRI2XVEg9lTB/SmbIkCF9+AI9qcvZ+RfXAAAAAABJRU5ErkJggg==",
-    "wiki_name": "Amethyst javelin heads",
-    "wiki_url": "https://oldschool.runescape.wiki/w/Amethyst_javelin_heads",
+    "wiki_name": "Amethyst javelin tips",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Amethyst_javelin_tips",
     "equipment": null,
     "weapon": null
 }

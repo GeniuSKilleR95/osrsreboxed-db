@@ -9,7 +9,7 @@
     },
     "2": {
         "id": 2,
-        "name": "Cannonball"
+        "name": "Steel cannonball"
     },
     "3": {
         "id": 3,
@@ -3486,6 +3486,14 @@
     "1458": {
         "id": 1458,
         "name": "Law talisman"
+    },
+    "1459": {
+        "id": 1459,
+        "name": "Auto-weed"
+    },
+    "1460": {
+        "id": 1460,
+        "name": "Soul talisman"
     },
     "1462": {
         "id": 1462,
@@ -8097,19 +8105,19 @@
     },
     "3337": {
         "id": 3337,
-        "name": "Myre snelm"
+        "name": "Pointed myre snelm"
     },
     "3339": {
         "id": 3339,
-        "name": "Blood'n'tar snelm"
+        "name": "Pointed blood'n'tar snelm"
     },
     "3341": {
         "id": 3341,
-        "name": "Ochre snelm"
+        "name": "Pointed ochre snelm"
     },
     "3343": {
         "id": 3343,
-        "name": "Bruise blue snelm"
+        "name": "Pointed bruise blue snelm"
     },
     "3345": {
         "id": 3345,
@@ -10145,11 +10153,11 @@
     },
     "4041": {
         "id": 4041,
-        "name": "Hooded cloak"
+        "name": "Saradomin cloak"
     },
     "4042": {
         "id": 4042,
-        "name": "Hooded cloak"
+        "name": "Zamorak cloak"
     },
     "4043": {
         "id": 4043,
@@ -13715,6 +13723,10 @@
         "id": 5545,
         "name": "Law tiara"
     },
+    "5546": {
+        "id": 5546,
+        "name": "Auto-weed (deactivated)"
+    },
     "5547": {
         "id": 5547,
         "name": "Death tiara"
@@ -13722,6 +13734,14 @@
     "5549": {
         "id": 5549,
         "name": "Blood tiara"
+    },
+    "5551": {
+        "id": 5551,
+        "name": "Gricoller's can (refill)"
+    },
+    "5552": {
+        "id": 5552,
+        "name": "Auto-weed (activated)"
     },
     "5553": {
         "id": 5553,
@@ -16381,7 +16401,7 @@
     },
     "6675": {
         "id": 6675,
-        "name": "An empty box"
+        "name": "Empty fish food box"
     },
     "6677": {
         "id": 6677,
@@ -18647,6 +18667,10 @@
         "id": 7498,
         "name": "Antique lamp"
     },
+    "7505": {
+        "id": 7505,
+        "name": "Red crab"
+    },
     "7508": {
         "id": 7508,
         "name": "Asgoldian ale"
@@ -18689,39 +18713,39 @@
     },
     "7518": {
         "id": 7518,
-        "name": "Crab meat"
+        "name": "Giant crab meat"
     },
     "7519": {
         "id": 7519,
-        "name": "Crab meat"
+        "name": "Giant crab meat"
     },
     "7520": {
         "id": 7520,
-        "name": "Burnt crab meat"
+        "name": "Burnt giant crab meat"
     },
     "7521": {
         "id": 7521,
-        "name": "Cooked crab meat"
+        "name": "Cooked giant crab meat"
     },
     "7523": {
         "id": 7523,
-        "name": "Cooked crab meat"
+        "name": "Cooked giant crab meat"
     },
     "7524": {
         "id": 7524,
-        "name": "Cooked crab meat"
+        "name": "Cooked giant crab meat"
     },
     "7525": {
         "id": 7525,
-        "name": "Cooked crab meat"
+        "name": "Cooked giant crab meat"
     },
     "7526": {
         "id": 7526,
-        "name": "Cooked crab meat"
+        "name": "Cooked giant crab meat"
     },
     "7527": {
         "id": 7527,
-        "name": "Ground crab meat"
+        "name": "Ground giant crab meat"
     },
     "7528": {
         "id": 7528,
@@ -20613,15 +20637,15 @@
     },
     "8087": {
         "id": 8087,
-        "name": "Minor head"
+        "name": "Teak mounted head display"
     },
     "8088": {
         "id": 8088,
-        "name": "Medium head"
+        "name": "Mahogany mounted head display"
     },
     "8089": {
         "id": 8089,
-        "name": "Major head"
+        "name": "Gilded mounted head display"
     },
     "8090": {
         "id": 8090,
@@ -22893,19 +22917,19 @@
     },
     "8924": {
         "id": 8924,
-        "name": "Bandana eyepatch"
+        "name": "Bandana eyepatch (white)"
     },
     "8925": {
         "id": 8925,
-        "name": "Bandana eyepatch"
+        "name": "Bandana eyepatch (red)"
     },
     "8926": {
         "id": 8926,
-        "name": "Bandana eyepatch"
+        "name": "Bandana eyepatch (blue)"
     },
     "8927": {
         "id": 8927,
-        "name": "Bandana eyepatch"
+        "name": "Bandana eyepatch (brown)"
     },
     "8928": {
         "id": 8928,
@@ -28799,6 +28823,78 @@
         "id": 11525,
         "name": "Feather"
     },
+    "11527": {
+        "id": 11527,
+        "name": "Mausoleum bridge repair"
+    },
+    "11547": {
+        "id": 11547,
+        "name": "Water pump"
+    },
+    "11548": {
+        "id": 11548,
+        "name": "Cooking pot"
+    },
+    "11549": {
+        "id": 11549,
+        "name": "Pottery wheel"
+    },
+    "11550": {
+        "id": 11550,
+        "name": "Loom"
+    },
+    "11551": {
+        "id": 11551,
+        "name": "Pottery oven"
+    },
+    "11552": {
+        "id": 11552,
+        "name": "Rowboat"
+    },
+    "11553": {
+        "id": 11553,
+        "name": "Furnace"
+    },
+    "11574": {
+        "id": 11574,
+        "name": "Mounted giant blue krill"
+    },
+    "11578": {
+        "id": 11578,
+        "name": "Mounted harpoonfish"
+    },
+    "11580": {
+        "id": 11580,
+        "name": "Mounted golden haddock"
+    },
+    "11599": {
+        "id": 11599,
+        "name": "Oak mounted fish display"
+    },
+    "11600": {
+        "id": 11600,
+        "name": "Mounted orangefin"
+    },
+    "11601": {
+        "id": 11601,
+        "name": "Mahogany mounted fish display"
+    },
+    "11603": {
+        "id": 11603,
+        "name": "Teak mounted fish display"
+    },
+    "11604": {
+        "id": 11604,
+        "name": "Mounted halibut"
+    },
+    "11605": {
+        "id": 11605,
+        "name": "Mounted purplefin"
+    },
+    "11606": {
+        "id": 11606,
+        "name": "Mounted marlin"
+    },
     "11628": {
         "id": 11628,
         "name": "Ava's device"
@@ -28806,6 +28902,18 @@
     "11640": {
         "id": 11640,
         "name": "Book of knowledge"
+    },
+    "11645": {
+        "id": 11645,
+        "name": "Spinning wheel"
+    },
+    "11646": {
+        "id": 11646,
+        "name": "Anvil"
+    },
+    "11647": {
+        "id": 11647,
+        "name": "Bank chest"
     },
     "11656": {
         "id": 11656,
@@ -29293,7 +29401,7 @@
     },
     "11793": {
         "id": 11793,
-        "name": "Agility jump"
+        "name": "Agility strength"
     },
     "11794": {
         "id": 11794,
@@ -35201,31 +35309,31 @@
     },
     "19570": {
         "id": 19570,
-        "name": "Bronze javelin heads"
+        "name": "Bronze javelin tips"
     },
     "19572": {
         "id": 19572,
-        "name": "Iron javelin heads"
+        "name": "Iron javelin tips"
     },
     "19574": {
         "id": 19574,
-        "name": "Steel javelin heads"
+        "name": "Steel javelin tips"
     },
     "19576": {
         "id": 19576,
-        "name": "Mithril javelin heads"
+        "name": "Mithril javelin tips"
     },
     "19578": {
         "id": 19578,
-        "name": "Adamant javelin heads"
+        "name": "Adamant javelin tips"
     },
     "19580": {
         "id": 19580,
-        "name": "Rune javelin heads"
+        "name": "Rune javelin tips"
     },
     "19582": {
         "id": 19582,
-        "name": "Dragon javelin heads"
+        "name": "Dragon javelin tips"
     },
     "19584": {
         "id": 19584,
@@ -39525,7 +39633,7 @@
     },
     "21352": {
         "id": 21352,
-        "name": "Amethyst javelin heads"
+        "name": "Amethyst javelin tips"
     },
     "21354": {
         "id": 21354,
@@ -42443,10 +42551,6 @@
         "id": 22817,
         "name": "Cormorant's glove"
     },
-    "22818": {
-        "id": 22818,
-        "name": "Fish chunks"
-    },
     "22820": {
         "id": 22820,
         "name": "Molch pearl"
@@ -44029,7 +44133,7 @@
     },
     "23670": {
         "id": 23670,
-        "name": "Flyer"
+        "name": "Iwan's flyer"
     },
     "23673": {
         "id": 23673,
@@ -47137,7 +47241,7 @@
     },
     "25104": {
         "id": 25104,
-        "name": "Crystal of memories"
+        "name": "Crystal of echoes"
     },
     "25106": {
         "id": 25106,
@@ -47149,15 +47253,15 @@
     },
     "25110": {
         "id": 25110,
-        "name": "Trailblazer axe"
+        "name": "Echo axe"
     },
     "25112": {
         "id": 25112,
-        "name": "Trailblazer pickaxe"
+        "name": "Echo pickaxe"
     },
     "25114": {
         "id": 25114,
-        "name": "Trailblazer harpoon"
+        "name": "Echo harpoon"
     },
     "25117": {
         "id": 25117,
@@ -51961,7 +52065,7 @@
     },
     "27187": {
         "id": 27187,
-        "name": "Bow of faerdhinen"
+        "name": "Bow of faerdhinen (c)"
     },
     "27188": {
         "id": 27188,
@@ -54941,11 +55045,11 @@
     },
     "28498": {
         "id": 28498,
-        "name": "Sigil of the well-fed"
+        "name": "Sigil of the well fed"
     },
     "28499": {
         "id": 28499,
-        "name": "Sigil of the well-fed"
+        "name": "Sigil of the well fed"
     },
     "28501": {
         "id": 28501,
@@ -55061,19 +55165,19 @@
     },
     "28551": {
         "id": 28551,
-        "name": "Quest lamp"
+        "name": "Fremennik quest lamp"
     },
     "28552": {
         "id": 28552,
-        "name": "Quest lamp"
+        "name": "Elf quest lamp"
     },
     "28553": {
         "id": 28553,
-        "name": "Quest lamp"
+        "name": "Gnome quest lamp"
     },
     "28554": {
         "id": 28554,
-        "name": "Quest lamp"
+        "name": "Mahjarrat 1 quest lamp"
     },
     "28555": {
         "id": 28555,
@@ -55457,11 +55561,11 @@
     },
     "28769": {
         "id": 28769,
-        "name": "Guardian horn"
+        "name": "Minion whistle"
     },
     "28771": {
         "id": 28771,
-        "name": "Sage's greaves"
+        "name": "Searing boots"
     },
     "28773": {
         "id": 28773,
@@ -57233,11 +57337,11 @@
     },
     "29654": {
         "id": 29654,
-        "name": "Sigil of rampart"
+        "name": "Sigil of the rampart"
     },
     "29655": {
         "id": 29655,
-        "name": "Sigil of rampart"
+        "name": "Sigil of the rampart"
     },
     "29657": {
         "id": 29657,
@@ -57249,19 +57353,19 @@
     },
     "29660": {
         "id": 29660,
-        "name": "Sigil of lithe"
+        "name": "Sigil of litheness"
     },
     "29661": {
         "id": 29661,
-        "name": "Sigil of lithe"
+        "name": "Sigil of litheness"
     },
     "29663": {
         "id": 29663,
-        "name": "Sigil of adroit"
+        "name": "Sigil of the adroit"
     },
     "29664": {
         "id": 29664,
-        "name": "Sigil of adroit"
+        "name": "Sigil of the adroit"
     },
     "29666": {
         "id": 29666,
@@ -57281,19 +57385,19 @@
     },
     "29672": {
         "id": 29672,
-        "name": "Sigil of swashbuckler"
+        "name": "Sigil of the swashbuckler"
     },
     "29673": {
         "id": 29673,
-        "name": "Sigil of swashbuckler"
+        "name": "Sigil of the swashbuckler"
     },
     "29675": {
         "id": 29675,
-        "name": "Sigil of gunslinger"
+        "name": "Sigil of the gunslinger"
     },
     "29676": {
         "id": 29676,
-        "name": "Sigil of gunslinger"
+        "name": "Sigil of the gunslinger"
     },
     "29678": {
         "id": 29678,
@@ -58017,11 +58121,11 @@
     },
     "30000": {
         "id": 30000,
-        "name": "Pre-pot device"
+        "name": "Chugging barrel"
     },
     "30002": {
         "id": 30002,
-        "name": "Pre-pot device (disassembled)"
+        "name": "Chugging barrel (disassembled)"
     },
     "30005": {
         "id": 30005,
@@ -58366,5 +58470,7685 @@
     "30157": {
         "id": 30157,
         "name": "Butler's tray"
+    },
+    "30232": {
+        "id": 30232,
+        "name": "Scarecrow shirt"
+    },
+    "30234": {
+        "id": 30234,
+        "name": "Halloween scarecrow"
+    },
+    "30236": {
+        "id": 30236,
+        "name": "Scarecrow"
+    },
+    "30237": {
+        "id": 30237,
+        "name": "Beige pumpkin (disgusted)"
+    },
+    "30239": {
+        "id": 30239,
+        "name": "Beige pumpkin (silly)"
+    },
+    "30241": {
+        "id": 30241,
+        "name": "Beige pumpkin (evil)"
+    },
+    "30242": {
+        "id": 30242,
+        "name": "Beige pumpkin (angry)"
+    },
+    "30243": {
+        "id": 30243,
+        "name": "Beige pumpkin (depressed)"
+    },
+    "30244": {
+        "id": 30244,
+        "name": "Beige pumpkin (shocked)"
+    },
+    "30245": {
+        "id": 30245,
+        "name": "Beige pumpkin (sad)"
+    },
+    "30246": {
+        "id": 30246,
+        "name": "Beige pumpkin (happy)"
+    },
+    "30247": {
+        "id": 30247,
+        "name": "Beige pumpkin (laughing)"
+    },
+    "30248": {
+        "id": 30248,
+        "name": "White pumpkin (disgusted)"
+    },
+    "30249": {
+        "id": 30249,
+        "name": "White pumpkin (silly)"
+    },
+    "30250": {
+        "id": 30250,
+        "name": "White pumpkin (evil)"
+    },
+    "30251": {
+        "id": 30251,
+        "name": "White pumpkin (angry)"
+    },
+    "30252": {
+        "id": 30252,
+        "name": "White pumpkin (depressed)"
+    },
+    "30253": {
+        "id": 30253,
+        "name": "White pumpkin (shocked)"
+    },
+    "30254": {
+        "id": 30254,
+        "name": "White pumpkin (sad)"
+    },
+    "30255": {
+        "id": 30255,
+        "name": "White pumpkin (happy)"
+    },
+    "30256": {
+        "id": 30256,
+        "name": "White pumpkin (laughing)"
+    },
+    "30257": {
+        "id": 30257,
+        "name": "Yellow pumpkin (disgusted)"
+    },
+    "30258": {
+        "id": 30258,
+        "name": "Yellow pumpkin (silly)"
+    },
+    "30259": {
+        "id": 30259,
+        "name": "Yellow pumpkin (evil)"
+    },
+    "30260": {
+        "id": 30260,
+        "name": "Yellow pumpkin (angry)"
+    },
+    "30261": {
+        "id": 30261,
+        "name": "Yellow pumpkin (depressed)"
+    },
+    "30262": {
+        "id": 30262,
+        "name": "Yellow pumpkin (shocked)"
+    },
+    "30263": {
+        "id": 30263,
+        "name": "Yellow pumpkin (sad)"
+    },
+    "30264": {
+        "id": 30264,
+        "name": "Yellow pumpkin (happy)"
+    },
+    "30265": {
+        "id": 30265,
+        "name": "Yellow pumpkin (laughing)"
+    },
+    "30266": {
+        "id": 30266,
+        "name": "Orange pumpkin (disgusted)"
+    },
+    "30267": {
+        "id": 30267,
+        "name": "Orange pumpkin (silly)"
+    },
+    "30268": {
+        "id": 30268,
+        "name": "Orange pumpkin (evil)"
+    },
+    "30269": {
+        "id": 30269,
+        "name": "Orange pumpkin (angry)"
+    },
+    "30270": {
+        "id": 30270,
+        "name": "Orange pumpkin (depressed)"
+    },
+    "30271": {
+        "id": 30271,
+        "name": "Orange pumpkin (shocked)"
+    },
+    "30272": {
+        "id": 30272,
+        "name": "Orange pumpkin (sad)"
+    },
+    "30273": {
+        "id": 30273,
+        "name": "Orange pumpkin (happy)"
+    },
+    "30274": {
+        "id": 30274,
+        "name": "Orange pumpkin (laughing)"
+    },
+    "30275": {
+        "id": 30275,
+        "name": "Red pumpkin (disgusted)"
+    },
+    "30276": {
+        "id": 30276,
+        "name": "Red pumpkin (silly)"
+    },
+    "30277": {
+        "id": 30277,
+        "name": "Red pumpkin (evil)"
+    },
+    "30278": {
+        "id": 30278,
+        "name": "Red pumpkin (angry)"
+    },
+    "30279": {
+        "id": 30279,
+        "name": "Red pumpkin (depressed)"
+    },
+    "30280": {
+        "id": 30280,
+        "name": "Red pumpkin (shocked)"
+    },
+    "30281": {
+        "id": 30281,
+        "name": "Red pumpkin (sad)"
+    },
+    "30282": {
+        "id": 30282,
+        "name": "Red pumpkin (happy)"
+    },
+    "30283": {
+        "id": 30283,
+        "name": "Red pumpkin (laughing)"
+    },
+    "30284": {
+        "id": 30284,
+        "name": "Dark green pumpkin (disgusted)"
+    },
+    "30285": {
+        "id": 30285,
+        "name": "Dark green pumpkin (silly)"
+    },
+    "30286": {
+        "id": 30286,
+        "name": "Dark green pumpkin (evil)"
+    },
+    "30287": {
+        "id": 30287,
+        "name": "Dark green pumpkin (angry)"
+    },
+    "30288": {
+        "id": 30288,
+        "name": "Dark green pumpkin (depressed)"
+    },
+    "30289": {
+        "id": 30289,
+        "name": "Dark green pumpkin (shocked)"
+    },
+    "30290": {
+        "id": 30290,
+        "name": "Dark green pumpkin (sad)"
+    },
+    "30291": {
+        "id": 30291,
+        "name": "Dark green pumpkin (happy)"
+    },
+    "30292": {
+        "id": 30292,
+        "name": "Dark green pumpkin (laughing)"
+    },
+    "30293": {
+        "id": 30293,
+        "name": "Powder grey pumpkin (disgusted)"
+    },
+    "30294": {
+        "id": 30294,
+        "name": "Powder grey pumpkin (silly)"
+    },
+    "30295": {
+        "id": 30295,
+        "name": "Powder grey pumpkin (evil)"
+    },
+    "30296": {
+        "id": 30296,
+        "name": "Powder grey pumpkin (angry)"
+    },
+    "30297": {
+        "id": 30297,
+        "name": "Powder grey pumpkin (depressed)"
+    },
+    "30298": {
+        "id": 30298,
+        "name": "Powder grey pumpkin (shocked)"
+    },
+    "30299": {
+        "id": 30299,
+        "name": "Powder grey pumpkin (sad)"
+    },
+    "30300": {
+        "id": 30300,
+        "name": "Powder grey pumpkin (happy)"
+    },
+    "30301": {
+        "id": 30301,
+        "name": "Powder grey pumpkin (laughing)"
+    },
+    "30302": {
+        "id": 30302,
+        "name": "Torva full helm"
+    },
+    "30303": {
+        "id": 30303,
+        "name": "Torva platebody"
+    },
+    "30304": {
+        "id": 30304,
+        "name": "Torva platelegs"
+    },
+    "30305": {
+        "id": 30305,
+        "name": "Arclight (inactive)"
+    },
+    "30307": {
+        "id": 30307,
+        "name": "Elias' message"
+    },
+    "30308": {
+        "id": 30308,
+        "name": "Mastaba key"
+    },
+    "30309": {
+        "id": 30309,
+        "name": "Mastaba key"
+    },
+    "30310": {
+        "id": 30310,
+        "name": "Base plans"
+    },
+    "30311": {
+        "id": 30311,
+        "name": "Base key"
+    },
+    "30312": {
+        "id": 30312,
+        "name": "Canopic jar (oil)"
+    },
+    "30313": {
+        "id": 30313,
+        "name": "Canopic jar (oil and berries)"
+    },
+    "30314": {
+        "id": 30314,
+        "name": "Canopic jar (full)"
+    },
+    "30316": {
+        "id": 30316,
+        "name": "Code key"
+    },
+    "30317": {
+        "id": 30317,
+        "name": "Decoder strips"
+    },
+    "30318": {
+        "id": 30318,
+        "name": "Mahjarrat notes (a-j)"
+    },
+    "30319": {
+        "id": 30319,
+        "name": "Mahjarrat notes (k-z)"
+    },
+    "30320": {
+        "id": 30320,
+        "name": "Arrav's axe"
+    },
+    "30321": {
+        "id": 30321,
+        "name": "Zombie helmet"
+    },
+    "30324": {
+        "id": 30324,
+        "name": "Broken zombie helmet"
+    },
+    "30328": {
+        "id": 30328,
+        "name": "Dust"
+    },
+    "30331": {
+        "id": 30331,
+        "name": "Raging echoes relic hunter (t1) armour set"
+    },
+    "30334": {
+        "id": 30334,
+        "name": "Raging echoes relic hunter (t2) armour set"
+    },
+    "30337": {
+        "id": 30337,
+        "name": "Raging echoes relic hunter (t3) armour set"
+    },
+    "30340": {
+        "id": 30340,
+        "name": "Crystal dagger (perfected)"
+    },
+    "30342": {
+        "id": 30342,
+        "name": "Infernal harpoon (or)"
+    },
+    "30343": {
+        "id": 30343,
+        "name": "Infernal harpoon (uncharged)"
+    },
+    "30345": {
+        "id": 30345,
+        "name": "Infernal pickaxe (or)"
+    },
+    "30346": {
+        "id": 30346,
+        "name": "Infernal pickaxe (uncharged)"
+    },
+    "30347": {
+        "id": 30347,
+        "name": "Infernal axe (or)"
+    },
+    "30348": {
+        "id": 30348,
+        "name": "Infernal axe (uncharged)"
+    },
+    "30349": {
+        "id": 30349,
+        "name": "Dragon harpoon (or)"
+    },
+    "30351": {
+        "id": 30351,
+        "name": "Dragon pickaxe (or)"
+    },
+    "30352": {
+        "id": 30352,
+        "name": "Dragon axe (or)"
+    },
+    "30353": {
+        "id": 30353,
+        "name": "Cabbage"
+    },
+    "30355": {
+        "id": 30355,
+        "name": "Cabbage"
+    },
+    "30357": {
+        "id": 30357,
+        "name": "Forager's pouch"
+    },
+    "30359": {
+        "id": 30359,
+        "name": "Leprechaun's vault"
+    },
+    "30361": {
+        "id": 30361,
+        "name": "Banker's briefcase"
+    },
+    "30363": {
+        "id": 30363,
+        "name": "Clue compass"
+    },
+    "30365": {
+        "id": 30365,
+        "name": "Pocket kingdom"
+    },
+    "30367": {
+        "id": 30367,
+        "name": "The dogsword"
+    },
+    "30369": {
+        "id": 30369,
+        "name": "Sunlight spear"
+    },
+    "30371": {
+        "id": 30371,
+        "name": "Devil's element"
+    },
+    "30373": {
+        "id": 30373,
+        "name": "Drygore blowpipe (empty)"
+    },
+    "30374": {
+        "id": 30374,
+        "name": "Drygore blowpipe"
+    },
+    "30376": {
+        "id": 30376,
+        "name": "Amulet of the monarchs"
+    },
+    "30378": {
+        "id": 30378,
+        "name": "Emperor ring"
+    },
+    "30380": {
+        "id": 30380,
+        "name": "Gloves of the damned"
+    },
+    "30382": {
+        "id": 30382,
+        "name": "Thousand-dragon ward"
+    },
+    "30384": {
+        "id": 30384,
+        "name": "Crystal blessing"
+    },
+    "30386": {
+        "id": 30386,
+        "name": "Sunlit bracers"
+    },
+    "30388": {
+        "id": 30388,
+        "name": "Thunder khopesh"
+    },
+    "30390": {
+        "id": 30390,
+        "name": "Nature's reprisal"
+    },
+    "30392": {
+        "id": 30392,
+        "name": "Nature's reprisal (uncharged)"
+    },
+    "30393": {
+        "id": 30393,
+        "name": "Asgarnia echo orb"
+    },
+    "30394": {
+        "id": 30394,
+        "name": "Desert echo orb"
+    },
+    "30395": {
+        "id": 30395,
+        "name": "Fremennik echo orb"
+    },
+    "30396": {
+        "id": 30396,
+        "name": "Kandarin echo orb"
+    },
+    "30397": {
+        "id": 30397,
+        "name": "Morytania echo orb"
+    },
+    "30398": {
+        "id": 30398,
+        "name": "Tirannwn echo orb"
+    },
+    "30399": {
+        "id": 30399,
+        "name": "Wilderness echo orb"
+    },
+    "30400": {
+        "id": 30400,
+        "name": "Kourend echo orb"
+    },
+    "30401": {
+        "id": 30401,
+        "name": "Varlamore echo orb"
+    },
+    "30402": {
+        "id": 30402,
+        "name": "Raids megarare voucher"
+    },
+    "30404": {
+        "id": 30404,
+        "name": "Raging echoes hat (t1)"
+    },
+    "30406": {
+        "id": 30406,
+        "name": "Raging echoes top (t1)"
+    },
+    "30408": {
+        "id": 30408,
+        "name": "Raging echoes robeskirt (t1)"
+    },
+    "30410": {
+        "id": 30410,
+        "name": "Raging echoes boots (t1)"
+    },
+    "30412": {
+        "id": 30412,
+        "name": "Raging echoes hat (t2)"
+    },
+    "30414": {
+        "id": 30414,
+        "name": "Raging echoes top (t2)"
+    },
+    "30416": {
+        "id": 30416,
+        "name": "Raging echoes robeskirt (t2)"
+    },
+    "30418": {
+        "id": 30418,
+        "name": "Raging echoes boots (t2)"
+    },
+    "30420": {
+        "id": 30420,
+        "name": "Raging echoes hat (t3)"
+    },
+    "30422": {
+        "id": 30422,
+        "name": "Raging echoes top (t3)"
+    },
+    "30424": {
+        "id": 30424,
+        "name": "Raging echoes robeskirt (t3)"
+    },
+    "30426": {
+        "id": 30426,
+        "name": "Raging echoes boots (t3)"
+    },
+    "30428": {
+        "id": 30428,
+        "name": "Raging echoes cane"
+    },
+    "30430": {
+        "id": 30430,
+        "name": "Raging echoes banner"
+    },
+    "30432": {
+        "id": 30432,
+        "name": "Echo venator bow ornament kit"
+    },
+    "30434": {
+        "id": 30434,
+        "name": "Echo venator bow"
+    },
+    "30436": {
+        "id": 30436,
+        "name": "Echo venator bow (uncharged)"
+    },
+    "30437": {
+        "id": 30437,
+        "name": "Echo virtus mask"
+    },
+    "30439": {
+        "id": 30439,
+        "name": "Echo virtus robe top"
+    },
+    "30441": {
+        "id": 30441,
+        "name": "Echo virtus robe bottom"
+    },
+    "30443": {
+        "id": 30443,
+        "name": "Echo virtus ornament kit"
+    },
+    "30445": {
+        "id": 30445,
+        "name": "Echo ahrim's hood"
+    },
+    "30447": {
+        "id": 30447,
+        "name": "Echo ahrim's robetop"
+    },
+    "30449": {
+        "id": 30449,
+        "name": "Echo ahrim's robeskirt"
+    },
+    "30451": {
+        "id": 30451,
+        "name": "Echo ahrim's ornament kit"
+    },
+    "30453": {
+        "id": 30453,
+        "name": "Echo home teleport scroll"
+    },
+    "30455": {
+        "id": 30455,
+        "name": "Raging echoes death scroll"
+    },
+    "30457": {
+        "id": 30457,
+        "name": "Raging echoes npc contact scroll"
+    },
+    "30459": {
+        "id": 30459,
+        "name": "Raging echoes nexus scroll"
+    },
+    "30461": {
+        "id": 30461,
+        "name": "Raging echoes portal scroll"
+    },
+    "30465": {
+        "id": 30465,
+        "name": "Raging echoes dragon trophy"
+    },
+    "30467": {
+        "id": 30467,
+        "name": "Raging echoes rune trophy"
+    },
+    "30469": {
+        "id": 30469,
+        "name": "Raging echoes adamant trophy"
+    },
+    "30471": {
+        "id": 30471,
+        "name": "Raging echoes mithril trophy"
+    },
+    "30473": {
+        "id": 30473,
+        "name": "Raging echoes steel trophy"
+    },
+    "30475": {
+        "id": 30475,
+        "name": "Raging echoes iron trophy"
+    },
+    "30477": {
+        "id": 30477,
+        "name": "Raging echoes bronze trophy"
+    },
+    "30479": {
+        "id": 30479,
+        "name": "Present box hat"
+    },
+    "30481": {
+        "id": 30481,
+        "name": "Present box hat"
+    },
+    "30483": {
+        "id": 30483,
+        "name": "Present box hat"
+    },
+    "30485": {
+        "id": 30485,
+        "name": "Present box hat"
+    },
+    "30487": {
+        "id": 30487,
+        "name": "Dog disguise"
+    },
+    "30489": {
+        "id": 30489,
+        "name": "Festive scarf"
+    },
+    "30491": {
+        "id": 30491,
+        "name": "Dog boots"
+    },
+    "30495": {
+        "id": 30495,
+        "name": "Spirit tree"
+    },
+    "30496": {
+        "id": 30496,
+        "name": "Spirit tree"
+    },
+    "30497": {
+        "id": 30497,
+        "name": "Raging echoes portal nexus"
+    },
+    "30498": {
+        "id": 30498,
+        "name": "Raging echoes portal"
+    },
+    "30499": {
+        "id": 30499,
+        "name": "Scrying pool"
+    },
+    "30500": {
+        "id": 30500,
+        "name": "Raging echoes spirit tree & fairy ring"
+    },
+    "30501": {
+        "id": 30501,
+        "name": "Raging echoes rug"
+    },
+    "30502": {
+        "id": 30502,
+        "name": "Raging echoes curtains"
+    },
+    "30519": {
+        "id": 30519,
+        "name": "Echo ahrim's hood 100"
+    },
+    "30521": {
+        "id": 30521,
+        "name": "Echo ahrim's robetop 100"
+    },
+    "30523": {
+        "id": 30523,
+        "name": "Echo ahrim's robeskirt 100"
+    },
+    "30525": {
+        "id": 30525,
+        "name": "Echo ahrim's hood 75"
+    },
+    "30527": {
+        "id": 30527,
+        "name": "Echo ahrim's robetop 75"
+    },
+    "30529": {
+        "id": 30529,
+        "name": "Echo ahrim's robeskirt 75"
+    },
+    "30531": {
+        "id": 30531,
+        "name": "Echo ahrim's hood 50"
+    },
+    "30533": {
+        "id": 30533,
+        "name": "Echo ahrim's robetop 50"
+    },
+    "30535": {
+        "id": 30535,
+        "name": "Echo ahrim's robeskirt 50"
+    },
+    "30537": {
+        "id": 30537,
+        "name": "Echo ahrim's hood 25"
+    },
+    "30539": {
+        "id": 30539,
+        "name": "Echo ahrim's robetop 25"
+    },
+    "30541": {
+        "id": 30541,
+        "name": "Echo ahrim's robeskirt 25"
+    },
+    "30543": {
+        "id": 30543,
+        "name": "Echo ahrim's hood 0"
+    },
+    "30545": {
+        "id": 30545,
+        "name": "Echo ahrim's robetop 0"
+    },
+    "30547": {
+        "id": 30547,
+        "name": "Echo ahrim's robeskirt 0"
+    },
+    "30554": {
+        "id": 30554,
+        "name": "Raging echoes rug"
+    },
+    "30557": {
+        "id": 30557,
+        "name": "Raging echoes curtains"
+    },
+    "30560": {
+        "id": 30560,
+        "name": "Raging echoes scrying pool scroll"
+    },
+    "30563": {
+        "id": 30563,
+        "name": "Raging echoes spirit tree scroll"
+    },
+    "30567": {
+        "id": 30567,
+        "name": "Raging echoes spirit tree"
+    },
+    "30568": {
+        "id": 30568,
+        "name": "Echo ahrim's staff"
+    },
+    "30570": {
+        "id": 30570,
+        "name": "Echo ahrim's staff 100"
+    },
+    "30571": {
+        "id": 30571,
+        "name": "Echo ahrim's staff 75"
+    },
+    "30572": {
+        "id": 30572,
+        "name": "Echo ahrim's staff 50"
+    },
+    "30573": {
+        "id": 30573,
+        "name": "Echo ahrim's staff 25"
+    },
+    "30574": {
+        "id": 30574,
+        "name": "Echo ahrim's staff 0"
+    },
+    "30576": {
+        "id": 30576,
+        "name": "Bounty supply crate"
+    },
+    "30579": {
+        "id": 30579,
+        "name": "Collection log"
+    },
+    "30581": {
+        "id": 30581,
+        "name": "Collection log"
+    },
+    "30583": {
+        "id": 30583,
+        "name": "Collection log"
+    },
+    "30585": {
+        "id": 30585,
+        "name": "Collection log"
+    },
+    "30587": {
+        "id": 30587,
+        "name": "Collection log"
+    },
+    "30589": {
+        "id": 30589,
+        "name": "Collection log"
+    },
+    "30591": {
+        "id": 30591,
+        "name": "Collection log"
+    },
+    "30593": {
+        "id": 30593,
+        "name": "Collection log"
+    },
+    "30595": {
+        "id": 30595,
+        "name": "Collection log"
+    },
+    "30597": {
+        "id": 30597,
+        "name": "Bronze staff of collection"
+    },
+    "30599": {
+        "id": 30599,
+        "name": "Iron staff of collection"
+    },
+    "30601": {
+        "id": 30601,
+        "name": "Steel staff of collection"
+    },
+    "30603": {
+        "id": 30603,
+        "name": "Black staff of collection"
+    },
+    "30605": {
+        "id": 30605,
+        "name": "Mithril staff of collection"
+    },
+    "30607": {
+        "id": 30607,
+        "name": "Adamant staff of collection"
+    },
+    "30609": {
+        "id": 30609,
+        "name": "Rune staff of collection"
+    },
+    "30611": {
+        "id": 30611,
+        "name": "Dragon staff of collection"
+    },
+    "30613": {
+        "id": 30613,
+        "name": "Gilded staff of collection"
+    },
+    "30616": {
+        "id": 30616,
+        "name": "Bounty supply crate (manta ray)"
+    },
+    "30619": {
+        "id": 30619,
+        "name": "Bounty supply crate (anglerfish)"
+    },
+    "30622": {
+        "id": 30622,
+        "name": "Bran"
+    },
+    "30624": {
+        "id": 30624,
+        "name": "Ric"
+    },
+    "30626": {
+        "id": 30626,
+        "name": "Deadeye prayer scroll"
+    },
+    "30627": {
+        "id": 30627,
+        "name": "Mystic vigour prayer scroll"
+    },
+    "30628": {
+        "id": 30628,
+        "name": "Ice element staff crown"
+    },
+    "30631": {
+        "id": 30631,
+        "name": "Fire element staff crown"
+    },
+    "30634": {
+        "id": 30634,
+        "name": "Twinflame staff"
+    },
+    "30637": {
+        "id": 30637,
+        "name": "Giantsoul amulet (uncharged)"
+    },
+    "30638": {
+        "id": 30638,
+        "name": "Giantsoul amulet"
+    },
+    "30640": {
+        "id": 30640,
+        "name": "Desiccated page"
+    },
+    "30644": {
+        "id": 30644,
+        "name": "Hunters' loot sack (supplies)"
+    },
+    "30646": {
+        "id": 30646,
+        "name": "Classic imp tail"
+    },
+    "30648": {
+        "id": 30648,
+        "name": "Classic imp hood"
+    },
+    "30650": {
+        "id": 30650,
+        "name": "Teak display"
+    },
+    "30651": {
+        "id": 30651,
+        "name": "Mahogany display"
+    },
+    "30652": {
+        "id": 30652,
+        "name": "Mahogany display"
+    },
+    "30653": {
+        "id": 30653,
+        "name": "Gilded display"
+    },
+    "30654": {
+        "id": 30654,
+        "name": "Gilded display"
+    },
+    "30655": {
+        "id": 30655,
+        "name": "Crawling hand"
+    },
+    "30656": {
+        "id": 30656,
+        "name": "Crawling hand"
+    },
+    "30657": {
+        "id": 30657,
+        "name": "Cockatrice head"
+    },
+    "30658": {
+        "id": 30658,
+        "name": "Cockatrice head"
+    },
+    "30659": {
+        "id": 30659,
+        "name": "Basilisk head"
+    },
+    "30660": {
+        "id": 30660,
+        "name": "Basilisk head"
+    },
+    "30661": {
+        "id": 30661,
+        "name": "Kurask head"
+    },
+    "30662": {
+        "id": 30662,
+        "name": "Abyssal head"
+    },
+    "30663": {
+        "id": 30663,
+        "name": "Oak display"
+    },
+    "30664": {
+        "id": 30664,
+        "name": "Teak display"
+    },
+    "30665": {
+        "id": 30665,
+        "name": "Teak display"
+    },
+    "30666": {
+        "id": 30666,
+        "name": "Mahogany display"
+    },
+    "30667": {
+        "id": 30667,
+        "name": "Mahogany display"
+    },
+    "30668": {
+        "id": 30668,
+        "name": "Mounted bass"
+    },
+    "30669": {
+        "id": 30669,
+        "name": "Mounted bass"
+    },
+    "30670": {
+        "id": 30670,
+        "name": "Mounted swordfish"
+    },
+    "30671": {
+        "id": 30671,
+        "name": "Mounted harpoonfish"
+    },
+    "30676": {
+        "id": 30676,
+        "name": "Nimbleness charm"
+    },
+    "30679": {
+        "id": 30679,
+        "name": "Stockpiling charm"
+    },
+    "30682": {
+        "id": 30682,
+        "name": "Accumulation charm"
+    },
+    "30685": {
+        "id": 30685,
+        "name": "Vulnerability charm"
+    },
+    "30688": {
+        "id": 30688,
+        "name": "Broken charm"
+    },
+    "30689": {
+        "id": 30689,
+        "name": "Trinket dust"
+    },
+    "30690": {
+        "id": 30690,
+        "name": "Castle wars supply crate"
+    },
+    "30692": {
+        "id": 30692,
+        "name": "Rune pouch"
+    },
+    "30694": {
+        "id": 30694,
+        "name": "Castle wars arrow"
+    },
+    "30696": {
+        "id": 30696,
+        "name": "Castle wars bolts"
+    },
+    "30720": {
+        "id": 30720,
+        "name": "Carrot costume hat"
+    },
+    "30722": {
+        "id": 30722,
+        "name": "Carrot costume body"
+    },
+    "30724": {
+        "id": 30724,
+        "name": "Carrot costume tights"
+    },
+    "30726": {
+        "id": 30726,
+        "name": "Carrot costume gloves"
+    },
+    "30744": {
+        "id": 30744,
+        "name": "Oathplate armour set"
+    },
+    "30747": {
+        "id": 30747,
+        "name": "Demon dung"
+    },
+    "30750": {
+        "id": 30750,
+        "name": "Oathplate helm"
+    },
+    "30753": {
+        "id": 30753,
+        "name": "Oathplate chest"
+    },
+    "30756": {
+        "id": 30756,
+        "name": "Oathplate legs"
+    },
+    "30759": {
+        "id": 30759,
+        "name": "Soulflame horn"
+    },
+    "30763": {
+        "id": 30763,
+        "name": "Forgotten lockbox"
+    },
+    "30765": {
+        "id": 30765,
+        "name": "Oathplate shards"
+    },
+    "30771": {
+        "id": 30771,
+        "name": "Aether catalyst"
+    },
+    "30773": {
+        "id": 30773,
+        "name": "Diabolic worms"
+    },
+    "30775": {
+        "id": 30775,
+        "name": "Chasm teleport scroll"
+    },
+    "30777": {
+        "id": 30777,
+        "name": "Radiant oathplate helm"
+    },
+    "30779": {
+        "id": 30779,
+        "name": "Radiant oathplate chest"
+    },
+    "30781": {
+        "id": 30781,
+        "name": "Radiant oathplate legs"
+    },
+    "30783": {
+        "id": 30783,
+        "name": "Purifying sigil (left)"
+    },
+    "30785": {
+        "id": 30785,
+        "name": "Purifying sigil (right)"
+    },
+    "30787": {
+        "id": 30787,
+        "name": "Purifying sigil (middle)"
+    },
+    "30789": {
+        "id": 30789,
+        "name": "Purifying sigil (top)"
+    },
+    "30791": {
+        "id": 30791,
+        "name": "Purifying sigil (bottom)"
+    },
+    "30793": {
+        "id": 30793,
+        "name": "Purifying sigil"
+    },
+    "30795": {
+        "id": 30795,
+        "name": "Barrel of demonic tallow (full)"
+    },
+    "30798": {
+        "id": 30798,
+        "name": "Barrel of demonic tallow"
+    },
+    "30800": {
+        "id": 30800,
+        "name": "Demonic tallow"
+    },
+    "30803": {
+        "id": 30803,
+        "name": "Dossier"
+    },
+    "30805": {
+        "id": 30805,
+        "name": "Dossier"
+    },
+    "30806": {
+        "id": 30806,
+        "name": "Rite of vile transference"
+    },
+    "30808": {
+        "id": 30808,
+        "name": "Jim's wet cloth"
+    },
+    "30810": {
+        "id": 30810,
+        "name": "Contract of glyphic attenuation"
+    },
+    "30813": {
+        "id": 30813,
+        "name": "Contract of sensory clouding"
+    },
+    "30816": {
+        "id": 30816,
+        "name": "Contract of bloodied blows"
+    },
+    "30819": {
+        "id": 30819,
+        "name": "Contract of divine severance"
+    },
+    "30822": {
+        "id": 30822,
+        "name": "Contract of forfeit breath"
+    },
+    "30825": {
+        "id": 30825,
+        "name": "Contract of oathplate acquisition"
+    },
+    "30828": {
+        "id": 30828,
+        "name": "Contract of shard acquisition"
+    },
+    "30831": {
+        "id": 30831,
+        "name": "Contract of catalyst acquisition"
+    },
+    "30834": {
+        "id": 30834,
+        "name": "Contract of worm acquisition"
+    },
+    "30837": {
+        "id": 30837,
+        "name": "Contract of harmony acquisition"
+    },
+    "30840": {
+        "id": 30840,
+        "name": "Contract of familiar acquisition"
+    },
+    "30843": {
+        "id": 30843,
+        "name": "Aether rune"
+    },
+    "30846": {
+        "id": 30846,
+        "name": "Infernal shale"
+    },
+    "30848": {
+        "id": 30848,
+        "name": "Crushed infernal shale"
+    },
+    "30854": {
+        "id": 30854,
+        "name": "Infernal blend"
+    },
+    "30856": {
+        "id": 30856,
+        "name": "Malformed infernal blend"
+    },
+    "30858": {
+        "id": 30858,
+        "name": "Infernal nugget"
+    },
+    "30860": {
+        "id": 30860,
+        "name": "Cooled infernal chunk"
+    },
+    "30862": {
+        "id": 30862,
+        "name": "Infernal chunk"
+    },
+    "30864": {
+        "id": 30864,
+        "name": "Infernal plate"
+    },
+    "30872": {
+        "id": 30872,
+        "name": ""
+    },
+    "30875": {
+        "id": 30875,
+        "name": "Surge potion(4)"
+    },
+    "30878": {
+        "id": 30878,
+        "name": "Surge potion(3)"
+    },
+    "30881": {
+        "id": 30881,
+        "name": "Surge potion(2)"
+    },
+    "30884": {
+        "id": 30884,
+        "name": "Surge potion(1)"
+    },
+    "30887": {
+        "id": 30887,
+        "name": "Polycatalytic guardian stone"
+    },
+    "30888": {
+        "id": 30888,
+        "name": "Yami"
+    },
+    "30890": {
+        "id": 30890,
+        "name": "Rotten turnip"
+    },
+    "30891": {
+        "id": 30891,
+        "name": "Keris partisan of amascut"
+    },
+    "30893": {
+        "id": 30893,
+        "name": "Jewel of amascut"
+    },
+    "30895": {
+        "id": 30895,
+        "name": "Steel ring"
+    },
+    "30898": {
+        "id": 30898,
+        "name": "Giant bones"
+    },
+    "30900": {
+        "id": 30900,
+        "name": "Shark lure"
+    },
+    "30902": {
+        "id": 30902,
+        "name": "Minor beginner scroll case"
+    },
+    "30904": {
+        "id": 30904,
+        "name": "Major beginner scroll case"
+    },
+    "30906": {
+        "id": 30906,
+        "name": "Minor easy scroll case"
+    },
+    "30908": {
+        "id": 30908,
+        "name": "Major easy scroll case"
+    },
+    "30910": {
+        "id": 30910,
+        "name": "Minor medium scroll case"
+    },
+    "30912": {
+        "id": 30912,
+        "name": "Major medium scroll case"
+    },
+    "30914": {
+        "id": 30914,
+        "name": "Minor hard scroll case"
+    },
+    "30916": {
+        "id": 30916,
+        "name": "Major hard scroll case"
+    },
+    "30918": {
+        "id": 30918,
+        "name": "Minor elite scroll case"
+    },
+    "30920": {
+        "id": 30920,
+        "name": "Major elite scroll case"
+    },
+    "30922": {
+        "id": 30922,
+        "name": "Minor master scroll case"
+    },
+    "30924": {
+        "id": 30924,
+        "name": "Major master scroll case"
+    },
+    "30926": {
+        "id": 30926,
+        "name": "Mimic scroll case"
+    },
+    "30928": {
+        "id": 30928,
+        "name": "Clue scroll (easy)"
+    },
+    "30929": {
+        "id": 30929,
+        "name": "Clue scroll (hard)"
+    },
+    "30930": {
+        "id": 30930,
+        "name": "Challenge scroll (hard)"
+    },
+    "30931": {
+        "id": 30931,
+        "name": "Clue scroll (hard)"
+    },
+    "30932": {
+        "id": 30932,
+        "name": "Clue scroll (elite)"
+    },
+    "30933": {
+        "id": 30933,
+        "name": "Clue scroll (medium)"
+    },
+    "30934": {
+        "id": 30934,
+        "name": "Challenge scroll (medium)"
+    },
+    "30935": {
+        "id": 30935,
+        "name": "Clue scroll (medium)"
+    },
+    "30936": {
+        "id": 30936,
+        "name": "Wet fabric scrap"
+    },
+    "30937": {
+        "id": 30937,
+        "name": "Caerula berries"
+    },
+    "30939": {
+        "id": 30939,
+        "name": "Mind mender"
+    },
+    "30941": {
+        "id": 30941,
+        "name": "Coin purse"
+    },
+    "30942": {
+        "id": 30942,
+        "name": "Empty coin purse"
+    },
+    "30943": {
+        "id": 30943,
+        "name": "Sandy coin purse"
+    },
+    "30944": {
+        "id": 30944,
+        "name": "Makeshift blackjack"
+    },
+    "30945": {
+        "id": 30945,
+        "name": "Branch"
+    },
+    "30947": {
+        "id": 30947,
+        "name": "Potato sack"
+    },
+    "30949": {
+        "id": 30949,
+        "name": "Emissary scroll"
+    },
+    "30950": {
+        "id": 30950,
+        "name": "Canvas piece"
+    },
+    "30951": {
+        "id": 30951,
+        "name": "Key"
+    },
+    "30952": {
+        "id": 30952,
+        "name": "Stone tablet"
+    },
+    "30953": {
+        "id": 30953,
+        "name": "Stone tablet"
+    },
+    "30954": {
+        "id": 30954,
+        "name": "Stone tablet"
+    },
+    "30955": {
+        "id": 30955,
+        "name": "Arkan blade"
+    },
+    "30957": {
+        "id": 30957,
+        "name": "Earthbound tecpatl"
+    },
+    "30960": {
+        "id": 30960,
+        "name": "Antique lamp"
+    },
+    "30961": {
+        "id": 30961,
+        "name": "Keystone fragment"
+    },
+    "30962": {
+        "id": 30962,
+        "name": "Kuhu essence"
+    },
+    "30963": {
+        "id": 30963,
+        "name": "Ancient roots"
+    },
+    "30964": {
+        "id": 30964,
+        "name": "Root kindling"
+    },
+    "30965": {
+        "id": 30965,
+        "name": "Knife blade"
+    },
+    "30966": {
+        "id": 30966,
+        "name": "Ancient teleporter"
+    },
+    "30967": {
+        "id": 30967,
+        "name": "Large egg"
+    },
+    "30968": {
+        "id": 30968,
+        "name": "Dragon egg"
+    },
+    "30969": {
+        "id": 30969,
+        "name": "Jaguar egg"
+    },
+    "30970": {
+        "id": 30970,
+        "name": "Egg"
+    },
+    "30973": {
+        "id": 30973,
+        "name": "Alan's bones"
+    },
+    "30975": {
+        "id": 30975,
+        "name": "Alan's bonemeal"
+    },
+    "30977": {
+        "id": 30977,
+        "name": "Damiana leaves"
+    },
+    "30979": {
+        "id": 30979,
+        "name": "Damiana water"
+    },
+    "30981": {
+        "id": 30981,
+        "name": "Damiana tea"
+    },
+    "30983": {
+        "id": 30983,
+        "name": "Damiana tea"
+    },
+    "30985": {
+        "id": 30985,
+        "name": "Cup of tea"
+    },
+    "30987": {
+        "id": 30987,
+        "name": "Cup of tea"
+    },
+    "30989": {
+        "id": 30989,
+        "name": "Acatzin's axe"
+    },
+    "30990": {
+        "id": 30990,
+        "name": "Acatzin's axe"
+    },
+    "30991": {
+        "id": 30991,
+        "name": "Kite shield"
+    },
+    "30992": {
+        "id": 30992,
+        "name": "Dungeon entrance"
+    },
+    "30993": {
+        "id": 30993,
+        "name": "Custodian stalker"
+    },
+    "30994": {
+        "id": 30994,
+        "name": "Custodian stalker"
+    },
+    "30995": {
+        "id": 30995,
+        "name": "Custodian stalker"
+    },
+    "30997": {
+        "id": 30997,
+        "name": "Events tool"
+    },
+    "30998": {
+        "id": 30998,
+        "name": "Atlatl dart tips"
+    },
+    "31004": {
+        "id": 31004,
+        "name": "Atlatl dart shaft"
+    },
+    "31010": {
+        "id": 31010,
+        "name": "Headless atlatl dart"
+    },
+    "31016": {
+        "id": 31016,
+        "name": "Sacraments of ent folk"
+    },
+    "31018": {
+        "id": 31018,
+        "name": "Ent seed"
+    },
+    "31024": {
+        "id": 31024,
+        "name": "Greenman carving"
+    },
+    "31027": {
+        "id": 31027,
+        "name": "Greenman statue"
+    },
+    "31030": {
+        "id": 31030,
+        "name": "Greenman carving"
+    },
+    "31031": {
+        "id": 31031,
+        "name": "Greenman statue"
+    },
+    "31032": {
+        "id": 31032,
+        "name": "Ent branch"
+    },
+    "31034": {
+        "id": 31034,
+        "name": "Greenman mask"
+    },
+    "31037": {
+        "id": 31037,
+        "name": "Greenman mask (normal)"
+    },
+    "31038": {
+        "id": 31038,
+        "name": "Greenman mask (oak)"
+    },
+    "31039": {
+        "id": 31039,
+        "name": "Greenman mask (willow)"
+    },
+    "31040": {
+        "id": 31040,
+        "name": "Greenman mask (maple)"
+    },
+    "31041": {
+        "id": 31041,
+        "name": "Greenman mask (yew)"
+    },
+    "31042": {
+        "id": 31042,
+        "name": "Greenman mask (magic)"
+    },
+    "31043": {
+        "id": 31043,
+        "name": "Fletching knife"
+    },
+    "31045": {
+        "id": 31045,
+        "name": "Bale of flax"
+    },
+    "31047": {
+        "id": 31047,
+        "name": "Dirty arrowtips"
+    },
+    "31049": {
+        "id": 31049,
+        "name": "Redwood hiking staff"
+    },
+    "31052": {
+        "id": 31052,
+        "name": "Bow string spool"
+    },
+    "31054": {
+        "id": 31054,
+        "name": "Vale offerings"
+    },
+    "31071": {
+        "id": 31071,
+        "name": "Letter"
+    },
+    "31073": {
+        "id": 31073,
+        "name": "Letter"
+    },
+    "31075": {
+        "id": 31075,
+        "name": "Alan's blessed bones"
+    },
+    "31077": {
+        "id": 31077,
+        "name": "On migration patterns"
+    },
+    "31079": {
+        "id": 31079,
+        "name": "Auburn valley ecological reports"
+    },
+    "31081": {
+        "id": 31081,
+        "name": "Antler guard"
+    },
+    "31084": {
+        "id": 31084,
+        "name": "Alchemist's signet"
+    },
+    "31086": {
+        "id": 31086,
+        "name": "Broken antler"
+    },
+    "31088": {
+        "id": 31088,
+        "name": "Avernic treads"
+    },
+    "31091": {
+        "id": 31091,
+        "name": "Avernic treads (pr)"
+    },
+    "31092": {
+        "id": 31092,
+        "name": "Avernic treads (pe)"
+    },
+    "31093": {
+        "id": 31093,
+        "name": "Avernic treads (et)"
+    },
+    "31094": {
+        "id": 31094,
+        "name": "Avernic treads (pr)(pe)"
+    },
+    "31095": {
+        "id": 31095,
+        "name": "Avernic treads (pr)(et)"
+    },
+    "31096": {
+        "id": 31096,
+        "name": "Avernic treads (pe)(et)"
+    },
+    "31097": {
+        "id": 31097,
+        "name": "Avernic treads (max)"
+    },
+    "31099": {
+        "id": 31099,
+        "name": "Mokhaiotl waystone"
+    },
+    "31106": {
+        "id": 31106,
+        "name": "Confliction gauntlets"
+    },
+    "31109": {
+        "id": 31109,
+        "name": "Mokhaiotl cloth"
+    },
+    "31111": {
+        "id": 31111,
+        "name": "Demon tear"
+    },
+    "31113": {
+        "id": 31113,
+        "name": "Eye of ayak"
+    },
+    "31115": {
+        "id": 31115,
+        "name": "Eye of ayak (uncharged)"
+    },
+    "31117": {
+        "id": 31117,
+        "name": "Orange"
+    },
+    "31121": {
+        "id": 31121,
+        "name": "Old letter"
+    },
+    "31123": {
+        "id": 31123,
+        "name": "Token"
+    },
+    "31124": {
+        "id": 31124,
+        "name": "Token"
+    },
+    "31125": {
+        "id": 31125,
+        "name": "Token"
+    },
+    "31126": {
+        "id": 31126,
+        "name": "Token"
+    },
+    "31127": {
+        "id": 31127,
+        "name": "Token"
+    },
+    "31128": {
+        "id": 31128,
+        "name": "Blueberry muffin"
+    },
+    "31130": {
+        "id": 31130,
+        "name": "Dom"
+    },
+    "31132": {
+        "id": 31132,
+        "name": "Dinh's blazing bulwark"
+    },
+    "31133": {
+        "id": 31133,
+        "name": "Venator bow"
+    },
+    "31134": {
+        "id": 31134,
+        "name": "Agility swing"
+    },
+    "31135": {
+        "id": 31135,
+        "name": "Agility swing"
+    },
+    "31136": {
+        "id": 31136,
+        "name": "Blood moon armour set"
+    },
+    "31139": {
+        "id": 31139,
+        "name": "Blue moon armour set"
+    },
+    "31142": {
+        "id": 31142,
+        "name": "Eclipse moon armour set"
+    },
+    "31145": {
+        "id": 31145,
+        "name": "Torva armour set"
+    },
+    "31148": {
+        "id": 31148,
+        "name": "Virtus armour set"
+    },
+    "31151": {
+        "id": 31151,
+        "name": "Rock-shell armour set"
+    },
+    "31154": {
+        "id": 31154,
+        "name": "Skeletal armour set"
+    },
+    "31157": {
+        "id": 31157,
+        "name": "Spined armour set"
+    },
+    "31160": {
+        "id": 31160,
+        "name": "Swampbark armour set"
+    },
+    "31163": {
+        "id": 31163,
+        "name": "Bloodbark armour set"
+    },
+    "31166": {
+        "id": 31166,
+        "name": "Mixed hide armour set"
+    },
+    "31169": {
+        "id": 31169,
+        "name": "Hueycoatl hide armour set"
+    },
+    "31172": {
+        "id": 31172,
+        "name": "Battlehat"
+    },
+    "31174": {
+        "id": 31174,
+        "name": "Corrupted shark"
+    },
+    "31181": {
+        "id": 31181,
+        "name": "Grid master tabard"
+    },
+    "31184": {
+        "id": 31184,
+        "name": "Grid master tabard (b)"
+    },
+    "31187": {
+        "id": 31187,
+        "name": "Grid master tabard (p)"
+    },
+    "31190": {
+        "id": 31190,
+        "name": "Grid master tabard (g)"
+    },
+    "31193": {
+        "id": 31193,
+        "name": "Swords and emblem"
+    },
+    "31196": {
+        "id": 31196,
+        "name": "Swords and emblem (b)"
+    },
+    "31199": {
+        "id": 31199,
+        "name": "Swords and emblem (p)"
+    },
+    "31202": {
+        "id": 31202,
+        "name": "Swords and emblem (g)"
+    },
+    "31205": {
+        "id": 31205,
+        "name": "Grid master altar icon scroll"
+    },
+    "31208": {
+        "id": 31208,
+        "name": "Grid master torch scroll"
+    },
+    "31211": {
+        "id": 31211,
+        "name": "Event lamp"
+    },
+    "31212": {
+        "id": 31212,
+        "name": "Combatant scroll"
+    },
+    "31214": {
+        "id": 31214,
+        "name": "Craftsman scroll"
+    },
+    "31216": {
+        "id": 31216,
+        "name": "Gatherer scroll"
+    },
+    "31218": {
+        "id": 31218,
+        "name": "Cabbage"
+    },
+    "31220": {
+        "id": 31220,
+        "name": "Cabbage"
+    },
+    "31225": {
+        "id": 31225,
+        "name": "Spooky chair"
+    },
+    "31227": {
+        "id": 31227,
+        "name": "Spooky pumpkin lantern"
+    },
+    "31229": {
+        "id": 31229,
+        "name": "Grim reaper top"
+    },
+    "31231": {
+        "id": 31231,
+        "name": "Grim reaper bottoms"
+    },
+    "31233": {
+        "id": 31233,
+        "name": "Grim reaper gloves"
+    },
+    "31235": {
+        "id": 31235,
+        "name": "Gryphon feather"
+    },
+    "31241": {
+        "id": 31241,
+        "name": "Horn of plenty"
+    },
+    "31243": {
+        "id": 31243,
+        "name": "Horn of plenty (empty)"
+    },
+    "31245": {
+        "id": 31245,
+        "name": "Belle's folly (tarnished)"
+    },
+    "31248": {
+        "id": 31248,
+        "name": "Belle's folly"
+    },
+    "31251": {
+        "id": 31251,
+        "name": "Broken hasta"
+    },
+    "31252": {
+        "id": 31252,
+        "name": "Spirit angler headband"
+    },
+    "31253": {
+        "id": 31253,
+        "name": "Fossilised skull"
+    },
+    "31254": {
+        "id": 31254,
+        "name": "Tankard"
+    },
+    "31255": {
+        "id": 31255,
+        "name": "Barnacle blaster"
+    },
+    "31258": {
+        "id": 31258,
+        "name": "Kraken colada"
+    },
+    "31261": {
+        "id": 31261,
+        "name": "Sailor's mirage"
+    },
+    "31264": {
+        "id": 31264,
+        "name": "Blessed strykewyrm bones"
+    },
+    "31266": {
+        "id": 31266,
+        "name": "Blessed frost dragon bones"
+    },
+    "31268": {
+        "id": 31268,
+        "name": "Clue scroll (easy)"
+    },
+    "31269": {
+        "id": 31269,
+        "name": "Clue scroll (elite)"
+    },
+    "31270": {
+        "id": 31270,
+        "name": "Clue scroll (elite)"
+    },
+    "31271": {
+        "id": 31271,
+        "name": "Clue scroll (elite)"
+    },
+    "31272": {
+        "id": 31272,
+        "name": "Clue scroll (hard)"
+    },
+    "31273": {
+        "id": 31273,
+        "name": "Clue scroll (hard)"
+    },
+    "31274": {
+        "id": 31274,
+        "name": "Clue scroll (medium)"
+    },
+    "31275": {
+        "id": 31275,
+        "name": "Clue scroll (medium)"
+    },
+    "31276": {
+        "id": 31276,
+        "name": "Rock golem"
+    },
+    "31277": {
+        "id": 31277,
+        "name": "Rock golem"
+    },
+    "31278": {
+        "id": 31278,
+        "name": "Rock golem"
+    },
+    "31279": {
+        "id": 31279,
+        "name": "Beaver"
+    },
+    "31280": {
+        "id": 31280,
+        "name": "Beaver"
+    },
+    "31281": {
+        "id": 31281,
+        "name": "Beaver"
+    },
+    "31282": {
+        "id": 31282,
+        "name": "Beaver"
+    },
+    "31283": {
+        "id": 31283,
+        "name": "Soup"
+    },
+    "31285": {
+        "id": 31285,
+        "name": "Gull"
+    },
+    "31287": {
+        "id": 31287,
+        "name": "Gulliver"
+    },
+    "31288": {
+        "id": 31288,
+        "name": "Sailing cape"
+    },
+    "31290": {
+        "id": 31290,
+        "name": "Sailing cape(t)"
+    },
+    "31292": {
+        "id": 31292,
+        "name": "Sailing hood"
+    },
+    "31295": {
+        "id": 31295,
+        "name": "Deep sea helmet"
+    },
+    "31296": {
+        "id": 31296,
+        "name": "Deep sea apparatus"
+    },
+    "31297": {
+        "id": 31297,
+        "name": "Pirate medallion"
+    },
+    "31298": {
+        "id": 31298,
+        "name": "Deep sea helmet"
+    },
+    "31300": {
+        "id": 31300,
+        "name": "Deep sea apparatus"
+    },
+    "31302": {
+        "id": 31302,
+        "name": ""
+    },
+    "31303": {
+        "id": 31303,
+        "name": ""
+    },
+    "31304": {
+        "id": 31304,
+        "name": ""
+    },
+    "31305": {
+        "id": 31305,
+        "name": ""
+    },
+    "31306": {
+        "id": 31306,
+        "name": ""
+    },
+    "31307": {
+        "id": 31307,
+        "name": ""
+    },
+    "31308": {
+        "id": 31308,
+        "name": ""
+    },
+    "31309": {
+        "id": 31309,
+        "name": ""
+    },
+    "31310": {
+        "id": 31310,
+        "name": ""
+    },
+    "31311": {
+        "id": 31311,
+        "name": ""
+    },
+    "31312": {
+        "id": 31312,
+        "name": ""
+    },
+    "31313": {
+        "id": 31313,
+        "name": ""
+    },
+    "31314": {
+        "id": 31314,
+        "name": ""
+    },
+    "31315": {
+        "id": 31315,
+        "name": ""
+    },
+    "31316": {
+        "id": 31316,
+        "name": ""
+    },
+    "31317": {
+        "id": 31317,
+        "name": ""
+    },
+    "31318": {
+        "id": 31318,
+        "name": ""
+    },
+    "31319": {
+        "id": 31319,
+        "name": ""
+    },
+    "31320": {
+        "id": 31320,
+        "name": ""
+    },
+    "31321": {
+        "id": 31321,
+        "name": ""
+    },
+    "31322": {
+        "id": 31322,
+        "name": ""
+    },
+    "31323": {
+        "id": 31323,
+        "name": ""
+    },
+    "31324": {
+        "id": 31324,
+        "name": ""
+    },
+    "31325": {
+        "id": 31325,
+        "name": ""
+    },
+    "31326": {
+        "id": 31326,
+        "name": ""
+    },
+    "31327": {
+        "id": 31327,
+        "name": "Form cr-4p"
+    },
+    "31328": {
+        "id": 31328,
+        "name": "Form 7r4-5h"
+    },
+    "31329": {
+        "id": 31329,
+        "name": "Form 7r4-5h"
+    },
+    "31330": {
+        "id": 31330,
+        "name": "Mayoral fishbowl"
+    },
+    "31331": {
+        "id": 31331,
+        "name": "Mayor of catherby"
+    },
+    "31333": {
+        "id": 31333,
+        "name": "Strykewyrm bonemeal"
+    },
+    "31335": {
+        "id": 31335,
+        "name": "Frost dragon bonemeal"
+    },
+    "31338": {
+        "id": 31338,
+        "name": "Old cup"
+    },
+    "31339": {
+        "id": 31339,
+        "name": "Paper"
+    },
+    "31341": {
+        "id": 31341,
+        "name": "Confession"
+    },
+    "31343": {
+        "id": 31343,
+        "name": "Note"
+    },
+    "31345": {
+        "id": 31345,
+        "name": "Ink bottle"
+    },
+    "31347": {
+        "id": 31347,
+        "name": "Inky paper"
+    },
+    "31349": {
+        "id": 31349,
+        "name": "Ink bottle"
+    },
+    "31351": {
+        "id": 31351,
+        "name": "Smashed bottle"
+    },
+    "31353": {
+        "id": 31353,
+        "name": "Prison uniform top"
+    },
+    "31355": {
+        "id": 31355,
+        "name": "Prison uniform trousers"
+    },
+    "31357": {
+        "id": 31357,
+        "name": "Fishy prison uniform top"
+    },
+    "31359": {
+        "id": 31359,
+        "name": "Tin cup"
+    },
+    "31361": {
+        "id": 31361,
+        "name": "Tin cup"
+    },
+    "31363": {
+        "id": 31363,
+        "name": "Pipe"
+    },
+    "31365": {
+        "id": 31365,
+        "name": "Accordion"
+    },
+    "31367": {
+        "id": 31367,
+        "name": "Accordion"
+    },
+    "31369": {
+        "id": 31369,
+        "name": "Accordion"
+    },
+    "31371": {
+        "id": 31371,
+        "name": "Vacuum pump"
+    },
+    "31373": {
+        "id": 31373,
+        "name": "Vacuum pump and gull"
+    },
+    "31375": {
+        "id": 31375,
+        "name": "Quill"
+    },
+    "31377": {
+        "id": 31377,
+        "name": "Inky quill"
+    },
+    "31379": {
+        "id": 31379,
+        "name": "File"
+    },
+    "31381": {
+        "id": 31381,
+        "name": "File"
+    },
+    "31383": {
+        "id": 31383,
+        "name": "Camphor pyre logs"
+    },
+    "31386": {
+        "id": 31386,
+        "name": "Ironwood pyre logs"
+    },
+    "31389": {
+        "id": 31389,
+        "name": "Rosewood pyre logs"
+    },
+    "31392": {
+        "id": 31392,
+        "name": "Makeshift bandages"
+    },
+    "31393": {
+        "id": 31393,
+        "name": "Tortugan scute"
+    },
+    "31395": {
+        "id": 31395,
+        "name": "Sea shell"
+    },
+    "31397": {
+        "id": 31397,
+        "name": "List of repairs"
+    },
+    "31398": {
+        "id": 31398,
+        "name": "Tortugan shield"
+    },
+    "31400": {
+        "id": 31400,
+        "name": "Offering bouquet"
+    },
+    "31401": {
+        "id": 31401,
+        "name": "Deep sea helmet"
+    },
+    "31403": {
+        "id": 31403,
+        "name": "Deep sea apparatus"
+    },
+    "31406": {
+        "id": 31406,
+        "name": "Dragon nails"
+    },
+    "31408": {
+        "id": 31408,
+        "name": "Giant blue krill"
+    },
+    "31410": {
+        "id": 31410,
+        "name": "Stuffed giant blue krill"
+    },
+    "31412": {
+        "id": 31412,
+        "name": "Golden haddock"
+    },
+    "31414": {
+        "id": 31414,
+        "name": "Stuffed golden haddock"
+    },
+    "31416": {
+        "id": 31416,
+        "name": "Orangefin"
+    },
+    "31418": {
+        "id": 31418,
+        "name": "Stuffed orangefin"
+    },
+    "31420": {
+        "id": 31420,
+        "name": "Huge halibut"
+    },
+    "31422": {
+        "id": 31422,
+        "name": "Stuffed huge halibut"
+    },
+    "31424": {
+        "id": 31424,
+        "name": "Purplefin"
+    },
+    "31426": {
+        "id": 31426,
+        "name": "Stuffed purplefin"
+    },
+    "31428": {
+        "id": 31428,
+        "name": "Swift marlin"
+    },
+    "31430": {
+        "id": 31430,
+        "name": "Stuffed swift marlin"
+    },
+    "31432": {
+        "id": 31432,
+        "name": "Camphor plank"
+    },
+    "31435": {
+        "id": 31435,
+        "name": "Ironwood plank"
+    },
+    "31438": {
+        "id": 31438,
+        "name": "Rosewood plank"
+    },
+    "31441": {
+        "id": 31441,
+        "name": "Summon boat"
+    },
+    "31443": {
+        "id": 31443,
+        "name": "Teleport to boat"
+    },
+    "31445": {
+        "id": 31445,
+        "name": "Mounted giant blue krill"
+    },
+    "31446": {
+        "id": 31446,
+        "name": "Mounted giant blue krill"
+    },
+    "31447": {
+        "id": 31447,
+        "name": "Mounted golden haddock"
+    },
+    "31448": {
+        "id": 31448,
+        "name": "Mounted golden haddock"
+    },
+    "31449": {
+        "id": 31449,
+        "name": "Mounted orangefin"
+    },
+    "31450": {
+        "id": 31450,
+        "name": "Mounted orangefin"
+    },
+    "31451": {
+        "id": 31451,
+        "name": "Mounted halibut"
+    },
+    "31452": {
+        "id": 31452,
+        "name": "Mounted purplefin"
+    },
+    "31453": {
+        "id": 31453,
+        "name": "Mounted marlin"
+    },
+    "31454": {
+        "id": 31454,
+        "name": "Ball of cotton"
+    },
+    "31457": {
+        "id": 31457,
+        "name": "Hemp"
+    },
+    "31460": {
+        "id": 31460,
+        "name": "Cotton boll"
+    },
+    "31463": {
+        "id": 31463,
+        "name": "Linen yarn"
+    },
+    "31466": {
+        "id": 31466,
+        "name": "Hemp yarn"
+    },
+    "31469": {
+        "id": 31469,
+        "name": "Cotton yarn"
+    },
+    "31472": {
+        "id": 31472,
+        "name": "Bolt of linen"
+    },
+    "31475": {
+        "id": 31475,
+        "name": "Bolt of canvas"
+    },
+    "31478": {
+        "id": 31478,
+        "name": "Bolt of cotton"
+    },
+    "31481": {
+        "id": 31481,
+        "name": "Elkhorn coral"
+    },
+    "31484": {
+        "id": 31484,
+        "name": "Pillar coral"
+    },
+    "31487": {
+        "id": 31487,
+        "name": "Umbral coral"
+    },
+    "31490": {
+        "id": 31490,
+        "name": "Camphor seedling"
+    },
+    "31492": {
+        "id": 31492,
+        "name": "Ironwood seedling"
+    },
+    "31494": {
+        "id": 31494,
+        "name": "Rosewood seedling"
+    },
+    "31496": {
+        "id": 31496,
+        "name": "Camphor seedling (w)"
+    },
+    "31498": {
+        "id": 31498,
+        "name": "Ironwood seedling (w)"
+    },
+    "31500": {
+        "id": 31500,
+        "name": "Rosewood seedling (w)"
+    },
+    "31502": {
+        "id": 31502,
+        "name": "Camphor sapling"
+    },
+    "31505": {
+        "id": 31505,
+        "name": "Ironwood sapling"
+    },
+    "31508": {
+        "id": 31508,
+        "name": "Rosewood sapling"
+    },
+    "31511": {
+        "id": 31511,
+        "name": "Elkhorn frag"
+    },
+    "31513": {
+        "id": 31513,
+        "name": "Pillar frag"
+    },
+    "31515": {
+        "id": 31515,
+        "name": "Umbral frag"
+    },
+    "31541": {
+        "id": 31541,
+        "name": "Flax seed"
+    },
+    "31543": {
+        "id": 31543,
+        "name": "Hemp seed"
+    },
+    "31545": {
+        "id": 31545,
+        "name": "Cotton seed"
+    },
+    "31547": {
+        "id": 31547,
+        "name": "Camphor seed"
+    },
+    "31549": {
+        "id": 31549,
+        "name": "Ironwood seed"
+    },
+    "31551": {
+        "id": 31551,
+        "name": "Rosewood seed"
+    },
+    "31553": {
+        "id": 31553,
+        "name": "Raw swordtip squid"
+    },
+    "31556": {
+        "id": 31556,
+        "name": "Swordtip squid"
+    },
+    "31559": {
+        "id": 31559,
+        "name": "Burnt swordtip squid"
+    },
+    "31561": {
+        "id": 31561,
+        "name": "Raw jumbo squid"
+    },
+    "31564": {
+        "id": 31564,
+        "name": "Jumbo squid"
+    },
+    "31567": {
+        "id": 31567,
+        "name": "Burnt jumbo squid"
+    },
+    "31569": {
+        "id": 31569,
+        "name": "Squid paste"
+    },
+    "31572": {
+        "id": 31572,
+        "name": "Squid beak"
+    },
+    "31575": {
+        "id": 31575,
+        "name": "Camphor blowpipe"
+    },
+    "31577": {
+        "id": 31577,
+        "name": "Camphor blowpipe (empty)"
+    },
+    "31579": {
+        "id": 31579,
+        "name": "Ironwood blowpipe"
+    },
+    "31581": {
+        "id": 31581,
+        "name": "Ironwood blowpipe (empty)"
+    },
+    "31583": {
+        "id": 31583,
+        "name": "Rosewood blowpipe"
+    },
+    "31585": {
+        "id": 31585,
+        "name": "Rosewood blowpipe (empty)"
+    },
+    "31587": {
+        "id": 31587,
+        "name": "Haemostatic poultice"
+    },
+    "31590": {
+        "id": 31590,
+        "name": "Haemostatic dressing (4)"
+    },
+    "31593": {
+        "id": 31593,
+        "name": "Haemostatic dressing (3)"
+    },
+    "31596": {
+        "id": 31596,
+        "name": "Haemostatic dressing (2)"
+    },
+    "31599": {
+        "id": 31599,
+        "name": "Haemostatic dressing (1)"
+    },
+    "31602": {
+        "id": 31602,
+        "name": "Super fishing potion(4)"
+    },
+    "31605": {
+        "id": 31605,
+        "name": "Super fishing potion(3)"
+    },
+    "31608": {
+        "id": 31608,
+        "name": "Super fishing potion(2)"
+    },
+    "31611": {
+        "id": 31611,
+        "name": "Super fishing potion(1)"
+    },
+    "31614": {
+        "id": 31614,
+        "name": "Extreme energy potion(4)"
+    },
+    "31617": {
+        "id": 31617,
+        "name": "Extreme energy potion(3)"
+    },
+    "31620": {
+        "id": 31620,
+        "name": "Extreme energy potion(2)"
+    },
+    "31623": {
+        "id": 31623,
+        "name": "Extreme energy potion(1)"
+    },
+    "31626": {
+        "id": 31626,
+        "name": "Super hunter potion(4)"
+    },
+    "31629": {
+        "id": 31629,
+        "name": "Super hunter potion(3)"
+    },
+    "31632": {
+        "id": 31632,
+        "name": "Super hunter potion(2)"
+    },
+    "31635": {
+        "id": 31635,
+        "name": "Super hunter potion(1)"
+    },
+    "31638": {
+        "id": 31638,
+        "name": "Extended stamina potion(4)"
+    },
+    "31641": {
+        "id": 31641,
+        "name": "Extended stamina potion(3)"
+    },
+    "31644": {
+        "id": 31644,
+        "name": "Extended stamina potion(2)"
+    },
+    "31647": {
+        "id": 31647,
+        "name": "Extended stamina potion(1)"
+    },
+    "31650": {
+        "id": 31650,
+        "name": "Armadyl brew(4)"
+    },
+    "31653": {
+        "id": 31653,
+        "name": "Armadyl brew(3)"
+    },
+    "31656": {
+        "id": 31656,
+        "name": "Armadyl brew(2)"
+    },
+    "31659": {
+        "id": 31659,
+        "name": "Armadyl brew(1)"
+    },
+    "31662": {
+        "id": 31662,
+        "name": "Elkhorn potion (unf)"
+    },
+    "31665": {
+        "id": 31665,
+        "name": "Pillar potion (unf)"
+    },
+    "31668": {
+        "id": 31668,
+        "name": "Umbral potion (unf)"
+    },
+    "31671": {
+        "id": 31671,
+        "name": "Red crab"
+    },
+    "31674": {
+        "id": 31674,
+        "name": "Blue crab"
+    },
+    "31677": {
+        "id": 31677,
+        "name": "Rainbow crab"
+    },
+    "31680": {
+        "id": 31680,
+        "name": "Rainbow crab"
+    },
+    "31683": {
+        "id": 31683,
+        "name": "Rainbow crab"
+    },
+    "31686": {
+        "id": 31686,
+        "name": "Raw red crab meat"
+    },
+    "31689": {
+        "id": 31689,
+        "name": "Red crab meat"
+    },
+    "31692": {
+        "id": 31692,
+        "name": "Raw blue crab meat"
+    },
+    "31695": {
+        "id": 31695,
+        "name": "Blue crab meat"
+    },
+    "31698": {
+        "id": 31698,
+        "name": "Burnt crab meat"
+    },
+    "31700": {
+        "id": 31700,
+        "name": "Raw rainbow crab meat"
+    },
+    "31703": {
+        "id": 31703,
+        "name": "Rainbow crab meat"
+    },
+    "31706": {
+        "id": 31706,
+        "name": "Burnt rainbow crab meat"
+    },
+    "31708": {
+        "id": 31708,
+        "name": "Crab paste"
+    },
+    "31710": {
+        "id": 31710,
+        "name": "Rainbow crab paste"
+    },
+    "31712": {
+        "id": 31712,
+        "name": "Anti-odour salt"
+    },
+    "31716": {
+        "id": 31716,
+        "name": "Lead ore"
+    },
+    "31719": {
+        "id": 31719,
+        "name": "Nickel ore"
+    },
+    "31722": {
+        "id": 31722,
+        "name": "Rubium splinters"
+    },
+    "31724": {
+        "id": 31724,
+        "name": "Rubium geode"
+    },
+    "31726": {
+        "id": 31726,
+        "name": "Strykewyrm bones"
+    },
+    "31729": {
+        "id": 31729,
+        "name": "Frost dragon bones"
+    },
+    "31732": {
+        "id": 31732,
+        "name": "Stormy key"
+    },
+    "31733": {
+        "id": 31733,
+        "name": "Barrel stand"
+    },
+    "31734": {
+        "id": 31734,
+        "name": "Ralph's fabric roll"
+    },
+    "31736": {
+        "id": 31736,
+        "name": "Storm cruiser's hat"
+    },
+    "31738": {
+        "id": 31738,
+        "name": "Storm cruiser's coat"
+    },
+    "31740": {
+        "id": 31740,
+        "name": "Storm cruiser's trousers"
+    },
+    "31742": {
+        "id": 31742,
+        "name": "Storm cruiser's shoes"
+    },
+    "31744": {
+        "id": 31744,
+        "name": "Fetid key"
+    },
+    "31745": {
+        "id": 31745,
+        "name": "Captured wind mote"
+    },
+    "31746": {
+        "id": 31746,
+        "name": "Gurtob's fabric roll"
+    },
+    "31748": {
+        "id": 31748,
+        "name": "Swamp cruiser's hat"
+    },
+    "31750": {
+        "id": 31750,
+        "name": "Swamp cruiser's jacket"
+    },
+    "31752": {
+        "id": 31752,
+        "name": "Swamp cruiser's trousers"
+    },
+    "31754": {
+        "id": 31754,
+        "name": "Swamp cruiser's shoes"
+    },
+    "31756": {
+        "id": 31756,
+        "name": "Serrated key"
+    },
+    "31757": {
+        "id": 31757,
+        "name": "Heart of ithell"
+    },
+    "31758": {
+        "id": 31758,
+        "name": "Gwyna's fabric roll"
+    },
+    "31760": {
+        "id": 31760,
+        "name": "Crystal glider's hat"
+    },
+    "31762": {
+        "id": 31762,
+        "name": "Crystal glider's jacket"
+    },
+    "31764": {
+        "id": 31764,
+        "name": "Crystal glider's trousers"
+    },
+    "31766": {
+        "id": 31766,
+        "name": "Crystal glider's shoes"
+    },
+    "31768": {
+        "id": 31768,
+        "name": "Sunken rum"
+    },
+    "31770": {
+        "id": 31770,
+        "name": "Tiny pearl"
+    },
+    "31773": {
+        "id": 31773,
+        "name": "Small pearl"
+    },
+    "31776": {
+        "id": 31776,
+        "name": "Shiny pearl"
+    },
+    "31779": {
+        "id": 31779,
+        "name": "Bright pearl"
+    },
+    "31782": {
+        "id": 31782,
+        "name": "Big pearl"
+    },
+    "31785": {
+        "id": 31785,
+        "name": "Huge pearl"
+    },
+    "31788": {
+        "id": 31788,
+        "name": "Enormous pearl"
+    },
+    "31791": {
+        "id": 31791,
+        "name": "Shimmering pearl"
+    },
+    "31794": {
+        "id": 31794,
+        "name": "Glistening pearl"
+    },
+    "31797": {
+        "id": 31797,
+        "name": "Brilliant pearl"
+    },
+    "31800": {
+        "id": 31800,
+        "name": "Radiant pearl"
+    },
+    "31803": {
+        "id": 31803,
+        "name": "Spyglass"
+    },
+    "31805": {
+        "id": 31805,
+        "name": "Current duck"
+    },
+    "31807": {
+        "id": 31807,
+        "name": "Crowbar"
+    },
+    "31809": {
+        "id": 31809,
+        "name": "Portable weather station"
+    },
+    "31810": {
+        "id": 31810,
+        "name": "Data filled portable weather station"
+    },
+    "31811": {
+        "id": 31811,
+        "name": "Whirlpool surprise"
+    },
+    "31814": {
+        "id": 31814,
+        "name": "Kraken ink stout"
+    },
+    "31817": {
+        "id": 31817,
+        "name": "Perildance bitter"
+    },
+    "31820": {
+        "id": 31820,
+        "name": "Trawler's trust"
+    },
+    "31823": {
+        "id": 31823,
+        "name": "Horizon's lure"
+    },
+    "31831": {
+        "id": 31831,
+        "name": "Bottle of almost smuggled rum"
+    },
+    "31832": {
+        "id": 31832,
+        "name": "Bottle of sorodamin's bru"
+    },
+    "31833": {
+        "id": 31833,
+        "name": "Bottle of fish bladder stout"
+    },
+    "31834": {
+        "id": 31834,
+        "name": "Bottle of potterington's marrow wine"
+    },
+    "31835": {
+        "id": 31835,
+        "name": "Bottle of slug's mind balm"
+    },
+    "31836": {
+        "id": 31836,
+        "name": "Bottle of spinner's last gasp"
+    },
+    "31837": {
+        "id": 31837,
+        "name": "Bottle of barracuda brew"
+    },
+    "31838": {
+        "id": 31838,
+        "name": "Bottle of banana daiquiri"
+    },
+    "31839": {
+        "id": 31839,
+        "name": "Bottle of kharazi cooler"
+    },
+    "31840": {
+        "id": 31840,
+        "name": "Bottle of dognose draught"
+    },
+    "31841": {
+        "id": 31841,
+        "name": "Bottle of the way home"
+    },
+    "31842": {
+        "id": 31842,
+        "name": "Bottle of platinum rum"
+    },
+    "31843": {
+        "id": 31843,
+        "name": "Bottle of light in the dark"
+    },
+    "31844": {
+        "id": 31844,
+        "name": "Bottle of ogre prayer potion"
+    },
+    "31845": {
+        "id": 31845,
+        "name": "Bottle of get to the point punch"
+    },
+    "31846": {
+        "id": 31846,
+        "name": "Bottle of oo'glug"
+    },
+    "31847": {
+        "id": 31847,
+        "name": "Bottle of myths mighty mixer"
+    },
+    "31848": {
+        "id": 31848,
+        "name": "Bottle of goldless asgoldian ale"
+    },
+    "31849": {
+        "id": 31849,
+        "name": "Bottle of destructor's cocktail"
+    },
+    "31850": {
+        "id": 31850,
+        "name": "Bottle of zogre's sloppy kisses"
+    },
+    "31851": {
+        "id": 31851,
+        "name": "Bottle of creator's cocktail"
+    },
+    "31852": {
+        "id": 31852,
+        "name": "Bottle of soul"
+    },
+    "31853": {
+        "id": 31853,
+        "name": "Bottle of zul-rye beer"
+    },
+    "31854": {
+        "id": 31854,
+        "name": "Bottle of captain clop's mango gin"
+    },
+    "31855": {
+        "id": 31855,
+        "name": "Bottle of slippery snake skins in possibly gravy"
+    },
+    "31856": {
+        "id": 31856,
+        "name": "Bottle of crystal clear water"
+    },
+    "31857": {
+        "id": 31857,
+        "name": "Bottle of underground passteurised milk"
+    },
+    "31858": {
+        "id": 31858,
+        "name": "Bottle of delicate elven wine"
+    },
+    "31859": {
+        "id": 31859,
+        "name": "Bottle of sea spray"
+    },
+    "31860": {
+        "id": 31860,
+        "name": "Bottle of banker's draught"
+    },
+    "31861": {
+        "id": 31861,
+        "name": "Bottle of headless unicornman's heady beer"
+    },
+    "31862": {
+        "id": 31862,
+        "name": "Bottle of soul juice"
+    },
+    "31863": {
+        "id": 31863,
+        "name": "Bottle of crocodile tears"
+    },
+    "31864": {
+        "id": 31864,
+        "name": "Bottle of fishier bladderier stout"
+    },
+    "31865": {
+        "id": 31865,
+        "name": "Daddy's special water's special water"
+    },
+    "31867": {
+        "id": 31867,
+        "name": "The melted rocks"
+    },
+    "31869": {
+        "id": 31869,
+        "name": "Chuck up's 'stew'"
+    },
+    "31871": {
+        "id": 31871,
+        "name": "Bottle of tangled toad's legs cider"
+    },
+    "31872": {
+        "id": 31872,
+        "name": "Bottle of waterbirth blue lagoon"
+    },
+    "31873": {
+        "id": 31873,
+        "name": "Bottle of fishtongue tonic"
+    },
+    "31874": {
+        "id": 31874,
+        "name": "Bottle of the endless night"
+    },
+    "31875": {
+        "id": 31875,
+        "name": "Bottle of exile's welcome"
+    },
+    "31876": {
+        "id": 31876,
+        "name": "Bottle of suqah-free cola"
+    },
+    "31877": {
+        "id": 31877,
+        "name": "Bottle of winter sun"
+    },
+    "31878": {
+        "id": 31878,
+        "name": "Bottle of black lobster ale"
+    },
+    "31879": {
+        "id": 31879,
+        "name": "Rare black lobster"
+    },
+    "31881": {
+        "id": 31881,
+        "name": "Bottle of dwarvern wizard's stout bomb"
+    },
+    "31882": {
+        "id": 31882,
+        "name": "Bottle of kgp standard issue martini"
+    },
+    "31883": {
+        "id": 31883,
+        "name": "Bottle of graveyard corpse reviver"
+    },
+    "31884": {
+        "id": 31884,
+        "name": "Bottle of weiss meltwater"
+    },
+    "31885": {
+        "id": 31885,
+        "name": "Bottle of ol' random's reddest rum"
+    },
+    "31886": {
+        "id": 31886,
+        "name": "Bottle of elidinis's life water"
+    },
+    "31887": {
+        "id": 31887,
+        "name": "Bottle of possible albumen"
+    },
+    "31888": {
+        "id": 31888,
+        "name": "Bottle of alone at sea"
+    },
+    "31889": {
+        "id": 31889,
+        "name": "Bottle of alco-sol"
+    },
+    "31890": {
+        "id": 31890,
+        "name": "Bottle of portal nexus perry"
+    },
+    "31891": {
+        "id": 31891,
+        "name": "Bottle of self-congratulation wine"
+    },
+    "31892": {
+        "id": 31892,
+        "name": "Bottle of fish bladder stoutier"
+    },
+    "31893": {
+        "id": 31893,
+        "name": "Bottle of crystal clear vodka"
+    },
+    "31894": {
+        "id": 31894,
+        "name": "Bottle of spinning comp-kvass"
+    },
+    "31895": {
+        "id": 31895,
+        "name": "Bottle of puzzlers poteen"
+    },
+    "31896": {
+        "id": 31896,
+        "name": "Bottle of wild wood whisky"
+    },
+    "31897": {
+        "id": 31897,
+        "name": "Bottle of robert's port"
+    },
+    "31898": {
+        "id": 31898,
+        "name": "Bottle of sea shandy 2"
+    },
+    "31899": {
+        "id": 31899,
+        "name": "Bottle of monkfish bladder stout"
+    },
+    "31900": {
+        "id": 31900,
+        "name": "Bottle of lunarshine"
+    },
+    "31901": {
+        "id": 31901,
+        "name": "Bottle of impling surprise"
+    },
+    "31902": {
+        "id": 31902,
+        "name": "Bottle of mystery fruit cider"
+    },
+    "31903": {
+        "id": 31903,
+        "name": "Mystery fruit"
+    },
+    "31905": {
+        "id": 31905,
+        "name": "Bottle of captain cat's black rum"
+    },
+    "31906": {
+        "id": 31906,
+        "name": "Bronze cannonball"
+    },
+    "31908": {
+        "id": 31908,
+        "name": "Iron cannonball"
+    },
+    "31910": {
+        "id": 31910,
+        "name": "Mithril cannonball"
+    },
+    "31912": {
+        "id": 31912,
+        "name": "Adamant cannonball"
+    },
+    "31914": {
+        "id": 31914,
+        "name": "Rune cannonball"
+    },
+    "31916": {
+        "id": 31916,
+        "name": "Dragon cannonball"
+    },
+    "31918": {
+        "id": 31918,
+        "name": "Bronze chainshot cannonball"
+    },
+    "31920": {
+        "id": 31920,
+        "name": "Iron chainshot cannonball"
+    },
+    "31922": {
+        "id": 31922,
+        "name": "Steel chainshot cannonball"
+    },
+    "31924": {
+        "id": 31924,
+        "name": "Mithril chainshot cannonball"
+    },
+    "31926": {
+        "id": 31926,
+        "name": "Adamant chainshot cannonball"
+    },
+    "31928": {
+        "id": 31928,
+        "name": "Rune chainshot cannonball"
+    },
+    "31930": {
+        "id": 31930,
+        "name": "Dragon chainshot cannonball"
+    },
+    "31932": {
+        "id": 31932,
+        "name": "Bronze incendiary cannonball"
+    },
+    "31934": {
+        "id": 31934,
+        "name": "Iron incendiary cannonball"
+    },
+    "31936": {
+        "id": 31936,
+        "name": "Steel incendiary cannonball"
+    },
+    "31938": {
+        "id": 31938,
+        "name": "Mithril incendiary cannonball"
+    },
+    "31940": {
+        "id": 31940,
+        "name": "Adamant incendiary cannonball"
+    },
+    "31942": {
+        "id": 31942,
+        "name": "Rune incendiary cannonball"
+    },
+    "31944": {
+        "id": 31944,
+        "name": "Dragon incendiary cannonball"
+    },
+    "31946": {
+        "id": 31946,
+        "name": "Echo pearl"
+    },
+    "31949": {
+        "id": 31949,
+        "name": "Bottled storm"
+    },
+    "31952": {
+        "id": 31952,
+        "name": "Swift albatross feather"
+    },
+    "31954": {
+        "id": 31954,
+        "name": "Narwhal horn"
+    },
+    "31957": {
+        "id": 31957,
+        "name": "Narwhal horn knife"
+    },
+    "31959": {
+        "id": 31959,
+        "name": "Ray barbs"
+    },
+    "31961": {
+        "id": 31961,
+        "name": "Broken dragon hook"
+    },
+    "31964": {
+        "id": 31964,
+        "name": "Repair kit"
+    },
+    "31967": {
+        "id": 31967,
+        "name": "Oak repair kit"
+    },
+    "31970": {
+        "id": 31970,
+        "name": "Teak repair kit"
+    },
+    "31973": {
+        "id": 31973,
+        "name": "Mahogany repair kit"
+    },
+    "31976": {
+        "id": 31976,
+        "name": "Camphor repair kit"
+    },
+    "31979": {
+        "id": 31979,
+        "name": "Ironwood repair kit"
+    },
+    "31982": {
+        "id": 31982,
+        "name": "Rosewood repair kit"
+    },
+    "31985": {
+        "id": 31985,
+        "name": "Captain's log"
+    },
+    "31986": {
+        "id": 31986,
+        "name": "Captain's log"
+    },
+    "31989": {
+        "id": 31989,
+        "name": "Boat bottle (empty)"
+    },
+    "31992": {
+        "id": 31992,
+        "name": "Boat bottle (full)"
+    },
+    "31996": {
+        "id": 31996,
+        "name": "Dragon metal sheet"
+    },
+    "31999": {
+        "id": 31999,
+        "name": "Bronze keel parts"
+    },
+    "32002": {
+        "id": 32002,
+        "name": "Iron keel parts"
+    },
+    "32005": {
+        "id": 32005,
+        "name": "Steel keel parts"
+    },
+    "32008": {
+        "id": 32008,
+        "name": "Mithril keel parts"
+    },
+    "32011": {
+        "id": 32011,
+        "name": "Adamant keel parts"
+    },
+    "32014": {
+        "id": 32014,
+        "name": "Rune keel parts"
+    },
+    "32017": {
+        "id": 32017,
+        "name": "Dragon keel parts"
+    },
+    "32020": {
+        "id": 32020,
+        "name": "Large bronze keel parts"
+    },
+    "32023": {
+        "id": 32023,
+        "name": "Large iron keel parts"
+    },
+    "32026": {
+        "id": 32026,
+        "name": "Large steel keel parts"
+    },
+    "32029": {
+        "id": 32029,
+        "name": "Large mithril keel parts"
+    },
+    "32032": {
+        "id": 32032,
+        "name": "Large adamant keel parts"
+    },
+    "32035": {
+        "id": 32035,
+        "name": "Large rune keel parts"
+    },
+    "32038": {
+        "id": 32038,
+        "name": "Large dragon keel parts"
+    },
+    "32041": {
+        "id": 32041,
+        "name": "Wooden hull parts"
+    },
+    "32044": {
+        "id": 32044,
+        "name": "Oak hull parts"
+    },
+    "32047": {
+        "id": 32047,
+        "name": "Teak hull parts"
+    },
+    "32050": {
+        "id": 32050,
+        "name": "Mahogany hull parts"
+    },
+    "32053": {
+        "id": 32053,
+        "name": "Camphor hull parts"
+    },
+    "32056": {
+        "id": 32056,
+        "name": "Ironwood hull parts"
+    },
+    "32059": {
+        "id": 32059,
+        "name": "Rosewood hull parts"
+    },
+    "32062": {
+        "id": 32062,
+        "name": "Large wooden hull parts"
+    },
+    "32065": {
+        "id": 32065,
+        "name": "Large oak hull parts"
+    },
+    "32068": {
+        "id": 32068,
+        "name": "Large teak hull parts"
+    },
+    "32071": {
+        "id": 32071,
+        "name": "Large mahogany hull parts"
+    },
+    "32074": {
+        "id": 32074,
+        "name": "Large camphor hull parts"
+    },
+    "32077": {
+        "id": 32077,
+        "name": "Large ironwood hull parts"
+    },
+    "32080": {
+        "id": 32080,
+        "name": "Large rosewood hull parts"
+    },
+    "32083": {
+        "id": 32083,
+        "name": "Sawmill coupon (wood plank)"
+    },
+    "32085": {
+        "id": 32085,
+        "name": "Sawmill coupon (oak plank)"
+    },
+    "32087": {
+        "id": 32087,
+        "name": "Barracuda paint"
+    },
+    "32090": {
+        "id": 32090,
+        "name": "Shark paint"
+    },
+    "32093": {
+        "id": 32093,
+        "name": "Inky paint"
+    },
+    "32096": {
+        "id": 32096,
+        "name": "Angler's paint"
+    },
+    "32099": {
+        "id": 32099,
+        "name": "Salvor's paint"
+    },
+    "32102": {
+        "id": 32102,
+        "name": "Armadylean paint"
+    },
+    "32104": {
+        "id": 32104,
+        "name": "Zamorakian paint"
+    },
+    "32106": {
+        "id": 32106,
+        "name": "Guthixian paint"
+    },
+    "32108": {
+        "id": 32108,
+        "name": "Saradominist paint"
+    },
+    "32110": {
+        "id": 32110,
+        "name": "Merchant's paint"
+    },
+    "32113": {
+        "id": 32113,
+        "name": "Sandy paint"
+    },
+    "32115": {
+        "id": 32115,
+        "name": "Dragon cannon barrel"
+    },
+    "32118": {
+        "id": 32118,
+        "name": "Wooden hull and hull parts"
+    },
+    "32119": {
+        "id": 32119,
+        "name": "Wooden hull and hull parts"
+    },
+    "32120": {
+        "id": 32120,
+        "name": "Wooden hull and hull parts"
+    },
+    "32121": {
+        "id": 32121,
+        "name": "Oak hull and hull parts"
+    },
+    "32122": {
+        "id": 32122,
+        "name": "Oak hull and hull parts"
+    },
+    "32123": {
+        "id": 32123,
+        "name": "Oak hull and hull parts"
+    },
+    "32124": {
+        "id": 32124,
+        "name": "Teak hull and hull parts"
+    },
+    "32125": {
+        "id": 32125,
+        "name": "Teak hull and hull parts"
+    },
+    "32126": {
+        "id": 32126,
+        "name": "Teak hull and hull parts"
+    },
+    "32127": {
+        "id": 32127,
+        "name": "Mahogany hull and hull parts"
+    },
+    "32128": {
+        "id": 32128,
+        "name": "Mahogany hull and hull parts"
+    },
+    "32129": {
+        "id": 32129,
+        "name": "Mahogany hull and hull parts"
+    },
+    "32130": {
+        "id": 32130,
+        "name": "Camphor hull and hull parts"
+    },
+    "32131": {
+        "id": 32131,
+        "name": "Camphor hull and hull parts"
+    },
+    "32132": {
+        "id": 32132,
+        "name": "Camphor hull and hull parts"
+    },
+    "32133": {
+        "id": 32133,
+        "name": "Ironwood hull and hull parts"
+    },
+    "32134": {
+        "id": 32134,
+        "name": "Ironwood hull and hull parts"
+    },
+    "32135": {
+        "id": 32135,
+        "name": "Ironwood hull and hull parts"
+    },
+    "32136": {
+        "id": 32136,
+        "name": "Rosewood hull and hull parts"
+    },
+    "32137": {
+        "id": 32137,
+        "name": "Rosewood hull and hull parts"
+    },
+    "32138": {
+        "id": 32138,
+        "name": "Rosewood hull and hull parts"
+    },
+    "32139": {
+        "id": 32139,
+        "name": "Bronze helm"
+    },
+    "32140": {
+        "id": 32140,
+        "name": "Bronze helm"
+    },
+    "32141": {
+        "id": 32141,
+        "name": "Bronze helm"
+    },
+    "32142": {
+        "id": 32142,
+        "name": "Iron helm"
+    },
+    "32143": {
+        "id": 32143,
+        "name": "Iron helm"
+    },
+    "32144": {
+        "id": 32144,
+        "name": "Iron helm"
+    },
+    "32145": {
+        "id": 32145,
+        "name": "Steel helm"
+    },
+    "32146": {
+        "id": 32146,
+        "name": "Steel helm"
+    },
+    "32147": {
+        "id": 32147,
+        "name": "Steel helm"
+    },
+    "32148": {
+        "id": 32148,
+        "name": "Mithril helm"
+    },
+    "32149": {
+        "id": 32149,
+        "name": "Mithril helm"
+    },
+    "32150": {
+        "id": 32150,
+        "name": "Mithril helm"
+    },
+    "32151": {
+        "id": 32151,
+        "name": "Adamant helm"
+    },
+    "32152": {
+        "id": 32152,
+        "name": "Adamant helm"
+    },
+    "32153": {
+        "id": 32153,
+        "name": "Adamant helm"
+    },
+    "32154": {
+        "id": 32154,
+        "name": "Rune helm"
+    },
+    "32155": {
+        "id": 32155,
+        "name": "Rune helm"
+    },
+    "32156": {
+        "id": 32156,
+        "name": "Rune helm"
+    },
+    "32157": {
+        "id": 32157,
+        "name": "Dragon helm"
+    },
+    "32158": {
+        "id": 32158,
+        "name": "Dragon helm"
+    },
+    "32159": {
+        "id": 32159,
+        "name": "Dragon helm"
+    },
+    "32160": {
+        "id": 32160,
+        "name": "Wooden mast and linen sails"
+    },
+    "32161": {
+        "id": 32161,
+        "name": "Wooden mast and linen sails"
+    },
+    "32162": {
+        "id": 32162,
+        "name": "Wooden mast and linen sails"
+    },
+    "32163": {
+        "id": 32163,
+        "name": "Oak mast and linen sails"
+    },
+    "32164": {
+        "id": 32164,
+        "name": "Oak mast and linen sails"
+    },
+    "32165": {
+        "id": 32165,
+        "name": "Oak mast and linen sails"
+    },
+    "32166": {
+        "id": 32166,
+        "name": "Teak mast and canvas sails"
+    },
+    "32167": {
+        "id": 32167,
+        "name": "Teak mast and linen sails"
+    },
+    "32168": {
+        "id": 32168,
+        "name": "Teak mast and linen sails"
+    },
+    "32169": {
+        "id": 32169,
+        "name": "Mahogany mast and canvas sails"
+    },
+    "32170": {
+        "id": 32170,
+        "name": "Mahogany mast and canvas sails"
+    },
+    "32171": {
+        "id": 32171,
+        "name": "Mahogany mast and canvas sails"
+    },
+    "32172": {
+        "id": 32172,
+        "name": "Camphor mast and canvas sails"
+    },
+    "32173": {
+        "id": 32173,
+        "name": "Camphor mast and linen sails"
+    },
+    "32174": {
+        "id": 32174,
+        "name": "Camphor mast and linen sails"
+    },
+    "32175": {
+        "id": 32175,
+        "name": "Ironwood mast and cotton sails"
+    },
+    "32176": {
+        "id": 32176,
+        "name": "Ironwood mast and linen sails"
+    },
+    "32177": {
+        "id": 32177,
+        "name": "Ironwood mast and linen sails"
+    },
+    "32178": {
+        "id": 32178,
+        "name": "Rosewood mast and cotton sails"
+    },
+    "32179": {
+        "id": 32179,
+        "name": "Rosewood mast and linen sails"
+    },
+    "32180": {
+        "id": 32180,
+        "name": "Rosewood mast and linen sails"
+    },
+    "32181": {
+        "id": 32181,
+        "name": "Bronze keel"
+    },
+    "32182": {
+        "id": 32182,
+        "name": "Bronze keel"
+    },
+    "32183": {
+        "id": 32183,
+        "name": "Iron keel"
+    },
+    "32184": {
+        "id": 32184,
+        "name": "Iron keel"
+    },
+    "32185": {
+        "id": 32185,
+        "name": "Steel keel"
+    },
+    "32186": {
+        "id": 32186,
+        "name": "Steel keel"
+    },
+    "32187": {
+        "id": 32187,
+        "name": "Mithril keel"
+    },
+    "32188": {
+        "id": 32188,
+        "name": "Mithril keel"
+    },
+    "32189": {
+        "id": 32189,
+        "name": "Adamant keel"
+    },
+    "32190": {
+        "id": 32190,
+        "name": "Adamant keel"
+    },
+    "32191": {
+        "id": 32191,
+        "name": "Rune keel"
+    },
+    "32192": {
+        "id": 32192,
+        "name": "Rune keel"
+    },
+    "32193": {
+        "id": 32193,
+        "name": "Dragon keel"
+    },
+    "32194": {
+        "id": 32194,
+        "name": "Dragon keel"
+    },
+    "32195": {
+        "id": 32195,
+        "name": "Eternal brazier"
+    },
+    "32196": {
+        "id": 32196,
+        "name": "Flag"
+    },
+    "32197": {
+        "id": 32197,
+        "name": "Flag"
+    },
+    "32198": {
+        "id": 32198,
+        "name": "Flag"
+    },
+    "32199": {
+        "id": 32199,
+        "name": "Bronze cannon"
+    },
+    "32200": {
+        "id": 32200,
+        "name": "Iron cannon"
+    },
+    "32201": {
+        "id": 32201,
+        "name": "Steel cannon"
+    },
+    "32202": {
+        "id": 32202,
+        "name": "Mithril cannon"
+    },
+    "32203": {
+        "id": 32203,
+        "name": "Adamant cannon"
+    },
+    "32204": {
+        "id": 32204,
+        "name": "Rune cannon"
+    },
+    "32205": {
+        "id": 32205,
+        "name": "Dragon cannon"
+    },
+    "32206": {
+        "id": 32206,
+        "name": "Bronze salvaging hook"
+    },
+    "32207": {
+        "id": 32207,
+        "name": "Iron salvaging hook"
+    },
+    "32208": {
+        "id": 32208,
+        "name": "Steel salvaging hook"
+    },
+    "32209": {
+        "id": 32209,
+        "name": "Mithril salvaging hook"
+    },
+    "32210": {
+        "id": 32210,
+        "name": "Adamant salvaging hook"
+    },
+    "32211": {
+        "id": 32211,
+        "name": "Rune salvaging hook"
+    },
+    "32212": {
+        "id": 32212,
+        "name": "Dragon salvaging hook"
+    },
+    "32213": {
+        "id": 32213,
+        "name": "Wooden cargo hold"
+    },
+    "32214": {
+        "id": 32214,
+        "name": "Oak cargo hold"
+    },
+    "32215": {
+        "id": 32215,
+        "name": "Teak cargo hold"
+    },
+    "32216": {
+        "id": 32216,
+        "name": "Mahogany cargo hold"
+    },
+    "32217": {
+        "id": 32217,
+        "name": "Camphor cargo hold"
+    },
+    "32218": {
+        "id": 32218,
+        "name": "Ironwood cargo hold"
+    },
+    "32219": {
+        "id": 32219,
+        "name": "Rosewood cargo hold"
+    },
+    "32220": {
+        "id": 32220,
+        "name": "Rope trawling net"
+    },
+    "32221": {
+        "id": 32221,
+        "name": "Linen trawling net"
+    },
+    "32222": {
+        "id": 32222,
+        "name": "Hemp trawling net"
+    },
+    "32223": {
+        "id": 32223,
+        "name": "Cotton trawling net"
+    },
+    "32224": {
+        "id": 32224,
+        "name": "Salvaging station"
+    },
+    "32225": {
+        "id": 32225,
+        "name": "Chum station"
+    },
+    "32226": {
+        "id": 32226,
+        "name": "Advanced chum station"
+    },
+    "32227": {
+        "id": 32227,
+        "name": "Chum spreader"
+    },
+    "32228": {
+        "id": 32228,
+        "name": "Fathom stone"
+    },
+    "32229": {
+        "id": 32229,
+        "name": "Fathom pearl"
+    },
+    "32230": {
+        "id": 32230,
+        "name": "Range"
+    },
+    "32231": {
+        "id": 32231,
+        "name": "Keg"
+    },
+    "32232": {
+        "id": 32232,
+        "name": "Anchor"
+    },
+    "32233": {
+        "id": 32233,
+        "name": "Wind catcher"
+    },
+    "32234": {
+        "id": 32234,
+        "name": "Gale catcher"
+    },
+    "32235": {
+        "id": 32235,
+        "name": "Crystal extractor"
+    },
+    "32236": {
+        "id": 32236,
+        "name": "Inoculation station"
+    },
+    "32237": {
+        "id": 32237,
+        "name": "Teleport focus"
+    },
+    "32238": {
+        "id": 32238,
+        "name": "Greater teleport focus"
+    },
+    "32239": {
+        "id": 32239,
+        "name": "Hull wood"
+    },
+    "32240": {
+        "id": 32240,
+        "name": "Hull wood"
+    },
+    "32241": {
+        "id": 32241,
+        "name": "Hull wood"
+    },
+    "32242": {
+        "id": 32242,
+        "name": "Mystery ingredient"
+    },
+    "32243": {
+        "id": 32243,
+        "name": "Crew slot unlock"
+    },
+    "32244": {
+        "id": 32244,
+        "name": "Cargo crate"
+    },
+    "32245": {
+        "id": 32245,
+        "name": "Crewmate"
+    },
+    "32246": {
+        "id": 32246,
+        "name": "Crewmate"
+    },
+    "32247": {
+        "id": 32247,
+        "name": "Crewmate"
+    },
+    "32248": {
+        "id": 32248,
+        "name": "Crewmate"
+    },
+    "32249": {
+        "id": 32249,
+        "name": "Crewmate"
+    },
+    "32250": {
+        "id": 32250,
+        "name": "Crewmate"
+    },
+    "32251": {
+        "id": 32251,
+        "name": "Crewmate"
+    },
+    "32252": {
+        "id": 32252,
+        "name": "Crewmate"
+    },
+    "32253": {
+        "id": 32253,
+        "name": "Crewmate"
+    },
+    "32254": {
+        "id": 32254,
+        "name": "Crewmate"
+    },
+    "32255": {
+        "id": 32255,
+        "name": "Port task"
+    },
+    "32256": {
+        "id": 32256,
+        "name": "Port"
+    },
+    "32257": {
+        "id": 32257,
+        "name": "Port sarim"
+    },
+    "32258": {
+        "id": 32258,
+        "name": "The pandemonium"
+    },
+    "32259": {
+        "id": 32259,
+        "name": "Land's end"
+    },
+    "32260": {
+        "id": 32260,
+        "name": "Hosidius"
+    },
+    "32261": {
+        "id": 32261,
+        "name": "Musa point"
+    },
+    "32262": {
+        "id": 32262,
+        "name": "Port piscarillius"
+    },
+    "32263": {
+        "id": 32263,
+        "name": "Rimmington"
+    },
+    "32264": {
+        "id": 32264,
+        "name": "Catherby"
+    },
+    "32265": {
+        "id": 32265,
+        "name": "Brimhaven"
+    },
+    "32266": {
+        "id": 32266,
+        "name": "Ardougne"
+    },
+    "32267": {
+        "id": 32267,
+        "name": "Port khazard"
+    },
+    "32268": {
+        "id": 32268,
+        "name": "Witchaven"
+    },
+    "32269": {
+        "id": 32269,
+        "name": "Entrana"
+    },
+    "32270": {
+        "id": 32270,
+        "name": "Civitas illa fortis"
+    },
+    "32271": {
+        "id": 32271,
+        "name": "Corsair cove"
+    },
+    "32272": {
+        "id": 32272,
+        "name": "Cairn isle"
+    },
+    "32273": {
+        "id": 32273,
+        "name": "Sunset coast"
+    },
+    "32274": {
+        "id": 32274,
+        "name": "Summer shore"
+    },
+    "32275": {
+        "id": 32275,
+        "name": "Aldarin"
+    },
+    "32276": {
+        "id": 32276,
+        "name": "Ruins of unkah"
+    },
+    "32277": {
+        "id": 32277,
+        "name": "Void knights' outpost"
+    },
+    "32278": {
+        "id": 32278,
+        "name": "Port roberts"
+    },
+    "32279": {
+        "id": 32279,
+        "name": "Red rock"
+    },
+    "32280": {
+        "id": 32280,
+        "name": "Rellekka"
+    },
+    "32281": {
+        "id": 32281,
+        "name": "Etceteria"
+    },
+    "32282": {
+        "id": 32282,
+        "name": "Port tyras"
+    },
+    "32283": {
+        "id": 32283,
+        "name": "Deepfin point"
+    },
+    "32284": {
+        "id": 32284,
+        "name": "Jatizo"
+    },
+    "32285": {
+        "id": 32285,
+        "name": "Neitiznot"
+    },
+    "32286": {
+        "id": 32286,
+        "name": "Prifddinas"
+    },
+    "32287": {
+        "id": 32287,
+        "name": "Piscatoris"
+    },
+    "32288": {
+        "id": 32288,
+        "name": "Lunar isle"
+    },
+    "32289": {
+        "id": 32289,
+        "name": "Port task"
+    },
+    "32290": {
+        "id": 32290,
+        "name": "Ardent ocean"
+    },
+    "32291": {
+        "id": 32291,
+        "name": "Unquiet ocean"
+    },
+    "32292": {
+        "id": 32292,
+        "name": "Shrouded ocean"
+    },
+    "32293": {
+        "id": 32293,
+        "name": "Sunset ocean"
+    },
+    "32294": {
+        "id": 32294,
+        "name": "Western ocean"
+    },
+    "32295": {
+        "id": 32295,
+        "name": "Eastern ocean"
+    },
+    "32296": {
+        "id": 32296,
+        "name": "Northern ocean"
+    },
+    "32297": {
+        "id": 32297,
+        "name": "Forgotten ocean"
+    },
+    "32298": {
+        "id": 32298,
+        "name": "Untamed ocean"
+    },
+    "32299": {
+        "id": 32299,
+        "name": "Trim"
+    },
+    "32300": {
+        "id": 32300,
+        "name": "Repair kit"
+    },
+    "32301": {
+        "id": 32301,
+        "name": "Oak repair kit"
+    },
+    "32302": {
+        "id": 32302,
+        "name": "Teak repair kit"
+    },
+    "32303": {
+        "id": 32303,
+        "name": "Mahogany repair kit"
+    },
+    "32304": {
+        "id": 32304,
+        "name": "Camphor repair kit"
+    },
+    "32305": {
+        "id": 32305,
+        "name": "Ironwood repair kit"
+    },
+    "32306": {
+        "id": 32306,
+        "name": "Rosewood repair kit"
+    },
+    "32307": {
+        "id": 32307,
+        "name": "Fine fish offcuts"
+    },
+    "32309": {
+        "id": 32309,
+        "name": "Raw giant krill"
+    },
+    "32312": {
+        "id": 32312,
+        "name": "Giant krill"
+    },
+    "32315": {
+        "id": 32315,
+        "name": "Burnt giant krill"
+    },
+    "32317": {
+        "id": 32317,
+        "name": "Raw haddock"
+    },
+    "32320": {
+        "id": 32320,
+        "name": "Haddock"
+    },
+    "32323": {
+        "id": 32323,
+        "name": "Burnt haddock"
+    },
+    "32325": {
+        "id": 32325,
+        "name": "Raw yellowfin"
+    },
+    "32328": {
+        "id": 32328,
+        "name": "Yellowfin"
+    },
+    "32331": {
+        "id": 32331,
+        "name": "Burnt yellowfin"
+    },
+    "32333": {
+        "id": 32333,
+        "name": "Raw halibut"
+    },
+    "32336": {
+        "id": 32336,
+        "name": "Halibut"
+    },
+    "32339": {
+        "id": 32339,
+        "name": "Burnt halibut"
+    },
+    "32341": {
+        "id": 32341,
+        "name": "Raw bluefin"
+    },
+    "32344": {
+        "id": 32344,
+        "name": "Bluefin"
+    },
+    "32347": {
+        "id": 32347,
+        "name": "Burnt bluefin"
+    },
+    "32349": {
+        "id": 32349,
+        "name": "Raw marlin"
+    },
+    "32352": {
+        "id": 32352,
+        "name": "Marlin"
+    },
+    "32355": {
+        "id": 32355,
+        "name": "Burnt marlin"
+    },
+    "32357": {
+        "id": 32357,
+        "name": "Haddock eye"
+    },
+    "32360": {
+        "id": 32360,
+        "name": "Yellow fin"
+    },
+    "32362": {
+        "id": 32362,
+        "name": "Marlin scales"
+    },
+    "32364": {
+        "id": 32364,
+        "name": "Camphor crate"
+    },
+    "32366": {
+        "id": 32366,
+        "name": "Fish crate (empty)"
+    },
+    "32368": {
+        "id": 32368,
+        "name": "Fish crate (giant krill)"
+    },
+    "32370": {
+        "id": 32370,
+        "name": "Fish crate (giant krill)"
+    },
+    "32371": {
+        "id": 32371,
+        "name": "Fish crate (haddock)"
+    },
+    "32373": {
+        "id": 32373,
+        "name": "Fish crate (haddock)"
+    },
+    "32374": {
+        "id": 32374,
+        "name": "Fish crate (yellowfin)"
+    },
+    "32376": {
+        "id": 32376,
+        "name": "Fish crate (yellowfin)"
+    },
+    "32377": {
+        "id": 32377,
+        "name": "Fish crate (halibut)"
+    },
+    "32379": {
+        "id": 32379,
+        "name": "Fish crate (halibut)"
+    },
+    "32380": {
+        "id": 32380,
+        "name": "Fish crate (bluefin)"
+    },
+    "32382": {
+        "id": 32382,
+        "name": "Fish crate (bluefin)"
+    },
+    "32383": {
+        "id": 32383,
+        "name": "Fish crate (marlin)"
+    },
+    "32385": {
+        "id": 32385,
+        "name": "Fish crate (marlin)"
+    },
+    "32386": {
+        "id": 32386,
+        "name": "Medallion of the deep"
+    },
+    "32388": {
+        "id": 32388,
+        "name": "Medallion fragment"
+    },
+    "32389": {
+        "id": 32389,
+        "name": "Medallion fragment"
+    },
+    "32390": {
+        "id": 32390,
+        "name": "Medallion fragment"
+    },
+    "32391": {
+        "id": 32391,
+        "name": "Medallion fragment"
+    },
+    "32392": {
+        "id": 32392,
+        "name": "Medallion fragment"
+    },
+    "32393": {
+        "id": 32393,
+        "name": "Medallion fragment"
+    },
+    "32394": {
+        "id": 32394,
+        "name": "Medallion fragment"
+    },
+    "32395": {
+        "id": 32395,
+        "name": "Medallion fragment"
+    },
+    "32396": {
+        "id": 32396,
+        "name": "Waterlogged journal"
+    },
+    "32398": {
+        "id": 32398,
+        "name": "Sailors' amulet (inert)"
+    },
+    "32399": {
+        "id": 32399,
+        "name": "Sailors' amulet"
+    },
+    "32401": {
+        "id": 32401,
+        "name": "Salvaging station schematic"
+    },
+    "32402": {
+        "id": 32402,
+        "name": "Gale catcher schematic"
+    },
+    "32403": {
+        "id": 32403,
+        "name": "Eternal brazier schematic"
+    },
+    "32404": {
+        "id": 32404,
+        "name": "Dragon salvaging hook schematic"
+    },
+    "32405": {
+        "id": 32405,
+        "name": "Rosewood cargo hold schematic"
+    },
+    "32406": {
+        "id": 32406,
+        "name": "Dragon cannon schematic"
+    },
+    "32407": {
+        "id": 32407,
+        "name": "Rosewood hull schematic"
+    },
+    "32408": {
+        "id": 32408,
+        "name": "Rosewood & cotton sails schematic"
+    },
+    "32409": {
+        "id": 32409,
+        "name": "Dragon helm schematic"
+    },
+    "32410": {
+        "id": 32410,
+        "name": "Dragon keel schematic"
+    },
+    "32411": {
+        "id": 32411,
+        "name": "Small key (the pandemonium)"
+    },
+    "32412": {
+        "id": 32412,
+        "name": "Small key (the onyx crest)"
+    },
+    "32413": {
+        "id": 32413,
+        "name": "Small key (tear of the soul)"
+    },
+    "32414": {
+        "id": 32414,
+        "name": "Small key (ynysdail)"
+    },
+    "32415": {
+        "id": 32415,
+        "name": "Small key (minotaurs' rest)"
+    },
+    "32416": {
+        "id": 32416,
+        "name": "Small key (buccaneers' haven)"
+    },
+    "32417": {
+        "id": 32417,
+        "name": "Small key (isle of bones)"
+    },
+    "32418": {
+        "id": 32418,
+        "name": "Small key (charred island)"
+    },
+    "32419": {
+        "id": 32419,
+        "name": "Small key (laguna aurorae)"
+    },
+    "32420": {
+        "id": 32420,
+        "name": "Small key (drumstick isle)"
+    },
+    "32421": {
+        "id": 32421,
+        "name": "Lockbox directions (chinchompa island)"
+    },
+    "32422": {
+        "id": 32422,
+        "name": "Lockbox directions (anglers' retreat)"
+    },
+    "32423": {
+        "id": 32423,
+        "name": "Lockbox directions (buccaneers' haven)"
+    },
+    "32424": {
+        "id": 32424,
+        "name": "Lockbox directions (lledrith island)"
+    },
+    "32425": {
+        "id": 32425,
+        "name": "Lockbox directions (the crown jewel)"
+    },
+    "32426": {
+        "id": 32426,
+        "name": "Lockbox directions (deepfin point)"
+    },
+    "32427": {
+        "id": 32427,
+        "name": "Lockbox directions (shimmering atoll)"
+    },
+    "32428": {
+        "id": 32428,
+        "name": "Lockbox directions (brittle isle)"
+    },
+    "32429": {
+        "id": 32429,
+        "name": "Lockbox directions (sunbleak island)"
+    },
+    "32430": {
+        "id": 32430,
+        "name": "Lockbox directions (grimstone)"
+    },
+    "32431": {
+        "id": 32431,
+        "name": "Book about lighthouses"
+    },
+    "32432": {
+        "id": 32432,
+        "name": "Charred key"
+    },
+    "32433": {
+        "id": 32433,
+        "name": "Void orb"
+    },
+    "32434": {
+        "id": 32434,
+        "name": "Holy sheet"
+    },
+    "32435": {
+        "id": 32435,
+        "name": "Crate of adamantite ore"
+    },
+    "32436": {
+        "id": 32436,
+        "name": "Crate of crab paste"
+    },
+    "32437": {
+        "id": 32437,
+        "name": "Crate of crystal seeds"
+    },
+    "32438": {
+        "id": 32438,
+        "name": "Crate of daggers"
+    },
+    "32439": {
+        "id": 32439,
+        "name": "Crate of dyes"
+    },
+    "32440": {
+        "id": 32440,
+        "name": "Crate of furs"
+    },
+    "32441": {
+        "id": 32441,
+        "name": "Crate of jewellery"
+    },
+    "32442": {
+        "id": 32442,
+        "name": "Crate of lead ore"
+    },
+    "32443": {
+        "id": 32443,
+        "name": "Crate of monkfish"
+    },
+    "32444": {
+        "id": 32444,
+        "name": "Crate of nickel ore"
+    },
+    "32445": {
+        "id": 32445,
+        "name": "Crate of pest remains"
+    },
+    "32446": {
+        "id": 32446,
+        "name": "Crate of platebodies"
+    },
+    "32447": {
+        "id": 32447,
+        "name": "Crate of spears"
+    },
+    "32448": {
+        "id": 32448,
+        "name": "Crate of arrowtips"
+    },
+    "32449": {
+        "id": 32449,
+        "name": "Crate of bananas"
+    },
+    "32450": {
+        "id": 32450,
+        "name": "Crate of crystal seeds"
+    },
+    "32451": {
+        "id": 32451,
+        "name": "Crate of fish"
+    },
+    "32452": {
+        "id": 32452,
+        "name": "Crate of furs"
+    },
+    "32453": {
+        "id": 32453,
+        "name": "Crate of gold ore"
+    },
+    "32454": {
+        "id": 32454,
+        "name": "Crate of halberds"
+    },
+    "32455": {
+        "id": 32455,
+        "name": "Crate of jewellery"
+    },
+    "32456": {
+        "id": 32456,
+        "name": "Crate of poison"
+    },
+    "32457": {
+        "id": 32457,
+        "name": "Crate of rabbit meat"
+    },
+    "32458": {
+        "id": 32458,
+        "name": "Crate of red coral"
+    },
+    "32459": {
+        "id": 32459,
+        "name": "Crate of runes"
+    },
+    "32460": {
+        "id": 32460,
+        "name": "Crate of salamanders"
+    },
+    "32461": {
+        "id": 32461,
+        "name": "Crate of sand"
+    },
+    "32462": {
+        "id": 32462,
+        "name": "Crate of silk"
+    },
+    "32463": {
+        "id": 32463,
+        "name": "Crate of spices"
+    },
+    "32464": {
+        "id": 32464,
+        "name": "Crate of bear meat"
+    },
+    "32465": {
+        "id": 32465,
+        "name": "Crate of beer"
+    },
+    "32466": {
+        "id": 32466,
+        "name": "Crate of cacti"
+    },
+    "32467": {
+        "id": 32467,
+        "name": "Crate of camphor logs"
+    },
+    "32468": {
+        "id": 32468,
+        "name": "Crate of compost"
+    },
+    "32469": {
+        "id": 32469,
+        "name": "Crate of fish"
+    },
+    "32470": {
+        "id": 32470,
+        "name": "Crate of gems"
+    },
+    "32471": {
+        "id": 32471,
+        "name": "Crate of iron bars"
+    },
+    "32472": {
+        "id": 32472,
+        "name": "Crate of jewellery"
+    },
+    "32473": {
+        "id": 32473,
+        "name": "Crate of machinery parts"
+    },
+    "32474": {
+        "id": 32474,
+        "name": "Crate of rum"
+    },
+    "32475": {
+        "id": 32475,
+        "name": "Crate of sandstone"
+    },
+    "32476": {
+        "id": 32476,
+        "name": "Crate of silver ore"
+    },
+    "32477": {
+        "id": 32477,
+        "name": "Crate of spices"
+    },
+    "32478": {
+        "id": 32478,
+        "name": "Crate of vodka"
+    },
+    "32479": {
+        "id": 32479,
+        "name": "Crate of wine"
+    },
+    "32480": {
+        "id": 32480,
+        "name": "Crate of gold bars"
+    },
+    "32481": {
+        "id": 32481,
+        "name": "Crate of secret stuff"
+    },
+    "32482": {
+        "id": 32482,
+        "name": "Crate of arrowtips"
+    },
+    "32483": {
+        "id": 32483,
+        "name": "Crate of bait"
+    },
+    "32484": {
+        "id": 32484,
+        "name": "Crate of feathers"
+    },
+    "32485": {
+        "id": 32485,
+        "name": "Crate of bananas"
+    },
+    "32486": {
+        "id": 32486,
+        "name": "Crate of coconuts"
+    },
+    "32487": {
+        "id": 32487,
+        "name": "Crate of furs"
+    },
+    "32488": {
+        "id": 32488,
+        "name": "Crate of glassmaking supplies"
+    },
+    "32489": {
+        "id": 32489,
+        "name": "Crate of gold ore"
+    },
+    "32490": {
+        "id": 32490,
+        "name": "Crate of grog"
+    },
+    "32491": {
+        "id": 32491,
+        "name": "Crate of javelins"
+    },
+    "32492": {
+        "id": 32492,
+        "name": "Crate of jewellery"
+    },
+    "32493": {
+        "id": 32493,
+        "name": "Crate of karambwans"
+    },
+    "32494": {
+        "id": 32494,
+        "name": "Crate of pineapples"
+    },
+    "32495": {
+        "id": 32495,
+        "name": "Crate of potatoes"
+    },
+    "32496": {
+        "id": 32496,
+        "name": "Crate of seeds"
+    },
+    "32497": {
+        "id": 32497,
+        "name": "Crate of silk"
+    },
+    "32498": {
+        "id": 32498,
+        "name": "Crate of silver ore"
+    },
+    "32499": {
+        "id": 32499,
+        "name": "Crate of vials"
+    },
+    "32500": {
+        "id": 32500,
+        "name": "Crate of astral runes"
+    },
+    "32501": {
+        "id": 32501,
+        "name": "Crate of books"
+    },
+    "32502": {
+        "id": 32502,
+        "name": "Crate of coral"
+    },
+    "32503": {
+        "id": 32503,
+        "name": "Crate of fish"
+    },
+    "32504": {
+        "id": 32504,
+        "name": "Crate of fruit"
+    },
+    "32505": {
+        "id": 32505,
+        "name": "Crate of gems"
+    },
+    "32506": {
+        "id": 32506,
+        "name": "Crate of historical artefacts"
+    },
+    "32507": {
+        "id": 32507,
+        "name": "Crate of nickel ore"
+    },
+    "32508": {
+        "id": 32508,
+        "name": "Crate of oranges"
+    },
+    "32509": {
+        "id": 32509,
+        "name": "Crate of ores"
+    },
+    "32510": {
+        "id": 32510,
+        "name": "Crate of pineapples"
+    },
+    "32511": {
+        "id": 32511,
+        "name": "Crate of red coral"
+    },
+    "32512": {
+        "id": 32512,
+        "name": "Crate of runes"
+    },
+    "32513": {
+        "id": 32513,
+        "name": "Crate of seeds"
+    },
+    "32514": {
+        "id": 32514,
+        "name": "Crate of ship parts"
+    },
+    "32515": {
+        "id": 32515,
+        "name": "Crate of spices"
+    },
+    "32516": {
+        "id": 32516,
+        "name": "Crate of staffs"
+    },
+    "32517": {
+        "id": 32517,
+        "name": "Crate of tokens"
+    },
+    "32518": {
+        "id": 32518,
+        "name": "Crate of vegetables"
+    },
+    "32519": {
+        "id": 32519,
+        "name": "Crate of arrowtips"
+    },
+    "32520": {
+        "id": 32520,
+        "name": "Crate of bear meat"
+    },
+    "32521": {
+        "id": 32521,
+        "name": "Crate of beer"
+    },
+    "32522": {
+        "id": 32522,
+        "name": "Crate of daggers"
+    },
+    "32523": {
+        "id": 32523,
+        "name": "Crate of fish"
+    },
+    "32524": {
+        "id": 32524,
+        "name": "Crate of gems"
+    },
+    "32525": {
+        "id": 32525,
+        "name": "Crate of khali brews"
+    },
+    "32526": {
+        "id": 32526,
+        "name": "Crate of peg legs"
+    },
+    "32527": {
+        "id": 32527,
+        "name": "Crate of platebodies"
+    },
+    "32528": {
+        "id": 32528,
+        "name": "Crate of rum"
+    },
+    "32529": {
+        "id": 32529,
+        "name": "Crate of scimitars"
+    },
+    "32530": {
+        "id": 32530,
+        "name": "Crate of ship parts"
+    },
+    "32531": {
+        "id": 32531,
+        "name": "Crate of swords"
+    },
+    "32532": {
+        "id": 32532,
+        "name": "Crate of alpaca wool"
+    },
+    "32533": {
+        "id": 32533,
+        "name": "Crate of camphor logs"
+    },
+    "32534": {
+        "id": 32534,
+        "name": "Crate of fabrics"
+    },
+    "32535": {
+        "id": 32535,
+        "name": "Crate of fruit"
+    },
+    "32536": {
+        "id": 32536,
+        "name": "Crate of furs"
+    },
+    "32537": {
+        "id": 32537,
+        "name": "Crate of granite"
+    },
+    "32538": {
+        "id": 32538,
+        "name": "Crate of javelins"
+    },
+    "32539": {
+        "id": 32539,
+        "name": "Crate of logs"
+    },
+    "32540": {
+        "id": 32540,
+        "name": "Crate of machinery parts"
+    },
+    "32541": {
+        "id": 32541,
+        "name": "Crate of mahogany logs"
+    },
+    "32542": {
+        "id": 32542,
+        "name": "Crate of pest remains"
+    },
+    "32543": {
+        "id": 32543,
+        "name": "Crate of pickaxes"
+    },
+    "32544": {
+        "id": 32544,
+        "name": "Crate of planks"
+    },
+    "32545": {
+        "id": 32545,
+        "name": "Crate of suqah hides"
+    },
+    "32546": {
+        "id": 32546,
+        "name": "Crate of warhammers"
+    },
+    "32547": {
+        "id": 32547,
+        "name": "Crate of bananas"
+    },
+    "32548": {
+        "id": 32548,
+        "name": "Crate of barley"
+    },
+    "32549": {
+        "id": 32549,
+        "name": "Crate of sand"
+    },
+    "32550": {
+        "id": 32550,
+        "name": "Crate of adamantite ore"
+    },
+    "32551": {
+        "id": 32551,
+        "name": "Crate of fish"
+    },
+    "32552": {
+        "id": 32552,
+        "name": "Crate of fruit"
+    },
+    "32553": {
+        "id": 32553,
+        "name": "Crate of iron ore"
+    },
+    "32554": {
+        "id": 32554,
+        "name": "Crate of monkfish"
+    },
+    "32555": {
+        "id": 32555,
+        "name": "Crate of onions"
+    },
+    "32556": {
+        "id": 32556,
+        "name": "Crate of planks"
+    },
+    "32557": {
+        "id": 32557,
+        "name": "Crate of swords"
+    },
+    "32558": {
+        "id": 32558,
+        "name": "Crate of warhammers"
+    },
+    "32559": {
+        "id": 32559,
+        "name": "Crate of yak hair"
+    },
+    "32560": {
+        "id": 32560,
+        "name": "Crate of fish"
+    },
+    "32561": {
+        "id": 32561,
+        "name": "Crate of lead ore"
+    },
+    "32562": {
+        "id": 32562,
+        "name": "Crate of rope"
+    },
+    "32563": {
+        "id": 32563,
+        "name": "Crate of xerician fabrics"
+    },
+    "32564": {
+        "id": 32564,
+        "name": "Crate of fish"
+    },
+    "32565": {
+        "id": 32565,
+        "name": "Crate of flax"
+    },
+    "32566": {
+        "id": 32566,
+        "name": "Crate of logs"
+    },
+    "32567": {
+        "id": 32567,
+        "name": "Crate of bear meat"
+    },
+    "32568": {
+        "id": 32568,
+        "name": "Crate of fish"
+    },
+    "32569": {
+        "id": 32569,
+        "name": "Crate of furs"
+    },
+    "32570": {
+        "id": 32570,
+        "name": "Crate of gems"
+    },
+    "32571": {
+        "id": 32571,
+        "name": "Crate of kebbit fur"
+    },
+    "32572": {
+        "id": 32572,
+        "name": "Crate of meat"
+    },
+    "32573": {
+        "id": 32573,
+        "name": "Crate of ores"
+    },
+    "32574": {
+        "id": 32574,
+        "name": "Crate of secret things"
+    },
+    "32575": {
+        "id": 32575,
+        "name": "Crate of swords"
+    },
+    "32576": {
+        "id": 32576,
+        "name": "Crate of vegetables"
+    },
+    "32577": {
+        "id": 32577,
+        "name": "Crate of wine"
+    },
+    "32578": {
+        "id": 32578,
+        "name": "Crate of antelope fur"
+    },
+    "32579": {
+        "id": 32579,
+        "name": "Crate of berries"
+    },
+    "32580": {
+        "id": 32580,
+        "name": "Crate of coal"
+    },
+    "32581": {
+        "id": 32581,
+        "name": "Crate of crystal seeds"
+    },
+    "32582": {
+        "id": 32582,
+        "name": "Crate of fish"
+    },
+    "32583": {
+        "id": 32583,
+        "name": "Crate of furs"
+    },
+    "32584": {
+        "id": 32584,
+        "name": "Crate of kebbit fur"
+    },
+    "32585": {
+        "id": 32585,
+        "name": "Crate of logs"
+    },
+    "32586": {
+        "id": 32586,
+        "name": "Crate of potions"
+    },
+    "32587": {
+        "id": 32587,
+        "name": "Crate of red coral"
+    },
+    "32588": {
+        "id": 32588,
+        "name": "Crate of bananas"
+    },
+    "32589": {
+        "id": 32589,
+        "name": "Crate of beer glasses"
+    },
+    "32590": {
+        "id": 32590,
+        "name": "Crate of cocktails"
+    },
+    "32591": {
+        "id": 32591,
+        "name": "Crate of eye patches"
+    },
+    "32592": {
+        "id": 32592,
+        "name": "Crate of fish"
+    },
+    "32593": {
+        "id": 32593,
+        "name": "Crate of high importance"
+    },
+    "32594": {
+        "id": 32594,
+        "name": "Crate of honey"
+    },
+    "32595": {
+        "id": 32595,
+        "name": "Crate of lobsters"
+    },
+    "32596": {
+        "id": 32596,
+        "name": "Crate of logs"
+    },
+    "32597": {
+        "id": 32597,
+        "name": "Crate of mahogany logs"
+    },
+    "32598": {
+        "id": 32598,
+        "name": "Crate of meat"
+    },
+    "32599": {
+        "id": 32599,
+        "name": "Crate of rotten bananas"
+    },
+    "32600": {
+        "id": 32600,
+        "name": "Crate of secret stuff"
+    },
+    "32601": {
+        "id": 32601,
+        "name": "Crate of ship parts"
+    },
+    "32602": {
+        "id": 32602,
+        "name": "Crate of silk"
+    },
+    "32603": {
+        "id": 32603,
+        "name": "Crate of coal"
+    },
+    "32604": {
+        "id": 32604,
+        "name": "Crate of mahogany logs"
+    },
+    "32605": {
+        "id": 32605,
+        "name": "Crate of sand"
+    },
+    "32606": {
+        "id": 32606,
+        "name": "Crate of fabrics"
+    },
+    "32607": {
+        "id": 32607,
+        "name": "Crate of fish"
+    },
+    "32608": {
+        "id": 32608,
+        "name": "Crate of flax"
+    },
+    "32609": {
+        "id": 32609,
+        "name": "Crate of furs"
+    },
+    "32610": {
+        "id": 32610,
+        "name": "Crate of potions"
+    },
+    "32611": {
+        "id": 32611,
+        "name": "Crate of vodka"
+    },
+    "32612": {
+        "id": 32612,
+        "name": "Crate of angler outfit pieces"
+    },
+    "32613": {
+        "id": 32613,
+        "name": "Crate of arrowtips"
+    },
+    "32614": {
+        "id": 32614,
+        "name": "Crate of bows"
+    },
+    "32615": {
+        "id": 32615,
+        "name": "Crate of bread"
+    },
+    "32616": {
+        "id": 32616,
+        "name": "Crate of chainbodies"
+    },
+    "32617": {
+        "id": 32617,
+        "name": "Crate of coal"
+    },
+    "32618": {
+        "id": 32618,
+        "name": "Crate of crab paste"
+    },
+    "32619": {
+        "id": 32619,
+        "name": "Crate of fruit"
+    },
+    "32620": {
+        "id": 32620,
+        "name": "Crate of gunpowder"
+    },
+    "32621": {
+        "id": 32621,
+        "name": "Crate of herbs"
+    },
+    "32622": {
+        "id": 32622,
+        "name": "Crate of huasca"
+    },
+    "32623": {
+        "id": 32623,
+        "name": "Crate of kyatt teeth"
+    },
+    "32624": {
+        "id": 32624,
+        "name": "Crate of planks"
+    },
+    "32625": {
+        "id": 32625,
+        "name": "Crate of platebodies"
+    },
+    "32626": {
+        "id": 32626,
+        "name": "Crate of red coral"
+    },
+    "32627": {
+        "id": 32627,
+        "name": "Crate of scimitars"
+    },
+    "32628": {
+        "id": 32628,
+        "name": "Crate of secret stuff"
+    },
+    "32629": {
+        "id": 32629,
+        "name": "Crate of spears"
+    },
+    "32630": {
+        "id": 32630,
+        "name": "Crate of swamp paste"
+    },
+    "32631": {
+        "id": 32631,
+        "name": "Crate of vodka"
+    },
+    "32632": {
+        "id": 32632,
+        "name": "Crate of antelope meat"
+    },
+    "32633": {
+        "id": 32633,
+        "name": "Crate of astral runes"
+    },
+    "32634": {
+        "id": 32634,
+        "name": "Crate of books"
+    },
+    "32635": {
+        "id": 32635,
+        "name": "Crate of cannonballs"
+    },
+    "32636": {
+        "id": 32636,
+        "name": "Crate of coal"
+    },
+    "32637": {
+        "id": 32637,
+        "name": "Crate of fabrics"
+    },
+    "32638": {
+        "id": 32638,
+        "name": "Crate of furs"
+    },
+    "32639": {
+        "id": 32639,
+        "name": "Crate of gems"
+    },
+    "32640": {
+        "id": 32640,
+        "name": "Crate of gin"
+    },
+    "32641": {
+        "id": 32641,
+        "name": "Crate of honey"
+    },
+    "32642": {
+        "id": 32642,
+        "name": "Crate of jewellery"
+    },
+    "32643": {
+        "id": 32643,
+        "name": "Crate of kebbit fur"
+    },
+    "32644": {
+        "id": 32644,
+        "name": "Crate of mahogany logs"
+    },
+    "32645": {
+        "id": 32645,
+        "name": "Crate of planks"
+    },
+    "32646": {
+        "id": 32646,
+        "name": "Crate of platebodies"
+    },
+    "32647": {
+        "id": 32647,
+        "name": "Crate of red coral"
+    },
+    "32648": {
+        "id": 32648,
+        "name": "Crate of seeds"
+    },
+    "32649": {
+        "id": 32649,
+        "name": "Crate of wine"
+    },
+    "32650": {
+        "id": 32650,
+        "name": "Crate of antelope fur"
+    },
+    "32651": {
+        "id": 32651,
+        "name": "Crate of berries"
+    },
+    "32652": {
+        "id": 32652,
+        "name": "Crate of bows"
+    },
+    "32653": {
+        "id": 32653,
+        "name": "Crate of coral"
+    },
+    "32654": {
+        "id": 32654,
+        "name": "Crate of fabrics"
+    },
+    "32655": {
+        "id": 32655,
+        "name": "Crate of fish"
+    },
+    "32656": {
+        "id": 32656,
+        "name": "Crate of flax"
+    },
+    "32657": {
+        "id": 32657,
+        "name": "Crate of furs"
+    },
+    "32658": {
+        "id": 32658,
+        "name": "Crate of gems"
+    },
+    "32659": {
+        "id": 32659,
+        "name": "Crate of honey"
+    },
+    "32660": {
+        "id": 32660,
+        "name": "Crate of jewellery"
+    },
+    "32661": {
+        "id": 32661,
+        "name": "Crate of logs"
+    },
+    "32662": {
+        "id": 32662,
+        "name": "Crate of meat"
+    },
+    "32663": {
+        "id": 32663,
+        "name": "Crate of nickel ore"
+    },
+    "32664": {
+        "id": 32664,
+        "name": "Crate of ores"
+    },
+    "32665": {
+        "id": 32665,
+        "name": "Crate of red coral"
+    },
+    "32666": {
+        "id": 32666,
+        "name": "Crate of runes"
+    },
+    "32667": {
+        "id": 32667,
+        "name": "Crate of seeds"
+    },
+    "32668": {
+        "id": 32668,
+        "name": "Crate of silk"
+    },
+    "32669": {
+        "id": 32669,
+        "name": "Crate of silver ore"
+    },
+    "32670": {
+        "id": 32670,
+        "name": "Crate of staffs"
+    },
+    "32671": {
+        "id": 32671,
+        "name": "Crate of teak logs"
+    },
+    "32672": {
+        "id": 32672,
+        "name": "Crate of wine"
+    },
+    "32673": {
+        "id": 32673,
+        "name": "Crate of amulets"
+    },
+    "32674": {
+        "id": 32674,
+        "name": "Crate of beer"
+    },
+    "32675": {
+        "id": 32675,
+        "name": "Crate of books"
+    },
+    "32676": {
+        "id": 32676,
+        "name": "Crate of cacti"
+    },
+    "32677": {
+        "id": 32677,
+        "name": "Crate of camphor logs"
+    },
+    "32678": {
+        "id": 32678,
+        "name": "Crate of coconuts"
+    },
+    "32679": {
+        "id": 32679,
+        "name": "Crate of fish"
+    },
+    "32680": {
+        "id": 32680,
+        "name": "Crate of flax"
+    },
+    "32681": {
+        "id": 32681,
+        "name": "Crate of honey"
+    },
+    "32682": {
+        "id": 32682,
+        "name": "Crate of jewellery"
+    },
+    "32683": {
+        "id": 32683,
+        "name": "Crate of kebabs"
+    },
+    "32684": {
+        "id": 32684,
+        "name": "Crate of logs"
+    },
+    "32685": {
+        "id": 32685,
+        "name": "Crate of nothing sinister"
+    },
+    "32686": {
+        "id": 32686,
+        "name": "Crate of pest remains"
+    },
+    "32687": {
+        "id": 32687,
+        "name": "Crate of red coral"
+    },
+    "32688": {
+        "id": 32688,
+        "name": "Crate of runes"
+    },
+    "32689": {
+        "id": 32689,
+        "name": "Crate of seeds"
+    },
+    "32690": {
+        "id": 32690,
+        "name": "Crate of spices"
+    },
+    "32691": {
+        "id": 32691,
+        "name": "Crate of sunbeam ale"
+    },
+    "32692": {
+        "id": 32692,
+        "name": "Crate of swords"
+    },
+    "32693": {
+        "id": 32693,
+        "name": "Crate of arrowtips"
+    },
+    "32694": {
+        "id": 32694,
+        "name": "Crate of chinchompas"
+    },
+    "32695": {
+        "id": 32695,
+        "name": "Crate of coal"
+    },
+    "32696": {
+        "id": 32696,
+        "name": "Crate of fabrics"
+    },
+    "32697": {
+        "id": 32697,
+        "name": "Crate of fish"
+    },
+    "32698": {
+        "id": 32698,
+        "name": "Crate of fruit"
+    },
+    "32699": {
+        "id": 32699,
+        "name": "Crate of furs"
+    },
+    "32700": {
+        "id": 32700,
+        "name": "Crate of herbs"
+    },
+    "32701": {
+        "id": 32701,
+        "name": "Crate of mithril ore"
+    },
+    "32702": {
+        "id": 32702,
+        "name": "Crate of ores"
+    },
+    "32703": {
+        "id": 32703,
+        "name": "Crate of platebodies"
+    },
+    "32704": {
+        "id": 32704,
+        "name": "Crate of seeds"
+    },
+    "32705": {
+        "id": 32705,
+        "name": "Crate of shields"
+    },
+    "32706": {
+        "id": 32706,
+        "name": "Crate of snakeskin"
+    },
+    "32707": {
+        "id": 32707,
+        "name": "Crate of swords"
+    },
+    "32708": {
+        "id": 32708,
+        "name": "Crate of vegetables"
+    },
+    "32709": {
+        "id": 32709,
+        "name": "Crate of astral runes"
+    },
+    "32710": {
+        "id": 32710,
+        "name": "Crate of books"
+    },
+    "32711": {
+        "id": 32711,
+        "name": "Crate of clothes"
+    },
+    "32712": {
+        "id": 32712,
+        "name": "Crate of fish"
+    },
+    "32713": {
+        "id": 32713,
+        "name": "Crate of halberds"
+    },
+    "32714": {
+        "id": 32714,
+        "name": "Crate of herbs"
+    },
+    "32715": {
+        "id": 32715,
+        "name": "Crate of logs"
+    },
+    "32716": {
+        "id": 32716,
+        "name": "Crate of ores"
+    },
+    "32717": {
+        "id": 32717,
+        "name": "Crate of potions"
+    },
+    "32718": {
+        "id": 32718,
+        "name": "Crate of silk"
+    },
+    "32719": {
+        "id": 32719,
+        "name": "Crate of spices"
+    },
+    "32720": {
+        "id": 32720,
+        "name": "Crate of xerician fabrics"
+    },
+    "32721": {
+        "id": 32721,
+        "name": "Crate of astral runes"
+    },
+    "32722": {
+        "id": 32722,
+        "name": "Crate of battleaxes"
+    },
+    "32723": {
+        "id": 32723,
+        "name": "Crate of coal"
+    },
+    "32724": {
+        "id": 32724,
+        "name": "Crate of fish"
+    },
+    "32725": {
+        "id": 32725,
+        "name": "Crate of furs"
+    },
+    "32726": {
+        "id": 32726,
+        "name": "Crate of granite"
+    },
+    "32727": {
+        "id": 32727,
+        "name": "Crate of herbs"
+    },
+    "32728": {
+        "id": 32728,
+        "name": "Crate of karambwans"
+    },
+    "32729": {
+        "id": 32729,
+        "name": "Crate of ores"
+    },
+    "32730": {
+        "id": 32730,
+        "name": "Crate of protective clothing"
+    },
+    "32731": {
+        "id": 32731,
+        "name": "Crate of runes"
+    },
+    "32732": {
+        "id": 32732,
+        "name": "Crate of ship parts"
+    },
+    "32733": {
+        "id": 32733,
+        "name": "Crate of spices"
+    },
+    "32734": {
+        "id": 32734,
+        "name": "Crate of adamantite ore"
+    },
+    "32735": {
+        "id": 32735,
+        "name": "Crate of beer"
+    },
+    "32736": {
+        "id": 32736,
+        "name": "Crate of dragon bitter"
+    },
+    "32737": {
+        "id": 32737,
+        "name": "Crate of fabrics"
+    },
+    "32738": {
+        "id": 32738,
+        "name": "Crate of fish"
+    },
+    "32739": {
+        "id": 32739,
+        "name": "Crate of halberds"
+    },
+    "32740": {
+        "id": 32740,
+        "name": "Crate of lead ore"
+    },
+    "32741": {
+        "id": 32741,
+        "name": "Crate of monkfish"
+    },
+    "32742": {
+        "id": 32742,
+        "name": "Crate of pies"
+    },
+    "32743": {
+        "id": 32743,
+        "name": "Crate of planks"
+    },
+    "32744": {
+        "id": 32744,
+        "name": "Crate of redwood logs"
+    },
+    "32745": {
+        "id": 32745,
+        "name": "Crate of rope"
+    },
+    "32746": {
+        "id": 32746,
+        "name": "Crate of ship parts"
+    },
+    "32747": {
+        "id": 32747,
+        "name": "Crate of teak logs"
+    },
+    "32748": {
+        "id": 32748,
+        "name": "Crate of wine"
+    },
+    "32749": {
+        "id": 32749,
+        "name": "Crate of calquat"
+    },
+    "32750": {
+        "id": 32750,
+        "name": "Crate of cocktails"
+    },
+    "32751": {
+        "id": 32751,
+        "name": "Crate of coral"
+    },
+    "32752": {
+        "id": 32752,
+        "name": "Crate of fish"
+    },
+    "32753": {
+        "id": 32753,
+        "name": "Crate of fishing supplies"
+    },
+    "32754": {
+        "id": 32754,
+        "name": "Crate of javelins"
+    },
+    "32755": {
+        "id": 32755,
+        "name": "Crate of planks"
+    },
+    "32756": {
+        "id": 32756,
+        "name": "Crate of runes"
+    },
+    "32757": {
+        "id": 32757,
+        "name": "Crate of ship parts"
+    },
+    "32758": {
+        "id": 32758,
+        "name": "Crate of beer"
+    },
+    "32759": {
+        "id": 32759,
+        "name": "Crate of fabrics"
+    },
+    "32760": {
+        "id": 32760,
+        "name": "Crate of fish"
+    },
+    "32761": {
+        "id": 32761,
+        "name": "Crate of maces"
+    },
+    "32762": {
+        "id": 32762,
+        "name": "Crate of warhammers"
+    },
+    "32763": {
+        "id": 32763,
+        "name": "Crate of wine"
+    },
+    "32764": {
+        "id": 32764,
+        "name": "Crate of arrowtips"
+    },
+    "32765": {
+        "id": 32765,
+        "name": "Crate of bananas"
+    },
+    "32766": {
+        "id": 32766,
+        "name": "Crate of battleaxes"
+    },
+    "32767": {
+        "id": 32767,
+        "name": "Crate of cacti"
+    },
+    "32768": {
+        "id": 32768,
+        "name": "Crate of coral"
+    },
+    "32769": {
+        "id": 32769,
+        "name": "Crate of gold bars"
+    },
+    "32770": {
+        "id": 32770,
+        "name": "Crate of granite"
+    },
+    "32771": {
+        "id": 32771,
+        "name": "Crate of meat"
+    },
+    "32772": {
+        "id": 32772,
+        "name": "Crate of pineapples"
+    },
+    "32773": {
+        "id": 32773,
+        "name": "Crate of platebodies"
+    },
+    "32774": {
+        "id": 32774,
+        "name": "Crate of rum"
+    },
+    "32775": {
+        "id": 32775,
+        "name": "Crate of sea shells"
+    },
+    "32776": {
+        "id": 32776,
+        "name": "Crate of spices"
+    },
+    "32777": {
+        "id": 32777,
+        "name": "Crate of steel bars"
+    },
+    "32778": {
+        "id": 32778,
+        "name": "Crate of swamp paste"
+    },
+    "32779": {
+        "id": 32779,
+        "name": "Crate of wax"
+    },
+    "32780": {
+        "id": 32780,
+        "name": "Crate of bananas"
+    },
+    "32781": {
+        "id": 32781,
+        "name": "Crate of cacti"
+    },
+    "32782": {
+        "id": 32782,
+        "name": "Crate of gems"
+    },
+    "32783": {
+        "id": 32783,
+        "name": "Crate of javelins"
+    },
+    "32784": {
+        "id": 32784,
+        "name": "Crate of jewellery"
+    },
+    "32785": {
+        "id": 32785,
+        "name": "Crate of leather"
+    },
+    "32786": {
+        "id": 32786,
+        "name": "Crate of meat"
+    },
+    "32787": {
+        "id": 32787,
+        "name": "Crate of nickel ore"
+    },
+    "32788": {
+        "id": 32788,
+        "name": "Crate of pest remains"
+    },
+    "32789": {
+        "id": 32789,
+        "name": "Crate of pineapples"
+    },
+    "32790": {
+        "id": 32790,
+        "name": "Crate of potions"
+    },
+    "32791": {
+        "id": 32791,
+        "name": "Crate of rope"
+    },
+    "32792": {
+        "id": 32792,
+        "name": "Crate of sandstone"
+    },
+    "32793": {
+        "id": 32793,
+        "name": "Crate of shields"
+    },
+    "32794": {
+        "id": 32794,
+        "name": "Crate of coral"
+    },
+    "32795": {
+        "id": 32795,
+        "name": "Crate of dragonhide"
+    },
+    "32796": {
+        "id": 32796,
+        "name": "Crate of granite"
+    },
+    "32797": {
+        "id": 32797,
+        "name": "Crate of herbs"
+    },
+    "32798": {
+        "id": 32798,
+        "name": "Crate of logs"
+    },
+    "32799": {
+        "id": 32799,
+        "name": "Crate of maces"
+    },
+    "32800": {
+        "id": 32800,
+        "name": "Crate of ores"
+    },
+    "32801": {
+        "id": 32801,
+        "name": "Crate of platebodies"
+    },
+    "32802": {
+        "id": 32802,
+        "name": "Crate of potions"
+    },
+    "32803": {
+        "id": 32803,
+        "name": "Crate of runes"
+    },
+    "32804": {
+        "id": 32804,
+        "name": "Crate of seeds"
+    },
+    "32805": {
+        "id": 32805,
+        "name": "Crate of spears"
+    },
+    "32806": {
+        "id": 32806,
+        "name": "Crate of wrath runes"
+    },
+    "32807": {
+        "id": 32807,
+        "name": "Crate of ship parts"
+    },
+    "32808": {
+        "id": 32808,
+        "name": "Crate of looty"
+    },
+    "32809": {
+        "id": 32809,
+        "name": "Bull shark jaw"
+    },
+    "32810": {
+        "id": 32810,
+        "name": "Hammerhead shark jaw"
+    },
+    "32811": {
+        "id": 32811,
+        "name": "Tiger shark jaw"
+    },
+    "32812": {
+        "id": 32812,
+        "name": "Great white shark jaw"
+    },
+    "32813": {
+        "id": 32813,
+        "name": "Narwhal blubber"
+    },
+    "32814": {
+        "id": 32814,
+        "name": "Orca blubber"
+    },
+    "32815": {
+        "id": 32815,
+        "name": "Pygmy kraken tentacle"
+    },
+    "32816": {
+        "id": 32816,
+        "name": "Spined kraken tentacle"
+    },
+    "32817": {
+        "id": 32817,
+        "name": "Armoured kraken tentacle"
+    },
+    "32818": {
+        "id": 32818,
+        "name": "Vampyre kraken tentacle"
+    },
+    "32819": {
+        "id": 32819,
+        "name": "Eagle ray fin"
+    },
+    "32820": {
+        "id": 32820,
+        "name": "Butterfly ray fin"
+    },
+    "32821": {
+        "id": 32821,
+        "name": "Stingray fin"
+    },
+    "32822": {
+        "id": 32822,
+        "name": "Manta ray fin"
+    },
+    "32823": {
+        "id": 32823,
+        "name": "Tern feather"
+    },
+    "32824": {
+        "id": 32824,
+        "name": "Osprey feather"
+    },
+    "32825": {
+        "id": 32825,
+        "name": "Frigatebird feather"
+    },
+    "32826": {
+        "id": 32826,
+        "name": "Albatross feather"
+    },
+    "32827": {
+        "id": 32827,
+        "name": "Mogre mace"
+    },
+    "32828": {
+        "id": 32828,
+        "name": "Bull shark liver"
+    },
+    "32829": {
+        "id": 32829,
+        "name": "Hammerhead shark liver"
+    },
+    "32830": {
+        "id": 32830,
+        "name": "Tiger shark liver"
+    },
+    "32831": {
+        "id": 32831,
+        "name": "Great white shark liver"
+    },
+    "32832": {
+        "id": 32832,
+        "name": "Narwhal tusk"
+    },
+    "32833": {
+        "id": 32833,
+        "name": "Orca teeth"
+    },
+    "32834": {
+        "id": 32834,
+        "name": "Pygmy kraken ink sac"
+    },
+    "32835": {
+        "id": 32835,
+        "name": "Spined kraken ink sac"
+    },
+    "32836": {
+        "id": 32836,
+        "name": "Armoured kraken ink sac"
+    },
+    "32837": {
+        "id": 32837,
+        "name": "Vampyre kraken ink sac"
+    },
+    "32838": {
+        "id": 32838,
+        "name": "Eagle ray skin"
+    },
+    "32839": {
+        "id": 32839,
+        "name": "Butterfly ray skin"
+    },
+    "32840": {
+        "id": 32840,
+        "name": "Stingray skin"
+    },
+    "32841": {
+        "id": 32841,
+        "name": "Manta ray skin"
+    },
+    "32842": {
+        "id": 32842,
+        "name": "Tern beak"
+    },
+    "32843": {
+        "id": 32843,
+        "name": "Osprey beak"
+    },
+    "32844": {
+        "id": 32844,
+        "name": "Frigatebird beak"
+    },
+    "32845": {
+        "id": 32845,
+        "name": "Albatross beak"
+    },
+    "32846": {
+        "id": 32846,
+        "name": "Mogre head"
+    },
+    "32847": {
+        "id": 32847,
+        "name": "Small salvage"
+    },
+    "32849": {
+        "id": 32849,
+        "name": "Fishy salvage"
+    },
+    "32851": {
+        "id": 32851,
+        "name": "Barracuda salvage"
+    },
+    "32853": {
+        "id": 32853,
+        "name": "Large salvage"
+    },
+    "32855": {
+        "id": 32855,
+        "name": "Plundered salvage"
+    },
+    "32857": {
+        "id": 32857,
+        "name": "Martial salvage"
+    },
+    "32859": {
+        "id": 32859,
+        "name": "Fremennik salvage"
+    },
+    "32861": {
+        "id": 32861,
+        "name": "Opulent salvage"
+    },
+    "32863": {
+        "id": 32863,
+        "name": "Rusty locket"
+    },
+    "32864": {
+        "id": 32864,
+        "name": "Mouldy block"
+    },
+    "32865": {
+        "id": 32865,
+        "name": "Dull knife"
+    },
+    "32866": {
+        "id": 32866,
+        "name": "Broken compass"
+    },
+    "32867": {
+        "id": 32867,
+        "name": "Rusty coin"
+    },
+    "32868": {
+        "id": 32868,
+        "name": "Broken sextant"
+    },
+    "32869": {
+        "id": 32869,
+        "name": "Mouldy doll"
+    },
+    "32870": {
+        "id": 32870,
+        "name": "Smashed mirror"
+    },
+    "32871": {
+        "id": 32871,
+        "name": "Antique lamp"
+    },
+    "32872": {
+        "id": 32872,
+        "name": "Antique lamp"
+    },
+    "32873": {
+        "id": 32873,
+        "name": "Antique lamp"
+    },
+    "32876": {
+        "id": 32876,
+        "name": "Aquanite tendon"
+    },
+    "32879": {
+        "id": 32879,
+        "name": "Aquanite hopper"
+    },
+    "32882": {
+        "id": 32882,
+        "name": "Reef snake gland"
+    },
+    "32884": {
+        "id": 32884,
+        "name": "Gryphon"
+    },
+    "32885": {
+        "id": 32885,
+        "name": "Aquanite"
+    },
+    "32886": {
+        "id": 32886,
+        "name": "Chain"
+    },
+    "32889": {
+        "id": 32889,
+        "name": "Lead bar"
+    },
+    "32892": {
+        "id": 32892,
+        "name": "Cupronickel bar"
+    },
+    "32895": {
+        "id": 32895,
+        "name": "Coin pouch"
+    },
+    "32896": {
+        "id": 32896,
+        "name": "Villager"
+    },
+    "32897": {
+        "id": 32897,
+        "name": "Pirate"
+    },
+    "32902": {
+        "id": 32902,
+        "name": "Jatoba logs"
+    },
+    "32904": {
+        "id": 32904,
+        "name": "Camphor logs"
+    },
+    "32907": {
+        "id": 32907,
+        "name": "Ironwood logs"
+    },
+    "32910": {
+        "id": 32910,
+        "name": "Rosewood logs"
+    },
+    "32921": {
+        "id": 32921,
+        "name": "Jar of feathers"
+    },
+    "32923": {
+        "id": 32923,
+        "name": "Steel nails"
+    },
+    "32924": {
+        "id": 32924,
+        "name": "Crate of arrowtips"
+    },
+    "32925": {
+        "id": 32925,
+        "name": "Crate of clothes"
+    },
+    "32928": {
+        "id": 32928,
+        "name": "Lovley jubbly bib"
+    },
+    "32930": {
+        "id": 32930,
+        "name": "Beer belly sweater"
+    },
+    "32932": {
+        "id": 32932,
+        "name": "Jad jumper"
+    },
+    "32934": {
+        "id": 32934,
+        "name": "Christmas dinner"
+    },
+    "32936": {
+        "id": 32936,
+        "name": "Crate of furs"
+    },
+    "32937": {
+        "id": 32937,
+        "name": "Crate of fish"
+    },
+    "32938": {
+        "id": 32938,
+        "name": "Crate of fish"
+    },
+    "32939": {
+        "id": 32939,
+        "name": "Crate of fish"
+    },
+    "32940": {
+        "id": 32940,
+        "name": "Crate of sand"
+    },
+    "32941": {
+        "id": 32941,
+        "name": "Crate of red coral"
+    },
+    "32942": {
+        "id": 32942,
+        "name": "Crate of fish"
+    },
+    "32943": {
+        "id": 32943,
+        "name": "Crate of spices"
+    },
+    "32944": {
+        "id": 32944,
+        "name": "Crate of jewellery"
+    },
+    "32945": {
+        "id": 32945,
+        "name": "Crate of bait"
+    },
+    "32946": {
+        "id": 32946,
+        "name": "Crate of coconuts"
+    },
+    "32947": {
+        "id": 32947,
+        "name": "Crate of arrowtips"
+    },
+    "32948": {
+        "id": 32948,
+        "name": "Crate of pineapples"
+    },
+    "32949": {
+        "id": 32949,
+        "name": "Crate of logs"
+    },
+    "32950": {
+        "id": 32950,
+        "name": "Crate of planks"
+    },
+    "32951": {
+        "id": 32951,
+        "name": "Crate of logs"
+    },
+    "32952": {
+        "id": 32952,
+        "name": "Crate of alpaca wool"
+    },
+    "32953": {
+        "id": 32953,
+        "name": "Crate of planks"
+    },
+    "32954": {
+        "id": 32954,
+        "name": "Crate of fabrics"
+    },
+    "32955": {
+        "id": 32955,
+        "name": "Crate of planks"
+    },
+    "32956": {
+        "id": 32956,
+        "name": "Crate of logs"
+    },
+    "32957": {
+        "id": 32957,
+        "name": "Crate of planks"
+    },
+    "32958": {
+        "id": 32958,
+        "name": "Crate of fish"
+    },
+    "32959": {
+        "id": 32959,
+        "name": "Crate of fish"
+    },
+    "32960": {
+        "id": 32960,
+        "name": "Crate of gems"
+    },
+    "32961": {
+        "id": 32961,
+        "name": "Crate of fish"
+    },
+    "32962": {
+        "id": 32962,
+        "name": "Crate of fish"
+    },
+    "32963": {
+        "id": 32963,
+        "name": "Crate of potions"
+    },
+    "32964": {
+        "id": 32964,
+        "name": "Crate of furs"
+    },
+    "32965": {
+        "id": 32965,
+        "name": "Crate of swamp paste"
+    },
+    "32966": {
+        "id": 32966,
+        "name": "Crate of planks"
+    },
+    "32967": {
+        "id": 32967,
+        "name": "Crate of books"
+    },
+    "32968": {
+        "id": 32968,
+        "name": "Crate of books"
+    },
+    "32969": {
+        "id": 32969,
+        "name": "Crate of jewellery"
+    },
+    "32970": {
+        "id": 32970,
+        "name": "Crate of jewellery"
+    },
+    "32971": {
+        "id": 32971,
+        "name": "Crate of planks"
+    },
+    "32972": {
+        "id": 32972,
+        "name": "Crate of furs"
+    },
+    "32973": {
+        "id": 32973,
+        "name": "Crate of fish"
+    },
+    "32974": {
+        "id": 32974,
+        "name": "Crate of fish"
+    },
+    "32975": {
+        "id": 32975,
+        "name": "Crate of silk"
+    },
+    "32976": {
+        "id": 32976,
+        "name": "Crate of fish"
+    },
+    "32977": {
+        "id": 32977,
+        "name": "Crate of logs"
+    },
+    "32978": {
+        "id": 32978,
+        "name": "Crate of swords"
+    },
+    "32979": {
+        "id": 32979,
+        "name": "Crate of fish"
+    },
+    "32980": {
+        "id": 32980,
+        "name": "Crate of fish"
+    },
+    "32981": {
+        "id": 32981,
+        "name": "Crate of seeds"
+    },
+    "32982": {
+        "id": 32982,
+        "name": "Crate of swords"
+    },
+    "32983": {
+        "id": 32983,
+        "name": "Crate of platebodies"
+    },
+    "32984": {
+        "id": 32984,
+        "name": "Crate of swords"
+    },
+    "32985": {
+        "id": 32985,
+        "name": "Crate of ores"
+    },
+    "32986": {
+        "id": 32986,
+        "name": "Crate of logs"
+    },
+    "32987": {
+        "id": 32987,
+        "name": "Crate of potions"
+    },
+    "32988": {
+        "id": 32988,
+        "name": "Crate of fish"
+    },
+    "32989": {
+        "id": 32989,
+        "name": "Crate of fish"
+    },
+    "32990": {
+        "id": 32990,
+        "name": "Crate of runes"
+    },
+    "32991": {
+        "id": 32991,
+        "name": "Crate of fish"
+    },
+    "32992": {
+        "id": 32992,
+        "name": "Crate of planks"
+    },
+    "32993": {
+        "id": 32993,
+        "name": "Crate of teak logs"
+    },
+    "32994": {
+        "id": 32994,
+        "name": "Crate of runes"
+    },
+    "32995": {
+        "id": 32995,
+        "name": "Crate of cocktails"
+    },
+    "32996": {
+        "id": 32996,
+        "name": "Crate of ship parts"
+    },
+    "32997": {
+        "id": 32997,
+        "name": "Crate of rum"
+    },
+    "32998": {
+        "id": 32998,
+        "name": "Crate of javelins"
+    },
+    "32999": {
+        "id": 32999,
+        "name": "Crate of potions"
+    },
+    "33000": {
+        "id": 33000,
+        "name": "Crate of ores"
+    },
+    "33001": {
+        "id": 33001,
+        "name": "Crate of potions"
+    },
+    "33002": {
+        "id": 33002,
+        "name": "Holy moleys"
+    },
+    "33004": {
+        "id": 33004,
+        "name": "Kharidian quest lamp"
+    },
+    "33005": {
+        "id": 33005,
+        "name": "Myreque quest lamp"
+    },
+    "33006": {
+        "id": 33006,
+        "name": "Dragonkin quest lamp"
+    },
+    "33007": {
+        "id": 33007,
+        "name": "Mahjarrat 2 quest lamp"
+    },
+    "33008": {
+        "id": 33008,
+        "name": "Camelot quest lamp"
+    },
+    "33009": {
+        "id": 33009,
+        "name": "Recipe for disaster quest lamp"
+    },
+    "33010": {
+        "id": 33010,
+        "name": "Ruinous powers"
+    },
+    "33012": {
+        "id": 33012,
+        "name": "Annihilation weapon scroll"
+    },
+    "33015": {
+        "id": 33015,
+        "name": "Annihilation blueprints"
+    },
+    "33018": {
+        "id": 33018,
+        "name": "Annihilation teleport scroll"
+    },
+    "33021": {
+        "id": 33021,
+        "name": "Bow of faerdhinen (c)"
+    },
+    "33023": {
+        "id": 33023,
+        "name": "Crystal body"
+    },
+    "33025": {
+        "id": 33025,
+        "name": "Crystal body (inactive)"
+    },
+    "33027": {
+        "id": 33027,
+        "name": "Crystal legs"
+    },
+    "33029": {
+        "id": 33029,
+        "name": "Crystal legs (inactive)"
+    },
+    "33031": {
+        "id": 33031,
+        "name": "Crystal helm"
+    },
+    "33033": {
+        "id": 33033,
+        "name": "Crystal helm (inactive)"
+    },
+    "33035": {
+        "id": 33035,
+        "name": "Toxic staff (uncharged)"
+    },
+    "33036": {
+        "id": 33036,
+        "name": "Toxic staff (deadman)"
+    },
+    "33038": {
+        "id": 33038,
+        "name": "The dogsword"
+    },
+    "33041": {
+        "id": 33041,
+        "name": "Thunder khopesh"
+    },
+    "33044": {
+        "id": 33044,
+        "name": "Trinket of avarice"
+    },
+    "33047": {
+        "id": 33047,
+        "name": "Trinket of fortuity (inactive)"
+    },
+    "33050": {
+        "id": 33050,
+        "name": "Trinket of fortuity (active)"
+    },
+    "33053": {
+        "id": 33053,
+        "name": "Sigil of the gods"
+    },
+    "33054": {
+        "id": 33054,
+        "name": "Sigil of the gods"
+    },
+    "33055": {
+        "id": 33055,
+        "name": "Sigil of conclusion"
+    },
+    "33056": {
+        "id": 33056,
+        "name": "Sigil of conclusion"
+    },
+    "33057": {
+        "id": 33057,
+        "name": "Sigil of automation"
+    },
+    "33058": {
+        "id": 33058,
+        "name": "Sigil of automation"
+    },
+    "33059": {
+        "id": 33059,
+        "name": "Sigil of eternal belief"
+    },
+    "33060": {
+        "id": 33060,
+        "name": "Sigil of eternal belief"
+    },
+    "33061": {
+        "id": 33061,
+        "name": "Sigil of efficiency"
+    },
+    "33062": {
+        "id": 33062,
+        "name": "Sigil of efficiency"
+    },
+    "33063": {
+        "id": 33063,
+        "name": "Starter cape"
+    },
+    "33065": {
+        "id": 33065,
+        "name": "Deadman's skull"
+    },
+    "33066": {
+        "id": 33066,
+        "name": "Hooded slayer helmet"
+    },
+    "33068": {
+        "id": 33068,
+        "name": "Hooded slayer helmet (i)"
+    },
+    "33070": {
+        "id": 33070,
+        "name": "Hooded slayer helmet (i)"
+    },
+    "33072": {
+        "id": 33072,
+        "name": "Hooded slayer helmet (i)"
+    },
+    "33074": {
+        "id": 33074,
+        "name": "Facility bottle (empty)"
+    },
+    "33077": {
+        "id": 33077,
+        "name": "Facility bottle (full)"
+    },
+    "33080": {
+        "id": 33080,
+        "name": "25th anniversary helmet"
+    },
+    "33082": {
+        "id": 33082,
+        "name": "25th anniversary warrior tabard"
+    },
+    "33084": {
+        "id": 33084,
+        "name": "25th anniversary skeleton tabard"
+    },
+    "33086": {
+        "id": 33086,
+        "name": "25th anniversary 5x5 hat"
+    },
+    "33089": {
+        "id": 33089,
+        "name": "Bottomless milk bucket"
+    },
+    "33091": {
+        "id": 33091,
+        "name": "Bottomless milk bucket (empty)"
+    },
+    "33093": {
+        "id": 33093,
+        "name": "Cow slippers"
+    },
+    "33096": {
+        "id": 33096,
+        "name": "Cow slippers"
+    },
+    "33097": {
+        "id": 33097,
+        "name": "Cow slippers"
+    },
+    "33098": {
+        "id": 33098,
+        "name": "Cow slippers"
+    },
+    "33099": {
+        "id": 33099,
+        "name": "Brutus slippers"
+    },
+    "33101": {
+        "id": 33101,
+        "name": "Mooleta"
+    },
+    "33103": {
+        "id": 33103,
+        "name": "Cowbell amulet"
+    },
+    "33104": {
+        "id": 33104,
+        "name": "Cowbell amulet"
+    },
+    "33106": {
+        "id": 33106,
+        "name": "Raw t-bone steak"
+    },
+    "33109": {
+        "id": 33109,
+        "name": "Cooked t-bone steak"
+    },
+    "33112": {
+        "id": 33112,
+        "name": "Burnt t-bone steak"
+    },
+    "33115": {
+        "id": 33115,
+        "name": "Bull bones"
+    },
+    "33117": {
+        "id": 33117,
+        "name": "Magic lamp"
+    },
+    "33118": {
+        "id": 33118,
+        "name": "Abyssal potato"
+    },
+    "33120": {
+        "id": 33120,
+        "name": "Perfected quetzal whistle(i)"
+    },
+    "33122": {
+        "id": 33122,
+        "name": "Annihilation exit portal blueprints"
+    },
+    "33124": {
+        "id": 33124,
+        "name": "Beef"
+    },
+    "33126": {
+        "id": 33126,
+        "name": "The groats principles"
+    },
+    "33128": {
+        "id": 33128,
+        "name": "Milk sample"
+    },
+    "33130": {
+        "id": 33130,
+        "name": "Milk sample"
+    },
+    "33132": {
+        "id": 33132,
+        "name": "Exit portal"
+    },
+    "33133": {
+        "id": 33133,
+        "name": "Pristine spider silk"
+    },
+    "33135": {
+        "id": 33135,
+        "name": "Silklined herb sack"
+    },
+    "33137": {
+        "id": 33137,
+        "name": "Open silklined herb sack"
+    },
+    "33142": {
+        "id": 33142,
+        "name": "Ballistic attractor"
+    },
+    "33143": {
+        "id": 33143,
+        "name": "Ballistic attractor schematic"
+    },
+    "33144": {
+        "id": 33144,
+        "name": "Veiled kraken tentacle"
+    },
+    "33145": {
+        "id": 33145,
+        "name": "Veiled kraken ink sac"
+    },
+    "33146": {
+        "id": 33146,
+        "name": "Scribbled notes"
+    },
+    "33147": {
+        "id": 33147,
+        "name": "Egg box"
+    },
+    "33148": {
+        "id": 33148,
+        "name": "Egg box"
+    },
+    "33149": {
+        "id": 33149,
+        "name": "Archibald"
+    },
+    "33151": {
+        "id": 33151,
+        "name": "Archibald"
+    },
+    "33153": {
+        "id": 33153,
+        "name": "Archibald"
+    },
+    "33155": {
+        "id": 33155,
+        "name": "Archibald"
+    },
+    "33157": {
+        "id": 33157,
+        "name": "Archibald"
+    },
+    "33159": {
+        "id": 33159,
+        "name": "Archibald"
+    },
+    "33161": {
+        "id": 33161,
+        "name": "Archibald"
+    },
+    "33163": {
+        "id": 33163,
+        "name": "Archibald"
+    },
+    "33166": {
+        "id": 33166,
+        "name": "Crystal body"
+    },
+    "33168": {
+        "id": 33168,
+        "name": "Crystal legs"
+    },
+    "33170": {
+        "id": 33170,
+        "name": "Crystal helm"
+    },
+    "33172": {
+        "id": 33172,
+        "name": "Avernic treads (max)"
+    },
+    "33174": {
+        "id": 33174,
+        "name": "Osmumten's fang"
+    },
+    "33176": {
+        "id": 33176,
+        "name": "Elidinis' ward (f)"
+    },
+    "33178": {
+        "id": 33178,
+        "name": "Noxious halberd"
+    },
+    "33180": {
+        "id": 33180,
+        "name": "Magus ring"
+    },
+    "33182": {
+        "id": 33182,
+        "name": "Ultor ring"
+    },
+    "33184": {
+        "id": 33184,
+        "name": "Purging staff"
+    },
+    "33186": {
+        "id": 33186,
+        "name": "Dragonfire shield"
+    },
+    "33188": {
+        "id": 33188,
+        "name": "Twisted buckler"
+    },
+    "33190": {
+        "id": 33190,
+        "name": "Masori body (f)"
+    },
+    "33192": {
+        "id": 33192,
+        "name": "Masori chaps (f)"
+    },
+    "33194": {
+        "id": 33194,
+        "name": "Torva platelegs"
+    },
+    "33196": {
+        "id": 33196,
+        "name": "Virtus robe top"
+    },
+    "33198": {
+        "id": 33198,
+        "name": "Virtus robe bottom"
+    },
+    "33200": {
+        "id": 33200,
+        "name": "Burning claws"
+    },
+    "33202": {
+        "id": 33202,
+        "name": "Aranea boots"
+    },
+    "33204": {
+        "id": 33204,
+        "name": "Bronze cannon"
+    },
+    "33205": {
+        "id": 33205,
+        "name": "Iron cannon"
+    },
+    "33206": {
+        "id": 33206,
+        "name": "Steel cannon"
+    },
+    "33207": {
+        "id": 33207,
+        "name": "Mithril cannon"
+    },
+    "33208": {
+        "id": 33208,
+        "name": "Adamant cannon"
+    },
+    "33209": {
+        "id": 33209,
+        "name": "Rune cannon"
+    },
+    "33210": {
+        "id": 33210,
+        "name": "Dragon cannon"
+    },
+    "33214": {
+        "id": 33214,
+        "name": "Cabbage"
+    },
+    "33216": {
+        "id": 33216,
+        "name": "Cabbage"
+    },
+    "33218": {
+        "id": 33218,
+        "name": "Knapsack"
+    },
+    "33220": {
+        "id": 33220,
+        "name": "Knapsack"
+    },
+    "33221": {
+        "id": 33221,
+        "name": "Barbarian arm"
+    },
+    "33227": {
+        "id": 33227,
+        "name": "Evil eye"
+    },
+    "33229": {
+        "id": 33229,
+        "name": "Transmutation ledger"
+    },
+    "33231": {
+        "id": 33231,
+        "name": "Soul shard"
+    },
+    "33233": {
+        "id": 33233,
+        "name": "Map of alacrity"
+    },
+    "33235": {
+        "id": 33235,
+        "name": "Clue contract"
+    },
+    "33237": {
+        "id": 33237,
+        "name": "Butler's bell"
+    },
+    "33239": {
+        "id": 33239,
+        "name": "Flask of fervour"
+    },
+    "33241": {
+        "id": 33241,
+        "name": "Flask of fervour"
+    },
+    "33243": {
+        "id": 33243,
+        "name": "Infernal tecpatl"
+    },
+    "33245": {
+        "id": 33245,
+        "name": "Nature's recurve"
+    },
+    "33247": {
+        "id": 33247,
+        "name": "V's helm"
+    },
+    "33249": {
+        "id": 33249,
+        "name": "Fang of the hound"
+    },
+    "33251": {
+        "id": 33251,
+        "name": "King's barrage"
+    },
+    "33253": {
+        "id": 33253,
+        "name": "Shadowflame quadrant"
+    },
+    "33255": {
+        "id": 33255,
+        "name": "Lithic sceptre"
+    },
+    "33257": {
+        "id": 33257,
+        "name": "Lithic sceptre (uncharged)"
+    },
+    "33260": {
+        "id": 33260,
+        "name": "Demonic hood (t1)"
+    },
+    "33263": {
+        "id": 33263,
+        "name": "Demonic robe top (t1)"
+    },
+    "33266": {
+        "id": 33266,
+        "name": "Demonic robe bottom (t1)"
+    },
+    "33269": {
+        "id": 33269,
+        "name": "Demonic boots (t1)"
+    },
+    "33272": {
+        "id": 33272,
+        "name": "Demonic hood (t2)"
+    },
+    "33275": {
+        "id": 33275,
+        "name": "Demonic robe top (t2)"
+    },
+    "33278": {
+        "id": 33278,
+        "name": "Demonic robe bottom (t2)"
+    },
+    "33281": {
+        "id": 33281,
+        "name": "Demonic boots (t2)"
+    },
+    "33284": {
+        "id": 33284,
+        "name": "Demonic hood (t3)"
+    },
+    "33287": {
+        "id": 33287,
+        "name": "Demonic robe top (t3)"
+    },
+    "33290": {
+        "id": 33290,
+        "name": "Demonic robe bottom (t3)"
+    },
+    "33293": {
+        "id": 33293,
+        "name": "Demonic boots (t3)"
+    },
+    "33296": {
+        "id": 33296,
+        "name": "Demonic sceptre"
+    },
+    "33299": {
+        "id": 33299,
+        "name": "Demonic pacts banner"
+    },
+    "33302": {
+        "id": 33302,
+        "name": "Demonic skin contract"
+    },
+    "33305": {
+        "id": 33305,
+        "name": "Demonic axe ornament kit"
+    },
+    "33308": {
+        "id": 33308,
+        "name": "Demonic staff ornament kit"
+    },
+    "33311": {
+        "id": 33311,
+        "name": "Demonic trident ornament kit"
+    },
+    "33314": {
+        "id": 33314,
+        "name": "Trident of the swamp (o)"
+    },
+    "33316": {
+        "id": 33316,
+        "name": "Uncharged toxic trident (o)"
+    },
+    "33318": {
+        "id": 33318,
+        "name": "Trident of the swamp (e) (o)"
+    },
+    "33320": {
+        "id": 33320,
+        "name": "Uncharged toxic trident (e) (o)"
+    },
+    "33322": {
+        "id": 33322,
+        "name": "Trident of the seas (o)"
+    },
+    "33323": {
+        "id": 33323,
+        "name": "Trident of the seas (full) (o)"
+    },
+    "33326": {
+        "id": 33326,
+        "name": "Trident of the seas (e) (o)"
+    },
+    "33328": {
+        "id": 33328,
+        "name": "Uncharged trident (e) (o)"
+    },
+    "33330": {
+        "id": 33330,
+        "name": "Iban's staff (o)"
+    },
+    "33332": {
+        "id": 33332,
+        "name": "Iban's staff (u) (o)"
+    },
+    "33333": {
+        "id": 33333,
+        "name": "Iban's staff (b)(o)"
+    },
+    "33335": {
+        "id": 33335,
+        "name": "Soulreaper axe (o)"
+    },
+    "33338": {
+        "id": 33338,
+        "name": "Oathplate slayer helmet"
+    },
+    "33340": {
+        "id": 33340,
+        "name": "Radiant slayer helmet"
+    },
+    "33342": {
+        "id": 33342,
+        "name": "Demonic quill"
+    },
+    "33345": {
+        "id": 33345,
+        "name": "Demonic pacts dragon trophy"
+    },
+    "33347": {
+        "id": 33347,
+        "name": "Demonic pacts rune trophy"
+    },
+    "33349": {
+        "id": 33349,
+        "name": "Demonic pacts adamant trophy"
+    },
+    "33351": {
+        "id": 33351,
+        "name": "Demonic pacts mithril trophy"
+    },
+    "33353": {
+        "id": 33353,
+        "name": "Demonic pacts steel trophy"
+    },
+    "33355": {
+        "id": 33355,
+        "name": "Demonic pacts iron trophy"
+    },
+    "33357": {
+        "id": 33357,
+        "name": "Demonic pacts bronze trophy"
+    },
+    "33359": {
+        "id": 33359,
+        "name": "Impish ritual scroll"
+    },
+    "33362": {
+        "id": 33362,
+        "name": "Demonic pacts throne scroll"
+    },
+    "33365": {
+        "id": 33365,
+        "name": "Impish whistle"
+    },
+    "33368": {
+        "id": 33368,
+        "name": "Demonic pacts demon butler scroll"
+    },
+    "33371": {
+        "id": 33371,
+        "name": "Mark of grace"
+    },
+    "33373": {
+        "id": 33373,
+        "name": "Demonic contractor throne"
+    },
+    "33378": {
+        "id": 33378,
+        "name": "Incoming damage modifier"
+    },
+    "33380": {
+        "id": 33380,
+        "name": "Incoming damage clamping"
+    },
+    "33382": {
+        "id": 33382,
+        "name": "Immaculate mole skin"
+    },
+    "33384": {
+        "id": 33384,
+        "name": "Gem pouch"
+    },
+    "33386": {
+        "id": 33386,
+        "name": "Open gem pouch"
+    },
+    "33387": {
+        "id": 33387,
+        "name": "Gem satchel"
+    },
+    "33389": {
+        "id": 33389,
+        "name": "Open gem satchel"
+    },
+    "33390": {
+        "id": 33390,
+        "name": "Gem tote"
+    },
+    "33392": {
+        "id": 33392,
+        "name": "Open gem tote"
+    },
+    "33393": {
+        "id": 33393,
+        "name": "Gem sack"
+    },
+    "33395": {
+        "id": 33395,
+        "name": "Open gem sack"
+    },
+    "33404": {
+        "id": 33404,
+        "name": "Granite cannonball"
+    },
+    "33420": {
+        "id": 33420,
+        "name": "Bosun's workbench"
+    },
+    "33421": {
+        "id": 33421,
+        "name": "Recoloured sail"
+    },
+    "33422": {
+        "id": 33422,
+        "name": "Dyes"
+    },
+    "33423": {
+        "id": 33423,
+        "name": "Bosun's workbench schematic"
+    },
+    "33424": {
+        "id": 33424,
+        "name": "Mission totem"
+    },
+    "33427": {
+        "id": 33427,
+        "name": "Spectator oculus"
+    },
+    "33428": {
+        "id": 33428,
+        "name": "Trinket of vengeance (2)"
+    },
+    "33431": {
+        "id": 33431,
+        "name": "Trinket of vengeance (1)"
+    },
+    "33434": {
+        "id": 33434,
+        "name": "Uncharged trident (o)"
+    },
+    "33437": {
+        "id": 33437,
+        "name": "Sulphurous fertiliser"
+    },
+    "33439": {
+        "id": 33439,
+        "name": "Oathplate slayer helmet (i)"
+    },
+    "33441": {
+        "id": 33441,
+        "name": "Oathplate slayer helmet (i)"
+    },
+    "33443": {
+        "id": 33443,
+        "name": "Oathplate slayer helmet (i)"
+    },
+    "33445": {
+        "id": 33445,
+        "name": "Radiant slayer helmet (i)"
+    },
+    "33447": {
+        "id": 33447,
+        "name": "Radiant slayer helmet (i)"
+    },
+    "33449": {
+        "id": 33449,
+        "name": "Radiant slayer helmet (i)"
+    },
+    "33451": {
+        "id": 33451,
+        "name": "Demonic pacts relic hunter (t1) armour set"
+    },
+    "33454": {
+        "id": 33454,
+        "name": "Demonic pacts relic hunter (t2) armour set"
+    },
+    "33457": {
+        "id": 33457,
+        "name": "Demonic pacts relic hunter (t3) armour set"
     }
 }

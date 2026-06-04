@@ -1,7 +1,7 @@
 {
     "id": 1228,
     "name": "Arzinian Avatar of Strength",
-    "last_updated": "2020-12-25",
+    "last_updated": "2026-06-04",
     "incomplete": true,
     "members": true,
     "release_date": "2005-03-21",
@@ -43,6 +43,6 @@
     "defence_slash": 20,
     "defence_crush": 20,
     "defence_magic": 15,
-    "defence_ranged": 80,
+    "defence_ranged": 0,
     "drops": []
 }

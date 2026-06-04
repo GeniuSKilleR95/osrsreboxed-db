@@ -1,7 +1,7 @@
 {
     "id": 28534,
     "name": "Corrupted dragon claws",
-    "last_updated": "2024-10-01",
+    "last_updated": "2026-06-04",
     "incomplete": false,
     "members": true,
     "tradeable": true,
@@ -40,7 +40,7 @@
         "defence_crush": 6,
         "defence_magic": 0,
         "defence_ranged": 0,
-        "melee_strength": 45,
+        "melee_strength": 48,
         "ranged_strength": 0,
         "magic_damage": 0,
         "prayer": 0,

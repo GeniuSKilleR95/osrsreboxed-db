@@ -1,7 +1,7 @@
 {
     "id": 2844,
     "name": "Magic axe",
-    "last_updated": "2021-09-24",
+    "last_updated": "2026-06-04",
     "incomplete": true,
     "members": true,
     "release_date": "2002-02-27",
@@ -47,7 +47,7 @@
     "defence_slash": 5,
     "defence_crush": 15,
     "defence_magic": 5,
-    "defence_ranged": 10,
+    "defence_ranged": 0,
     "drops": [
         {
             "id": 1363,

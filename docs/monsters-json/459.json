@@ -1,7 +1,7 @@
 {
     "id": 459,
     "name": "Desert Lizard",
-    "last_updated": "2024-10-01",
+    "last_updated": "2026-06-04",
     "incomplete": true,
     "members": true,
     "release_date": "2005-10-24",
@@ -49,7 +49,7 @@
     "defence_slash": 15,
     "defence_crush": 15,
     "defence_magic": 0,
-    "defence_ranged": 5,
+    "defence_ranged": 0,
     "drops": [
         {
             "id": 1623,

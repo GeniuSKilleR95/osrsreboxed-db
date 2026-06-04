@@ -1,7 +1,7 @@
 {
     "id": 1362,
     "name": "Slagilith",
-    "last_updated": "2020-12-25",
+    "last_updated": "2026-06-04",
     "incomplete": true,
     "members": true,
     "release_date": "2005-02-28",
@@ -26,8 +26,8 @@
     "slayer_masters": [],
     "duplicate": false,
     "examine": "This monster totally rocks!",
-    "wiki_name": "Slagilith (Normal)",
-    "wiki_url": "https://oldschool.runescape.wiki/w/Slagilith#Normal",
+    "wiki_name": "Slagilith",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Slagilith",
     "attack_level": 60,
     "strength_level": 120,
     "defence_level": 75,
@@ -43,7 +43,7 @@
     "defence_slash": 50,
     "defence_crush": 5,
     "defence_magic": 5,
-    "defence_ranged": 50,
+    "defence_ranged": 0,
     "drops": [
         {
             "id": 449,

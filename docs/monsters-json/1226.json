@@ -1,7 +1,7 @@
 {
     "id": 1226,
     "name": "Khazard Scorpion",
-    "last_updated": "2020-12-25",
+    "last_updated": "2026-06-04",
     "incomplete": true,
     "members": true,
     "release_date": "2002-07-23",
@@ -43,6 +43,6 @@
     "defence_slash": 15,
     "defence_crush": 15,
     "defence_magic": 0,
-    "defence_ranged": 5,
+    "defence_ranged": 0,
     "drops": []
 }
